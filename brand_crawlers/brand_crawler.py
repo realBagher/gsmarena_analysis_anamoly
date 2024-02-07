@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 import csv
 import json
 
-BRAND_NAME = 'Samsung'
+BRAND_NAME = 'Alcatel'
 
 with open('proxies.csv', 'r') as f:
     csv_reader = csv.reader(f)
@@ -45,11 +45,11 @@ def proxy_request(url, ip_addresses):
 file_path = 'urls.json'
 
 brand_list = [
-    # 'Apple118',
-    'Samsung1383',
-    # 'Xiaomi377',
-    # 'Huawei441',
-    # 'alcatel409',
+    # 'Apple118',  ##--> Done
+    # 'Samsung1383',  ##--> Done
+    # 'Xiaomi377',  ##--> Done
+    # 'Huawei441',  ##--> Done
+    'alcatel409',
     # 'Sony',
     # 'Sony158',
     # 'LG667',
