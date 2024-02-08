@@ -58,8 +58,8 @@ brand_list = [
     # 'Nokia576',  ##--> Done
     # 'BLU369',  ##--> Done
     # 'Infinix125',  ##--> Done
-    # 'HTC287',
-    'Asus203',
+    # 'HTC287',  ##--> Done
+    'Asus203',  # --> Done
 ]
 
 maker_brands = {}
