@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 import csv
 import json
 
-BRAND_NAME = 'Infinix'
+BRAND_NAME = 'HTC'
 
 with open('proxies.csv', 'r') as f:
     csv_reader = csv.reader(f)
@@ -57,8 +57,8 @@ brand_list = [
     # 'ZTE369',  ##--> Done
     # 'Nokia576',
     # 'BLU369',
-    'Infinix125',
-    # 'HTC287',
+    # 'Infinix125',
+    'HTC287',
     # 'Asus203',
 ]
 
