@@ -1,0 +1,370 @@
+Brand,Phone,2G,3G,4G,5G,GPRS,EDGE,LunchDate,Status,Weight,Body_x,Body_y,Body_z,DisplaySize,DisplayArea,pixel_y,pixel_x,Display_Resolution_ratio,ppi_dencity,OS,CPUCoreCount
+ZTE369,A261,True,False,False,False,False,False,2009,None,75.0,108.5,46.8,13.3,None,None,128,160,None,None,None,None
+ZTE369,Amigo,True,True,False,False,False,False,2011,"February. Released 2011, Q3",120.0,None,None,None,None,None,320,480,3:2,180,Android 2.2 ,None
+ZTE369,Anthem 4G,True,True,True,False,False,False,2012,"September. Released 2012, September",189.9,130.1,68.1,13.7,4.3,59.4,480,800,5:3,217,Android 2.3 ,2
+ZTE369,Avail,True,True,False,False,False,False,2011,"October. Released 2011, December",127.0,116,62,13,3.5,50.7,320,480,3:2,165,Android 2.3 ,None
+ZTE369,Avid 4G,True,True,True,False,False,False,2012,"December. Released 2012, December",148.8,124,65.5,11.9,4.0,56.1,480,800,5:3,233,Android 4.0 ,2
+ZTE369,Avid 559,True,True,True,False,False,False,2019,March,145.0,147,71.9,9.4,None,None,480,854,16:9,196,Android 8.1 ,4
+ZTE369,Avid 579,True,True,True,False,False,False,2020,June 24,160.0,147,71,9.6,None,None,720,1440,18:9,295,Android 10,4
+ZTE369,Avid 589,True,True,True,False,False,False,2021,November 18,167.0,142.2,70.9,7.9,None,None,720,1440,18:9,293,Android 11 ,8
+ZTE369,Avid Plus,True,True,True,False,False,False,2016,"January. Released 2016, January",164.4,144.8,72.9,10.9,5.0,65.3,480,854,16:9,196,Android 5.1 ,4
+ZTE369,Axon,True,True,True,False,False,False,2015,"October. Released 2015, October",169.8,153.9,73.7,9.4,5.5,73.5,1080,1920,16:9,401,Android 5.1.1 ,4
+ZTE369,Axon 10 Pro,True,True,True,False,False,False,2019,February,175.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 9.0 ,8
+ZTE369,Axon 10 Pro 5G,True,True,True,True,False,False,2019,February,175.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 9.0 ,8
+ZTE369,Axon 10s Pro 5G,True,True,True,True,False,False,2020,February 06,175.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 10,8
+ZTE369,Axon 11 4G,True,True,True,False,False,False,2020,June 04,168.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 10,8
+ZTE369,Axon 11 5G,True,True,True,True,False,False,2020,March 23,168.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 10,8
+ZTE369,Axon 11 SE 5G,True,True,True,True,False,False,2020,June 01,184.0,162.7,76.3,8.8,6.53,84.3,1080,2340,5:9,395,Android 10,8
+ZTE369,Axon 20 4G,True,True,True,False,False,False,2020,November 17,198.0,172.1,77.9,8,6.92,84.8,1080,2460,None,388,Android 10,8
+ZTE369,Axon 20 5G,True,True,True,True,False,False,2020,September 01,198.0,172.1,77.9,8,6.92,79.8,1080,2460,None,400,Android 10,8
+ZTE369,Axon 20 5G Extreme,True,True,True,True,False,False,2020,December 03,198.0,172.1,77.9,8,6.92,84.8,1080,2460,None,388,Android 10,8
+ZTE369,Axon 30 5G,True,True,True,True,False,False,2021,July 27,189.0,170.2,77.8,7.8,6.92,80.8,1080,2460,None,400,Android 11,8
+ZTE369,Axon 30 Pro 5G,True,True,True,True,False,False,2021,April 15,186.0,163.6,75.3,7.9,6.67,87.2,1080,2400,20:9,395,Android 11,8
+ZTE369,Axon 30 Ultra 5G,True,True,True,True,False,False,2021,April 15,188.0,161.5,73,8,6.67,91.1,1080,2400,20:9,395,Android 11,8
+ZTE369,Axon 30S,True,True,True,True,False,False,2022,September 26,189.0,170.2,77.8,7.8,6.92,80.8,1080,2460,None,400,Android 12,8
+ZTE369,Axon 40 Pro,True,True,True,True,False,False,2022,May 09,199.0,162.9,72.9,8.7,6.67,90.4,1080,2400,20:9,395,Android 12,8
+ZTE369,Axon 40 SE,True,True,True,False,False,False,2022,October 20,182.0,163.5,75.8,7.6,6.67,86.7,1080,2400,20:9,395,Android 12,8
+ZTE369,Axon 40 Ultra,True,True,True,True,False,False,2022,May 09,204.0,163.3,73.6,8.4,6.8,92.9,1116,2480,20:9,400,Android 12,8
+ZTE369,Axon 40 Ultra Space Edition,True,True,True,True,False,False,2022,November 29,204.0,163.3,73.6,8.4,6.8,92.9,1116,2480,20:9,400,Android 12,8
+ZTE369,Axon 50 Ultra,True,True,True,True,False,False,2023,April 12,199.0,161.8,73.1,8.9,6.67,90.8,1080,2400,20:9,395,Android 12,8
+ZTE369,Axon 7,True,True,True,False,False,False,2016,"May. Released 2016, June",175.0,151.7,75,7.9,5.5,72.2,1440,2560,16:9,538,Android 6.0.1 ,4
+ZTE369,Axon 7 Max,True,True,True,False,False,False,2016,"October. Released 2017, February",196.0,157,80.4,8.2,6.0,78.6,1080,1920,16:9,367,Android 6 ,8
+ZTE369,Axon 7 mini,True,True,True,False,False,False,2016,"September. Released 2016, October",153.0,147.5,71,7.8,5.2,71.5,1080,1920,16:9,423,Android 6.1 ,8
+ZTE369,Axon 7s,True,True,True,False,False,False,2017,"April. Released 2017, June",170.0,151.7,75,7.9,5.5,73.3,1440,2560,16:9,534,Android 7 ,4
+ZTE369,Axon 9 Pro,True,True,True,False,False,False,2018,August,179.0,156.5,74.5,7.9,6.21,83.3,1080,2248,None,402,Android 8.1 ,8
+ZTE369,Axon Elite,True,True,True,False,False,False,2015,"September. Released 2015, September",None,154,75,9.3,5.5,72.2,1080,1920,16:9,401,Android 5.0 ,8
+ZTE369,Axon Lux,True,True,True,False,False,False,2015,"July. Released 2015, November",168.0,154.5,75.3,9.7,5.5,71.7,1440,2560,16:9,534,Android 5.0.2 ,8
+ZTE369,Axon M,True,True,True,False,False,False,2017,October,230.0,150.9,71.6,12.2,5.2,68.3,1080,1920,16:9,426,Android 7.1.2 ,4
+ZTE369,Axon Max,True,True,True,False,True,True,2015,"December. Released 2015, December",188.0,160,80,7.5,6.0,77.5,1080,1920,16:9,367,Android 5.1 ,8
+ZTE369,Axon Pad,True,True,True,True,False,False,2023,April 12,605.0,279,181,6.5,12.1,84.1,1600,2560,16:10,249,Android 13,8
+ZTE369,Axon Pro,True,True,True,False,False,False,2015,"July. Released 2015, August",172.9,153.9,73.7,9.4,5.5,73.5,1440,2560,16:9,534,Android 5.1.1 ,8
+ZTE369,Axon Watch,False,False,False,False,False,False,2015,"July. Released 2015, October",49.0,42,42,11.5,None,None,400,400,None,404,Tencent OS,4
+ZTE369,Axon mini,True,True,True,False,False,False,2015,"October. Released 2015, November",140.0,143.5,70,7.9,5.2,74.2,1080,1920,16:9,424,Android 5.1.1 ,8
+ZTE369,Bingo,True,True,False,False,True,True,2010,"February. Released Exp. release 2010, Q1",None,None,None,None,None,None,240,320,4:3,125,None,None
+ZTE369,Blade,True,True,False,False,False,False,2010,"October. Released 2010, November",110.0,116,56.5,11.8,3.5,53.2,480,800,5:3,267,Android 2.1 ,None
+ZTE369,Blade 10 Prime,True,True,True,False,False,False,2019,November,165.0,158,75.2,7.9,6.3,83.4,1080,2280,19:9,400,Android 9.0 ,8
+ZTE369,Blade 11 Prime,True,True,True,False,False,False,2021,April 27,190.0,166,76,8.7,6.52,81.4,720,1600,20:9,269,Android 11,8
+ZTE369,Blade 20,True,True,True,False,False,False,2019,October,190.0,162.9,76.6,9,6.49,82.9,720,1560,5:9,265,Android 9.0 ,8
+ZTE369,Blade 20 5G,True,True,True,True,False,False,2020,November 05,188.0,165.9,75.8,8.9,6.52,81.6,720,1600,20:9,269,Android 10,8
+ZTE369,Blade 20 Pro 5G,True,True,True,True,False,False,2020,November 30,168.0,159.2,73.4,7.9,6.47,87.9,1080,2340,5:9,398,Android 10,8
+ZTE369,Blade A2,True,True,True,False,False,False,2016,"June. Released 2016, June",135.0,143.8,70.2,7.9,5.0,68.3,720,1280,16:9,294,Android 5.1 ,8
+ZTE369,Blade A2 Plus,True,True,True,False,False,False,2017,February,189.0,155,76.2,9.8,5.5,70.6,1080,1920,16:9,401,Android 6.0 ,8
+ZTE369,Blade A3,True,True,True,False,False,False,2017,November,164.0,152.4,75.8,8.2,5.5,72.2,720,1280,16:9,267,Android 7.1 ,4
+ZTE369,Blade A3 (2019),True,True,True,False,False,False,2019,April,144.0,137.4,67.5,10.5,5.0,69.6,480,960,18:9,215,Android 9.0 Pie ,4
+ZTE369,Blade A3 Joy,True,True,True,False,False,False,2020,June,162.0,142.2,63.2,7.9,5.5,86.9,720,1440,18:9,293,Android 10,4
+ZTE369,Blade A3 Plus,True,True,True,False,False,False,2022,January,188.0,137,68,10.5,5.0,69.3,480,960,18:9,215,Android 11 ,4
+ZTE369,Blade A3 Prime,True,True,True,False,False,False,2020,June,163.0,146,71,9.7,5.45,73.9,720,1440,18:9,295,Android 10,4
+ZTE369,Blade A31,True,True,True,False,False,False,2021,July 13,166.0,140,71,8.9,5.45,77.1,720,1440,18:9,295,Android 11 ,8
+ZTE369,Blade A31 Lite,True,True,True,False,False,False,2021,June,143.0,137.3,67.5,10.5,5.0,69.6,480,960,18:9,215,Android 11 ,4
+ZTE369,Blade A31 Plus,True,True,True,False,False,False,2021,October 31,None,159.2,77.5,9.6,6.0,75.3,480,960,18:9,179,Android 11 ,8
+ZTE369,Blade A3Y,True,True,True,False,False,False,2020,October 30,162.0,146,71,9.7,5.5,75.3,720,1440,18:9,293,Android 10,4
+ZTE369,Blade A410,True,True,True,False,False,False,2015,"June. Released 2015, June",131.0,126,64,10.2,4.0,56.5,480,800,5:3,233,Android 5.1 ,4
+ZTE369,Blade A452,True,True,True,False,False,False,2016,"Q1. Released 2016, Q1",159.0,145,71.5,8.9,5.0,66.5,720,1280,16:9,294,Android 5.1 ,4
+ZTE369,Blade A460,True,True,True,False,False,False,2015,"June. Released 2015, July",None,145.5,72.8,9.4,5.0,65.0,480,854,16:9,196,Android 5.1 ,4
+ZTE369,Blade A5 (2019),True,True,True,False,False,False,2019,May,157.0,145.8,70,9.6,5.45,75.1,720,1440,18:9,295,Android 9.0 ,8
+ZTE369,Blade A5 2020,True,True,True,False,False,False,2020,July 16,155.0,156.7,72.6,8,6.09,80.0,720,1560,5:9,282,Android 9.0/ Android 10 ,8
+ZTE369,Blade A51,True,True,True,False,False,False,2021,May 08,173.7,166.5,75.6,8.5,6.52,81.5,720,1600,20:9,269,Android 11 ,8
+ZTE369,Blade A512,True,True,True,False,False,False,2016,"July. Released 2016, July",130.0,164.3,71.6,7.6,5.2,63.4,720,1280,16:9,282,Android 6.0 ,4
+ZTE369,Blade A52,True,True,True,False,False,False,2022,June 10,214.0,168,77.5,9.4,6.52,78.8,720,1600,20:9,269,Android 11,8
+ZTE369,Blade A52 Lite,True,True,True,False,False,False,2022,August 20,188.0,164.8,75.9,8.6,6.52,82.1,720,1600,20:9,269,Android 11 ,8
+ZTE369,Blade A520,True,True,True,False,False,False,2017,March,130.0,144,71,8.4,5.0,67.4,720,1280,16:9,294,Android 7.0 ,4
+ZTE369,Blade A54,True,True,True,False,False,False,2023,September,185.0,164,75.8,8.5,6.6,84.2,720,1612,20:9,267,Android 13,8
+ZTE369,Blade A6,True,True,True,False,False,False,2017,August,160.0,147,71,8.5,5.2,71.4,720,1280,16:9,282,Android 7.1 ,8
+ZTE369,Blade A601,True,True,True,False,False,False,2016,June,152.0,145,71.2,9.5,5.0,66.8,720,1280,16:9,294,Android 6.0 ,4
+ZTE369,Blade A610,True,True,True,False,False,False,2016,"August. Released 2016, September",None,145,71,8.2,5.0,66.9,720,1280,16:9,294,Android 6.0 ,4
+ZTE369,Blade A7,True,True,True,False,False,False,2019,May,146.0,154,72.8,7.9,6.09,81.2,720,1560,5:9,282,Android 9.0 ,8
+ZTE369,Blade A7 Prime,True,True,True,False,False,False,2019,November,165.0,156.7,72.9,8.1,6.09,79.7,720,1560,5:9,282,Android 9.0 ,4
+ZTE369,Blade A7 Vita,True,True,True,False,False,False,2018,December,135.0,147,69.5,7.9,5.45,75.0,720,1440,18:9,295,Android 8.1 ,4
+ZTE369,Blade A71,True,True,True,False,False,False,2021,October 07,180.0,165.2,75.2,8.2,6.52,82.6,720,1600,20:9,269,Android 11,8
+ZTE369,Blade A72,True,True,True,False,False,False,2022,June 10,214.0,168,77.5,9.4,6.75,84.5,1080,2400,20:9,390,Android 11,8
+ZTE369,Blade A72 5G,True,True,True,True,False,False,2022,June 10,211.0,164,75.5,9.2,6.52,82.9,720,1600,20:9,269,Android 11,8
+ZTE369,Blade A72s,True,True,True,False,False,False,2022,June 19,198.0,168,77.5,8.6,6.75,84.5,720,1600,20:9,260,Android 12,8
+ZTE369,Blade A73,True,True,True,False,False,False,2023,August 31,190.0,165,76.1,8.4,6.6,83.3,720,1612,20:9,267,Android 13,8
+ZTE369,Blade A73 5G,True,True,True,True,False,False,2023,August 10,197.0,163.5,75.2,8.5,6.52,83.5,720,1600,20:9,269,Android 13,8
+ZTE369,Blade A7P,True,True,True,False,False,False,2021,December,170.0,165.2,75.2,8.3,6.52,82.6,720,1600,20:9,269,Android 11,8
+ZTE369,Blade A7s 2020,True,True,True,False,False,False,2020,November 03,182.0,164.7,77.4,8.2,6.5,81.4,720,1560,5:9,264,Android 10,8
+ZTE369,Blade A910,True,True,True,False,False,False,2016,April,135.0,154,79,6.9,5.5,68.5,720,1280,16:9,267,Android 6.0 ,4
+ZTE369,Blade Apex 3,True,True,True,False,False,False,2015,"June. Released 2015, June",149.0,134.4,67,9.6,4.5,62.0,480,854,16:9,218,Android 4.4.2 ,4
+ZTE369,Blade C V807,True,True,False,False,False,False,2013,"January. Released 2013, April",None,124,64,11,4.0,57.4,480,800,5:3,233,Android 4.1 ,2
+ZTE369,Blade D6,True,True,True,False,False,False,2015,"July. Released 2015, August",122.0,142,69.5,6.8,5.0,69.8,720,1280,16:9,294,Android 5.0.2 ,4
+ZTE369,Blade Force,True,True,True,False,False,False,2017,October,170.1,156,78,9.1,5.5,68.5,720,1280,16:9,267,Android 7.1.1 ,4
+ZTE369,Blade G,True,True,False,False,False,False,2015,"February. Released 2015, February",120.0,125,64,9.8,4.0,56.9,480,800,5:3,233,Android 4.4.2 ,2
+ZTE369,Blade G Lux,True,True,False,False,False,False,2015,"February. Released 2015, February",135.0,132,66,9.1,4.5,64.1,480,854,16:9,218,Android 4.4.2 ,2
+ZTE369,Blade G V880G,True,True,False,False,False,False,2013,"April. Released 2013, April",140.0,133,67,9.2,4.5,62.6,480,854,16:9,218,Android 4.1.2 ,2
+ZTE369,Blade G2,True,True,False,False,False,False,2013,"July. Released 2013, September",145.0,133,66,9.9,4.5,63.6,480,854,16:9,218,Android 4.2.1 ,4
+ZTE369,Blade II V880+,True,True,False,False,False,False,2012,"February. Released 2012, March",117.4,115.1,57.9,10.9,3.5,52.3,480,800,5:3,267,Android 2.3.6 ,None
+ZTE369,Blade III,True,True,False,False,False,False,2012,"September. Released 2012, September",130.0,123,63.5,10,4.0,58.3,480,800,5:3,233,Android 4.0 ,None
+ZTE369,Blade III Pro,True,True,False,False,False,False,2013,"April. Released 2013, May",None,None,None,None,None,None,480,800,5:3,233,Android 4.1 ,2
+ZTE369,Blade L110 (A110),True,True,True,False,False,False,2016,July,110.0,125,64.4,10.4,4.0,56.6,480,800,5:3,233,Android 5.1 ,4
+ZTE369,Blade L2,True,True,False,False,False,False,2014,"May. Released 2014, May",166.0,142.5,72.2,9,5.0,67.0,480,854,16:9,196,Android 4.2 ,4
+ZTE369,Blade L3,True,True,False,False,False,False,2015,"February. Released 2015, May",None,142.5,72.5,8.6,5.0,66.7,480,854,16:9,196,Android 4.4 or Android 5.0 ,4
+ZTE369,Blade L3 Plus,True,True,False,False,False,False,2015,"March. Released 2015, April",150.0,139.8,71,9,5.0,69.4,720,1280,16:9,294,Android 4.4.2 ,4
+ZTE369,Blade L5 Plus,True,True,False,False,False,False,2016,"April. Released 2016, April",160.0,143,72,8.3,5.0,66.9,720,1280,16:9,294,Android 5.1 ,4
+ZTE369,Blade L8,True,True,False,False,False,False,2019,April,144.0,137.4,67.5,10.5,5.0,69.6,480,960,18:9,215,Android 9.0 Pie ,4
+ZTE369,Blade L9,True,True,False,False,False,False,2021,October 10,143.0,137.5,67.5,10,5.0,69.5,480,960,18:9,215,Android 11 ,4
+ZTE369,Blade Max View,True,True,True,False,False,False,2019,None,160.0,163.1,74.9,8.1,6.0,76.0,1080,2160,18:9,402,Android 7.1.1 ,8
+ZTE369,Blade Q,True,True,False,False,False,False,2013,"October. Released 2014, January",140.0,135.5,67.8,9.8,4.5,60.7,480,854,16:9,218,Android 4.2 ,2
+ZTE369,Blade Q Maxi,True,True,False,False,False,False,2013,"October. Released 2014, January",130.0,143,72,9.1,5.0,66.9,480,854,16:9,196,Android 4.2 ,2
+ZTE369,Blade Q Mini,True,True,False,False,False,False,2013,"October. Released 2014, January",126.0,125.5,63.9,8.9,4.0,56.8,480,800,5:3,233,Android 4.2 ,2
+ZTE369,Blade Q Pro,True,True,False,False,False,False,2015,None,166.0,134.5,67.5,9.5,4.5,61.5,480,854,16:9,218,Android 5.0 ,4
+ZTE369,Blade Qlux 4G,True,True,True,False,False,False,2015,"June. Released 2015, June",154.0,134.5,67.4,10.3,4.5,61.6,480,854,16:9,218,Android 4.4.4 ,4
+ZTE369,Blade S6,True,True,True,False,False,False,2015,"January. Released 2015, February",154.0,144,70.7,7.7,5.0,67.7,720,1280,16:9,294,Android 5.1 ,8
+ZTE369,Blade S6 Plus,True,True,True,False,False,False,2015,"April. Released 2015, April",139.3,155,78,7.7,5.5,69.0,720,1280,16:9,267,Android 5.2 ,8
+ZTE369,Blade S7,True,True,True,False,False,False,2015,"October. Released 2015, October",131.0,142,67,7.2,5.0,72.4,1080,1920,16:9,441,Android 5.1 ,8
+ZTE369,Blade V,True,True,False,False,False,False,2013,"September. Released 2013, October",130.0,126,64,10.9,4.0,56.5,480,800,5:3,233,Android 4.1 ,4
+ZTE369,Blade V Plus,True,True,True,False,False,False,2016,"January. Released 2016, February",164.0,155.3,77.2,8.6,5.5,69.6,1080,1920,16:9,401,Android 5.1.1 ,8
+ZTE369,Blade V10,True,True,True,False,False,False,2019,February,156.0,157.8,75.2,7.8,6.3,83.5,1080,2280,19:9,400,Android 9.0 ,8
+ZTE369,Blade V10 Vita,True,True,True,False,False,False,2019,February,150.0,157.1,75.8,8.1,6.26,82.1,720,1520,19:9,269,Android 9.0 ,8
+ZTE369,Blade V20,True,True,True,False,False,False,None,None,None,None,None,None,None,None,720,1560,5:9,282,Android 9.0 ,8
+ZTE369,Blade V2020 5G,True,True,True,True,False,False,2020,October 22,184.0,162.7,76.3,8.8,6.53,84.3,1080,2340,5:9,395,Android 10,8
+ZTE369,Blade V30,True,True,True,False,False,False,2021,July 16,193.0,165.8,77.8,8.9,6.67,83.3,1080,2400,20:9,395,Android 11,8
+ZTE369,Blade V30 Vita,True,True,True,False,False,False,2021,July 16,210.0,173,78.1,8.9,6.82,102.0,720,1640,3:2,288,Android 11,8
+ZTE369,Blade V40,True,True,True,True,False,False,2022,February 28,None,None,None,None,None,None,1080,2400,20:9,395,Android 12,8
+ZTE369,Blade V40 Design,True,True,True,False,False,False,2022,December 21,183.4,163,74,8,6.6,87.0,1080,2408,20:9,400,Android 12,8
+ZTE369,Blade V40 Pro,True,True,True,False,False,False,2022,March 01,190.0,163.9,76.2,8.3,6.67,86.0,1080,2400,20:9,395,Android 11,8
+ZTE369,Blade V40 Vita,True,True,True,False,False,False,2022,May 31,214.3,168,77.5,9.4,6.75,84.5,720,1600,20:9,260,Android 12,8
+ZTE369,Blade V40s,True,True,True,False,False,False,2022,October 04,184.0,163.5,75.8,7.6,6.67,86.7,1080,2400,20:9,395,Android 12,8
+ZTE369,Blade V41 Vita,True,True,True,True,False,False,2022,December 07,None,None,None,None,None,None,1080,2408,20:9,400,Android 12,8
+ZTE369,Blade V50,True,True,True,True,False,False,2023,September,178.0,161.9,72.8,8,6.67,91.1,1080,2400,20:9,395,Android 13,8
+ZTE369,Blade V50 Design,True,True,True,True,False,False,2023,July 20,None,None,None,None,None,None,1080,2408,20:9,400,Android 13,8
+ZTE369,Blade V50 Design 4G,True,True,True,False,False,False,2023,October,207.0,165,76.1,8.3,6.6,83.6,1080,2408,20:9,400,Android 13,8
+ZTE369,Blade V50 Vita,True,True,True,False,False,False,2023,September,204.0,167.4,76,8.3,6.75,86.5,720,1600,20:9,260,Android 13,8
+ZTE369,Blade V7,True,True,True,False,False,False,2016,February,136.0,146,72.5,7.5,5.2,70.4,1080,1920,16:9,424,Android 6.0 ,8
+ZTE369,Blade V7 Lite,True,True,True,False,False,False,2016,February,135.0,143.8,70.2,7.9,5.0,68.3,720,1280,16:9,294,Android 6.0 ,4
+ZTE369,Blade V7 Max,True,True,True,False,False,False,2016,"April. Released 2016, August",None,154,76.5,7.2,5.5,70.8,1080,1920,16:9,401,Android 6.0.1 ,8
+ZTE369,Blade V7 Plus,True,True,True,False,False,False,2017,July,136.0,146,72.5,8,5.2,70.4,1080,1920,16:9,424,Android 6.0 ,8
+ZTE369,Blade V8,True,True,True,False,False,False,2017,January,141.0,148.4,71.5,7.7,5.2,70.3,1080,1920,16:9,424,Android 7.0 ,8
+ZTE369,Blade V8 Lite,True,True,True,False,False,False,2017,February,136.0,143,71,8,5.0,67.9,720,1280,16:9,294,Android 7.0 ,8
+ZTE369,Blade V8 Mini,True,True,True,False,False,False,2017,February,141.0,143.5,70,8.9,5.0,68.6,720,1280,16:9,294,Android 7.0 ,8
+ZTE369,Blade V8 Pro,True,True,True,False,False,False,2017,January,185.0,156,77,9.1,5.5,69.4,1080,1920,16:9,401,Android 6.0.1 ,8
+ZTE369,Blade V9,True,True,True,False,False,False,2018,February,140.0,151.4,70.6,7.5,5.7,78.4,1080,2160,18:9,424,Android 8.1 ,8
+ZTE369,Blade V9 Vita,True,True,True,False,False,False,2018,February,135.0,146.8,68.7,7.6,5.45,76.0,720,1440,18:9,295,Android 8.1 ,8
+ZTE369,Blade Vantage 2,True,True,True,False,False,False,2019,October,None,137,68,10.5,5.0,69.3,480,960,18:9,215,Android 9.0 ,4
+ZTE369,Blade Vec 3G,True,True,False,False,False,False,2014,"September. Released 2014, November",None,139.3,69.8,7.8,5.0,70.9,720,1280,16:9,294,Android 4.4.2 ,4
+ZTE369,Blade Vec 4G,True,True,True,False,False,False,2014,"September. Released 2014, November",None,142.3,70.4,7.8,5.0,68.8,720,1280,16:9,294,Android 4.4.2 ,4
+ZTE369,Blade X,True,True,True,False,False,False,2017,October,156.0,156,77.5,8.9,5.5,69.0,720,1280,16:9,267,Android 7.1.1 ,4
+ZTE369,Blade X1 5G,True,True,True,True,False,False,2021,January 26,190.0,164,76,9.2,6.5,83.2,1080,2340,5:9,396,Android 10,8
+ZTE369,Blade X3,True,True,True,False,False,False,2015,"November. Released 2015, November",160.9,145,71.5,8.9,5.0,66.5,720,1280,16:9,294,Android 5.1 ,4
+ZTE369,Blade X5,True,True,True,False,False,False,2015,"November. Released 2015, November",129.0,142,70.4,8.9,5.0,68.9,720,1280,16:9,294,Android 5.1 ,4
+ZTE369,Blade X9,True,True,True,False,False,False,2015,"November. Released 2015, December",160.0,155.3,77.2,8.6,5.5,69.6,1080,1920,16:9,401,Android 5.1 ,8
+ZTE369,Blade Z Max,True,True,True,False,False,False,2017,"August. Released 2017, August",175.0,166.1,84.6,8.4,6.0,70.6,1080,1920,16:9,367,Android 7.1.1 ,8
+ZTE369,Boost Max+,True,True,True,False,True,True,2015,"July. Released 2015, July",194.8,165.1,82.6,10.2,5.7,65.7,720,1280,16:9,258,Android 5.1 ,4
+ZTE369,Chorus,True,True,False,False,False,False,2011,"November. Released 2011, November",105.0,111,57,14.8,3.2,46.1,240,400,5:3,146,None,None
+ZTE369,Coral200 Sollar,True,False,False,False,False,False,2007,May. Released 2007,85.0,106,45.6,18.1,None,None,128,128,1:1,None,None,None
+ZTE369,Cymbal 2,True,True,True,False,False,False,2020,January,135.0,109,56,19.5,2.8,39.8,240,320,4:3,143,Linux 3.18.71,4
+ZTE369,Cymbal U,True,True,True,False,False,False,2021,January,None,109.2,55.9,19.5,2.8,39.8,240,320,4:3,143,Proprietary,4
+ZTE369,Director,True,True,False,False,False,False,2013,"April. Released 2013, April",140.0,118.1,62.5,12.2,3.5,49.4,320,480,3:2,165,Android 4.0 ,None
+ZTE369,E N72,True,True,False,False,False,False,2010,"August. Released 2010, August",130.0,114,66,11.9,2.5,25.7,320,240,4:3,160,Microsoft Windows Mobile Professional,None
+ZTE369,E811,True,False,False,False,True,True,2009,April,130.0,113,65.4,14.5,2.5,26.2,320,240,4:3,160,None,None
+ZTE369,Era,True,True,False,False,False,False,2012,"February. Released 2012, December",None,None,None,None,4.3,54.3,540,960,16:9,256,Android 4.0 ,4
+ZTE369,F100,True,True,False,False,False,False,2009,None,90.0,105,46,12.6,2.0,26.1,176,220,None,141,None,None
+ZTE369,F101,True,True,False,False,False,False,2009,None,90.0,105,46,12.6,2.0,26.1,176,220,None,141,None,None
+ZTE369,F103,True,True,False,False,False,False,2009,None,90.0,105,46,12.6,2.0,26.1,176,220,None,141,None,None
+ZTE369,F107,True,True,False,False,False,False,2010,None,90.0,105.7,46,12.6,2.0,25.9,176,220,None,141,None,None
+ZTE369,F233,True,True,False,False,False,False,2009,May,90.0,94,48,18.9,2.0,27.9,176,220,None,141,None,None
+ZTE369,F600,True,True,False,False,False,False,2009,None,90.0,103,48,13.5,2.4,36.1,240,320,4:3,167,None,None
+ZTE369,F870,True,True,False,False,False,False,2009,None,100.0,108,55.5,12.6,3.2,48.6,240,400,5:3,146,None,None
+ZTE369,F912,True,True,False,False,False,False,2008,"January. Released 2008, January",None,105,51.8,21,2.2,27.6,240,320,4:3,182,None,None
+ZTE369,F928,True,True,False,False,False,False,2008,"September. Released 2008, September",100.0,103,51.5,17.6,None,None,240,320,4:3,None,None,None
+ZTE369,F951,True,True,False,False,False,False,2010,None,100.0,108,55.5,12.6,3.2,48.6,240,400,5:3,146,None,None
+ZTE369,F952,True,True,False,False,False,False,2009,None,100.0,108,55.5,12.6,3.2,48.6,240,400,5:3,146,None,None
+ZTE369,FTV Phone,True,True,False,False,False,False,2011,"November. Released 2011, December",110.0,116,56.5,11.8,3.5,53.2,480,800,5:3,267,Android 2.2 ,None
+ZTE369,Flash,True,True,True,False,False,False,2012,"November. Released 2012, November",142.0,133.9,65.7,9.7,4.5,63.5,720,1280,16:9,326,Android 4.0.4 ,2
+ZTE369,Gabb Z2,True,True,True,False,False,False,2020,August,162.0,147,71,9.7,5.45,73.4,720,1440,18:9,295,Android 10,4
+ZTE369,Geek V975,True,True,False,False,False,False,2013,"April. Released 2013, August",148.0,145,70,9.5,5.0,67.9,720,1280,16:9,294,Android 4.2.2 ,2
+ZTE369,Grand Era U895,True,True,False,False,False,False,2012,"September. Released 2012, September",110.0,133,66,8.6,4.5,63.6,720,1280,16:9,326,Android 4.0 ,4
+ZTE369,Grand Memo II LTE,True,True,True,False,False,False,2014,"February. Released 2014, May",None,161.5,83,7.2,6.0,74.0,720,1280,16:9,245,Android 4.4.2 ,4
+ZTE369,Grand Memo V9815,True,True,True,False,False,False,2013,"February. Released 2013, March",189.0,159.9,82.6,8.5,5.7,67.8,720,1280,16:9,258,Android 4.1.2 ,4
+ZTE369,Grand S,True,True,True,False,False,False,2013,"January. Released 2013, March",110.0,142,70,6.9,5.0,69.3,1080,1920,16:9,441,Android 4.1 ,4
+ZTE369,Grand S Flex,True,True,True,False,True,True,2013,"November. Released 2013, November",130.0,143,70,8.9,5.0,68.9,720,1280,16:9,294,Android 4.1 ,2
+ZTE369,Grand S II,True,True,False,False,False,False,2014,"December. Released 2014, December",120.0,157,77,7.9,5.5,69.0,1080,1920,16:9,401,Android 4.2 ,4
+ZTE369,Grand S II S291,True,True,True,False,False,False,2014,"January. Released 2014, April",150.0,157,77,9.1,5.5,69.0,1080,1920,16:9,401,Android 4.3 ,4
+ZTE369,Grand S Pro,True,True,True,False,False,False,2014,"June. Released 2014, June",155.4,142.2,71.1,10.2,5.0,68.2,720,1280,16:9,294,Android 4.3 ,4
+ZTE369,Grand S3,True,True,True,False,False,False,2015,"March. Released 2015, March",None,155,77,9.8,5.5,69.9,1080,1920,16:9,401,Android 4.4 ,4
+ZTE369,Grand X 3,True,True,True,False,False,False,2016,"January. Released 2016, January",170.1,154.2,76,9.4,5.5,71.2,720,1280,16:9,267,Android 5.1.1 ,4
+ZTE369,Grand X IN,True,True,False,False,False,False,2012,"August. Released 2012, September",140.8,127,65,9.9,4.3,61.7,540,960,16:9,256,Android 4.0 ,None
+ZTE369,Grand X LTE T82,True,True,True,False,False,False,2012,"July. Released 2012, November",151.0,130.9,65,11.2,4.3,59.9,540,960,16:9,256,Android 4.0 ,2
+ZTE369,Grand X Max 2,True,True,True,False,True,True,2016,"May. Released 2016, May",None,164.1,83.8,8.9,6.0,72.2,1080,1920,16:9,367,Android 6.0 ,8
+ZTE369,Grand X Max+,True,True,True,False,False,False,2015,"January. Released 2015, January",171.8,162.1,83.1,7.9,6.0,73.7,720,1280,16:9,245,Android 4.4.4 ,4
+ZTE369,Grand X Plus Z826,True,True,True,False,False,False,2014,"December. Released 2014, December",150.0,144.6,73.9,9.6,5.0,64.5,720,1280,16:9,294,Android 4.4 ,4
+ZTE369,Grand X Pro,True,True,False,False,False,False,2013,"March. Released 2013, April",146.0,132.6,64.4,9.4,4.5,65.4,720,1280,16:9,326,Android 4.0 ,2
+ZTE369,Grand X Quad V987,True,True,False,False,True,True,2013,"June. Released 2013, July",163.0,141,70,8.9,5.0,69.8,720,1280,16:9,294,Android 4.1.2 ,4
+ZTE369,Grand X V970,True,True,False,False,False,False,2012,"February. Released 2012, July",110.0,127.4,65,9.9,4.3,61.6,540,960,16:9,256,Android 4.0 ,2
+ZTE369,Grand X View 2,True,True,True,False,False,False,2017,July,330.0,215,125,9.4,8.0,69.1,800,1280,16:10,189,Android 7.1.1 ,4
+ZTE369,Grand X2,True,True,True,False,False,False,2015,"August. Released 2015, August",145.0,145,72.8,9.3,5.0,65.3,720,1280,16:9,294,Android 5.1 ,4
+ZTE369,Grand X2 In,True,True,False,False,True,True,2013,"May. Released 2013, Q3",None,None,None,None,None,None,720,1280,16:9,326,Android 4.1 ,2
+ZTE369,Grand X4,True,True,True,False,False,False,2016,September,162.0,155.2,77,9.1,5.5,69.8,720,1280,16:9,267,Android 6.0.1 ,4
+ZTE369,Grand Xmax,True,True,False,False,False,False,2014,"October. Released 2014, October",171.8,162.1,83.1,7.9,6.0,73.7,720,1280,16:9,245,Android 4.4.2 ,4
+ZTE369,Groove X501,True,True,False,False,False,False,2012,"November. Released 2012, November",127.6,118.6,62.5,13.9,3.2,41.1,320,480,3:2,180,Android 2.3 ,None
+ZTE369,Hawkeye,True,True,True,False,False,False,2017,January,None,154,76,7.9,5.5,71.3,1080,1920,16:9,401,Android 7.0 ,8
+ZTE369,Iconic Phablet,True,True,True,False,False,False,2014,"January. Released 2014, Q1",None,160,81.3,9.4,5.7,68.9,720,1280,16:9,258,Android 4.3 ,None
+ZTE369,Imperial,True,True,True,False,False,False,2013,"June. Released 2013, June",153.4,None,None,None,4.0,57.9,480,800,5:3,233,Android 4.1 ,2
+ZTE369,Imperial II,True,True,True,False,True,True,2015,"January. Released 2015, January",143.7,142.2,71.1,10.2,5.0,68.2,540,960,16:9,220,Android 4.4.2 ,4
+ZTE369,Kis 3,True,True,False,False,False,False,2014,"May. Released 2014, May",120.0,126,65,11,4.0,55.6,480,800,5:3,233,Android 4.4.2 ,None
+ZTE369,Kis 3 Max,True,True,False,False,False,False,2014,"September. Released 2014, November",135.0,132,66,9.1,4.5,64.1,480,854,16:9,218,Android 4.4.2 ,2
+ZTE369,Kis III V790,True,True,False,False,False,False,2012,"November. Released 2012, November",None,116,61.7,12.6,3.5,51.0,320,480,3:2,165,Android 2.3 ,None
+ZTE369,Kis V788,True,False,False,False,True,True,2012,"February. Released 2012, July",120.0,114.3,61.6,11.5,3.5,51.8,320,480,3:2,165,Android 2.3 ,None
+ZTE369,Libra,True,True,False,False,False,False,2011,"February. Released 2011, September",None,None,None,None,None,None,480,800,5:3,267,Android 2.1 ,None
+ZTE369,Light Tab 2 V9A,True,True,False,False,False,False,2011,"December. Released 2012, February",389.0,202,122,12.6,7.0,56.0,600,1024,16:9,170,Android 2.3 ,None
+ZTE369,Light Tab 3 V9S,True,True,False,False,False,False,2012,"February. Released 2012, Q4",400.0,194,120,12,7.0,61.0,800,1280,16:10,216,Android 3.2 ,2
+ZTE369,Light Tab 300,True,True,False,False,False,False,2012,"February. Released 2012, September",None,None,None,None,None,None,800,1280,16:10,216,Android 4.0 ,None
+ZTE369,Light Tab V9C,True,True,False,False,False,False,2011,"November. Released 2011, December",389.0,202,122,12.6,7.0,56.6,480,800,5:3,133,Android 2.1 ,None
+ZTE369,Link II,True,True,True,False,False,False,2021,February 22,128.0,108.7,56.1,19.8,2.8,40.5,128,160,None,73,Proprietary,4
+ZTE369,Maven,True,True,True,False,False,False,2015,"June. Released 2015, June",133.5,134.9,66,9.9,4.5,62.7,480,854,16:9,218,Android 5.1 ,4
+ZTE369,Maven 2,True,True,True,False,False,False,2017,July,166.0,145.5,73,11,5.0,64.9,480,854,16:9,196,Android 6.0.1 ,4
+ZTE369,Max XL,True,True,True,False,False,False,2017,April,180.0,165.1,83.8,9.4,6.0,71.7,1080,1920,16:9,367,Android 7.1.1 ,8
+ZTE369,Memo,True,True,False,False,False,False,2011,"October. Released 2011, October",111.0,114,61,13,2.4,25.7,320,240,4:3,167,None,None
+ZTE369,N280,True,False,False,False,True,False,2010,None,130.0,113,56,14,2.8,38.4,240,320,4:3,143,None,None
+ZTE369,N290,True,False,False,False,True,True,2010,None,106.0,112,55,13,3.2,47.3,240,400,5:3,146,None,None
+ZTE369,N721,True,True,False,False,False,False,2011,None,105.0,106,56.2,14.2,2.8,40.8,240,320,4:3,143,Android OS,None
+ZTE369,N880E,True,True,False,False,False,False,2012,"May. Released 2012, May",130.0,119,61,10.4,4.0,62.7,480,800,5:3,233,Android 2.3 ,None
+ZTE369,N910,True,True,True,False,False,False,2012,"February. Released 2012, December",None,None,None,None,None,None,480,800,5:3,None,Android 4.0 ,None
+ZTE369,Nova 3.5,True,True,False,False,False,False,2012,"February. Released 2013, Q3",None,112.4,59.9,11,3.5,56.3,360,480,4:3,171,Android 4.0 ,None
+ZTE369,Nova 4 V8000,True,True,False,False,False,False,2012,"February. Released 2014, Q1",None,123.9,63.2,11.2,4.0,58.2,480,800,5:3,233,Android 4.0 ,None
+ZTE369,Nova Messenger,True,False,False,False,True,True,2012,"February. Released 2013, Q3",95.0,107,60,10.3,2.0,19.3,320,240,4:3,200,None,None
+ZTE369,Obsidian,True,True,True,False,False,False,2015,"August. Released 2015, September",137.5,137.4,68.6,10.2,4.5,59.2,480,854,16:9,218,Android 5.1 ,4
+ZTE369,Open,True,True,False,False,False,False,2013,"February. Released 2013, July",None,114,62,12.5,3.5,51.6,320,480,3:2,165,Firefox OS 1.0,None
+ZTE369,Open C,True,True,False,False,False,False,2014,"February. Released 2014, May",125.0,126,64.7,10.8,4.0,55.9,480,800,5:3,233,Firefox OS 1.3,2
+ZTE369,Open II,True,True,False,False,True,True,2014,"February. Released 2014, June",None,118,61,10.5,3.5,50.7,320,480,3:2,165,Firefox OS 1.3,2
+ZTE369,Open L,True,True,True,False,False,False,2015,March,None,145.5,72.8,9.4,5.0,65.0,480,854,16:9,196,Firefox OS 2.2,4
+ZTE369,Optik,True,True,False,False,False,False,2012,"February. Released 2012, February",400.0,193,119.4,13.2,7.0,61.7,800,1280,16:10,216,Android 3.2 ,2
+ZTE369,Orbit,True,True,False,False,False,False,2012,"February. Released 2012, September",136.4,119.4,63.5,10.2,4.0,60.1,480,800,5:3,233,Microsoft Windows Phone 7.5 Tango II,None
+ZTE369,PF 100,True,True,False,False,False,False,2012,February,None,None,None,None,None,None,768,1280,5:3,148,Android 4.0 ,4
+ZTE369,PF112 HD,True,True,False,False,False,False,2012,February,None,130,66,8.5,4.5,65.1,720,1280,16:9,326,Android 4.0 ,None
+ZTE369,PF200,True,True,True,False,False,False,2012,"February. Released 2012, Q4",None,None,None,None,None,None,540,960,16:9,256,Android 4.0 ,2
+ZTE369,Quartz,True,True,False,False,False,False,2017,April,89.0,45.7,45.7,14.5,None,None,400,400,None,404,Android Wear OS 2.1,4
+ZTE369,Quest 5,True,True,True,False,False,False,2020,August,143.0,137,68,10.6,5.0,69.3,480,960,18:9,215,Android 10 ,4
+ZTE369,R220,True,False,False,False,True,False,2009,None,80.0,107,45.5,12.5,1.8,20.9,128,160,None,114,None,None
+ZTE369,R221,True,False,False,False,True,False,2010,None,80.0,108,47,14,1.8,20.1,128,160,None,114,None,None
+ZTE369,R228,True,False,False,False,True,False,2011,May,67.0,108,46,11,2.0,25.3,176,220,None,141,None,None
+ZTE369,R228 Dual SIM,True,False,False,False,True,False,2011,May,80.0,108,46,11.7,2.0,25.3,176,220,None,141,None,None
+ZTE369,R230,True,False,False,False,True,False,2010,None,80.0,108,46,13,1.8,20.5,176,220,None,157,None,None
+ZTE369,Racer,True,True,False,False,False,False,2010,"July. Released 2010, July",100.0,102,55,14.5,2.8,43.3,240,320,4:3,143,Android 2.1 ,None
+ZTE369,Racer II,True,True,False,False,False,False,2011,"August. Released 2011, September",100.0,104,55.4,13.5,2.8,42.1,240,320,4:3,143,Android 2.2 ,None
+ZTE369,Raise,True,True,False,False,False,False,2009,May,146.0,112,57,12.5,3.2,49.7,240,320,4:3,125,Microsoft Windows Mobile 6.1 Professional,None
+ZTE369,Red Magic Watch,False,False,False,False,False,False,2021,March 04,30.0,47.8,46.4,12.4,None,None,454,454,None,326,Proprietary OS,None
+ZTE369,Redbull V5 V9180,True,True,False,False,False,False,2014,"April. Released 2014, April",165.0,139,71,8.9,5.0,69.8,720,1280,16:9,294,Android 4.3 ,4
+ZTE369,Reef,True,True,False,False,False,False,2013,"August. Released 2013, August",127.6,127,64.8,11.2,4.0,55.3,480,800,5:3,233,Android 4.1 ,None
+ZTE369,Rio,True,False,False,False,True,True,2011,None,90.0,107,61,12,2.4,27.3,320,240,4:3,167,None,None
+ZTE369,S213,True,False,False,False,False,False,2010,"October. Released 2010, October",95.0,107,45,13.3,1.5,15.1,128,128,1:1,121,None,None
+ZTE369,S30,True,True,True,True,False,False,2021,March 31,184.0,164.8,76.4,7.9,6.67,85.3,1080,2400,20:9,395,Android 11,8
+ZTE369,S30 Pro,True,True,True,True,False,False,2021,March 31,183.0,163.5,75.2,7.8,6.67,87.4,1080,2400,20:9,395,Android 11,8
+ZTE369,S30 SE,True,True,True,True,False,False,2021,March 31,210.0,165.8,77,9.6,6.67,84.1,1080,2400,20:9,395,Android 11,8
+ZTE369,S302,True,False,False,False,False,False,2009,None,79.0,103,49,14.8,None,None,128,48,None,None,None,None
+ZTE369,Sage,True,False,False,False,True,False,2010,None,80.0,93,49,13.5,None,None,None,None,None,None,None,None
+ZTE369,Salute F350,True,True,False,False,False,False,2010,"August. Released 2010, August",112.0,102,51,15,2.4,34.3,240,320,4:3,167,None,None
+ZTE369,Score,True,True,False,False,False,False,2011,"September. Released 2011, September",122.0,112,61.4,12.5,3.5,53.0,320,480,3:2,165,Android 2.3.4 ,None
+ZTE369,Score M,True,True,False,False,False,False,2012,"March. Released 2012, March",136.0,112,61.4,13.7,3.5,53.0,320,480,3:2,165,Android 2.3 ,None
+ZTE369,Skate,True,True,False,False,False,False,2011,"February. Released 2011, September",120.0,125.9,67.8,10.4,4.3,61.7,480,800,5:3,217,Android 2.3 ,None
+ZTE369,Skate Acqua,True,True,False,False,False,False,2012,"February. Released 2012, Q4",None,None,None,None,None,None,480,800,5:3,233,Android 4.0 ,None
+ZTE369,Sonata 2,True,True,True,False,True,True,2015,"June. Released 2015, June",None,125,63.8,11.4,4.0,57.1,480,800,5:3,233,Android 4.4 ,4
+ZTE369,Sonata 4G,True,True,False,False,True,True,2014,"January. Released 2014, Q1",None,126,66,11.4,4.0,54.8,480,800,5:3,233,Android ,2
+ZTE369,Speed,True,True,True,False,True,True,2014,"December. Released 2014, December",136.1,134.6,66,10.2,4.5,62.8,540,960,16:9,245,Android 4.4.2 ,4
+ZTE369,Star 1,True,True,True,False,False,False,2014,"April. Released 2014, April",130.0,139,69,6.6,5.0,71.9,1080,1920,16:9,441,Android 4.4.2 ,4
+ZTE369,Star 2,True,True,True,False,False,False,2014,"December. Released 2014, December",130.0,140.3,69.2,6.9,5.0,71.0,1080,1920,16:9,441,Android 4.4 ,4
+ZTE369,Style Messanger,True,False,False,False,True,True,2012,February,95.0,107,60,10.3,2.4,27.8,320,240,4:3,167,None,None
+ZTE369,Style Q,True,True,False,False,False,False,2012,None,100.0,113,59,10.3,2.8,36.4,240,320,4:3,143,Android 2.3 ,None
+ZTE369,T98,True,True,False,False,True,True,2012,"February. Released 2012, Q4",None,None,None,None,None,None,768,1280,5:3,213,Android 4.0 ,4
+ZTE369,Tania,True,True,False,False,False,False,2011,"September. Released 2012, February",158.0,128.6,67.8,10.5,4.3,60.4,480,800,5:3,217,Microsoft Windows Phone 7.5 Mango,None
+ZTE369,Tempo Go,True,True,True,False,False,False,2018,February,None,145.5,71.9,9.1,5.0,65.9,480,854,16:9,196,Android 8.1 Oreo ,4
+ZTE369,Tempo X,True,True,True,False,False,False,2017,September,141.8,145.5,71.9,9.1,5.0,65.9,480,854,16:9,196,Android 7.1.1 ,4
+ZTE369,U880E,True,True,False,False,True,True,2012,"May. Released 2012, September",141.0,120.5,63.6,10.8,4.0,59.4,480,800,5:3,233,Android 2.3 ,None
+ZTE369,U900,True,True,False,False,True,True,2011,"February. Released 2011, Q3",None,None,None,None,None,None,480,800,5:3,267,Android-based OPhone 2.0,None
+ZTE369,V5 Lux,True,True,True,False,True,True,2015,"February. Released 2015, February",165.0,139,71,9,5.0,69.8,720,1280,16:9,294,Android 4.4 ,4
+ZTE369,V70,True,True,True,True,False,False,2023,June 05,192.0,163.9,76.2,8.3,6.67,86.0,1080,2400,20:9,395,Android 11,8
+ZTE369,V81,True,True,False,False,False,False,2013,January,None,200,156,11.1,8.0,63.5,768,1024,4:3,160,Android 4.1 ,2
+ZTE369,V821,True,False,False,False,True,True,2011,"June. Released 2011, June",120.0,116,56.5,11.8,None,None,320,240,4:3,None,Android 2.2 ,None
+ZTE369,V875,True,True,False,False,False,False,2012,"February. Released 2012, Q4",125.4,122,60,11.3,3.2,43.3,360,480,4:3,188,Android 2.3 ,None
+ZTE369,V880E,True,True,False,False,False,False,2012,"February. Released 2012, May",130.0,122.5,64.6,12,4.0,57.5,480,800,5:3,233,Android 2.3.6 ,None
+ZTE369,V887,True,True,False,False,False,False,2012,"November. Released 2012, December",140.0,148,78,10.3,5.0,61.6,480,800,5:3,187,Android 4.0 ,2
+ZTE369,V889M,True,True,False,False,False,False,2012,"November. Released 2012, December",None,120.5,63.6,11.9,4.0,59.4,480,800,5:3,233,Android 4.0 ,2
+ZTE369,V9,True,True,False,False,False,False,2010,"October. Released 2011, Q1",403.0,192,110,12.6,7.0,66.0,480,800,5:3,133,Android 2.1 ,None
+ZTE369,V9+,True,True,False,False,False,False,2011,"February. Released 2011, Q3",None,None,None,None,None,None,600,1024,16:9,170,Android 2.2 ,None
+ZTE369,V96,True,True,True,False,False,False,2012,"February. Released 2012, Q4",None,None,None,None,None,None,800,1280,16:10,149,Android 4.0 ,2
+ZTE369,Vital N9810,True,True,True,False,False,False,2013,"June. Released 2013, June",154.0,142,71.4,10,5.0,68.0,720,1280,16:9,294,Android 4.1.2 ,2
+ZTE369,Voyage 20 Pro,True,True,True,True,False,False,2021,November 25,190.0,163.9,76.2,8.3,6.67,86.0,1080,2400,20:9,395,Android 11,8
+ZTE369,Voyage 40 Pro+,True,True,True,True,False,False,2022,November 29,192.5,163.5,75.8,7.6,6.67,86.7,1080,2400,20:9,395,Android 12,8
+ZTE369,Warp,True,True,False,False,False,False,2011,"September. Released 2011, October",140.0,130,69,11,4.3,58.7,480,800,5:3,217,Android 2.3 ,None
+ZTE369,Warp 4G,True,True,True,False,False,False,2013,"September. Released 2013, September",127.6,132.1,66,10.4,4.5,64.0,720,1280,16:9,326,Android 4.1 ,2
+ZTE369,Warp 7,True,True,True,False,False,False,2016,"August. Released 2016, September",158.8,154.2,76,9.1,5.5,71.2,720,1280,16:9,267,Android 6.0 ,4
+ZTE369,Warp Sequent,True,True,False,False,False,False,2012,"September. Released 2012, September",129.8,127,64.8,9.9,4.3,61.9,540,960,16:9,256,Android 4.0.4 ,None
+ZTE369,Watch GT,False,False,False,False,False,False,2021,March 31,30.0,47.8,46.4,12.4,None,None,454,454,None,326,Proprietary OS,None
+ZTE369,Watch Live,False,False,False,False,False,False,2020,November 27,35.7,40.6,34.6,10.8,None,None,240,240,None,261,Proprietary OS,None
+ZTE369,X760,True,False,False,False,True,False,2009,"March. Released 2009, March",84.0,93,52,16,2.4,36.9,240,320,4:3,167,None,None
+ZTE369,X990,True,False,False,False,True,True,2010,"March. Released 2010, March",90.0,107,61,12,2.5,29.7,320,240,4:3,160,Microsoft Windows Mobile 6.5 Professional,None
+ZTE369,X990D,True,False,False,False,True,False,2010,None,90.0,107,61,12,2.5,29.7,320,240,4:3,160,None,None
+ZTE369,Xiang,True,True,False,False,False,False,2009,March,120.0,114,66,11.9,2.5,25.7,320,240,4:3,160,Microsoft Windows Mobile 6.1 Professional,None
+ZTE369,Zinger,True,True,False,False,False,False,2014,"October. Released 2014, October",110.0,117.6,62,12.2,3.5,50.0,320,480,3:2,165,Android 4.4.2 ,2
+ZTE369,Zmax,True,True,True,False,False,False,2014,"September. Released 2014, September",189.9,162.6,83.8,8.9,5.7,65.7,720,1280,16:9,258,Android 4.4.2 ,4
+ZTE369,Zmax 2,True,True,True,False,False,False,2015,"September. Released 2015, September",170.1,153.9,76,9.4,5.5,71.3,720,1280,16:9,267,Android 5.1 ,4
+ZTE369,Zmax Pro,True,True,True,False,False,False,2016,"July. Released 2016, July",None,165.1,83.8,8.9,6.0,71.7,1080,1920,16:9,367,Android 6.0 ,8
+ZTE369,nubia Alpha,True,True,True,False,False,False,2019,February,158.0,47.1,35,13.8,None,None,192,960,None,244,Proprietary OS,4
+ZTE369,nubia M2,True,True,True,False,False,False,2017,March,168.0,154.5,75.9,7,5.5,71.1,1080,1920,16:9,401,Android 6 ,8
+ZTE369,nubia M2 Play,True,True,True,False,False,False,2017,June,None,154.5,68.5,7.9,5.5,78.8,720,1280,16:9,267,Android 7.1 ,8
+ZTE369,nubia M2 lite,True,True,True,False,False,False,2017,March,164.0,155.7,76.7,7.5,5.5,69.8,720,1280,16:9,267,Android 6 ,8
+ZTE369,nubia My Prague,True,True,True,False,False,False,2015,"June. Released 2015, August",140.0,148,72,5.5,5.2,70.0,1080,1920,16:9,424,Android 5.2 ,8
+ZTE369,nubia N1,True,True,True,False,False,False,2016,"July. Released 2016, July",190.0,150.9,75,8.9,5.5,73.7,1080,1920,16:9,401,Android 6 ,8
+ZTE369,nubia N1 lite,True,True,True,False,False,False,2017,February,171.0,153,77.5,8.4,5.5,70.3,720,1280,16:9,267,Android 6.0 ,4
+ZTE369,nubia N2,True,True,True,False,False,False,2017,March,180.0,155,75,7.9,5.5,71.7,720,1280,16:9,267,Android 6 ,8
+ZTE369,nubia N3,True,True,True,False,False,False,2018,March,190.0,158.8,75.6,8.5,6.01,77.3,1080,2160,18:9,403,Android 7.1 ,8
+ZTE369,nubia Neo,True,True,True,True,False,False,2023,June,192.0,163.7,75,8,6.6,85.5,1080,2408,20:9,400,Android 13,8
+ZTE369,nubia Pad 3D,False,False,False,False,False,False,2023,February 28,None,None,None,None,None,None,1600,2560,16:10,243,Android 12L,8
+ZTE369,nubia Play,True,True,True,True,False,False,2020,April 21,210.0,171.7,78.5,9.1,6.65,80.5,1080,2340,5:9,388,Android 10,8
+ZTE369,nubia Prague S,True,True,True,False,False,False,2016,"January. Released 2016, January",135.0,148.2,72.5,6.8,5.2,69.4,1080,1920,16:9,424,Android 5.2 ,8
+ZTE369,nubia Red Magic,True,True,True,False,False,False,2018,April,185.0,158.1,74.9,9.5,6.0,78.5,1080,2160,18:9,402,Android 8.1 ,8
+ZTE369,nubia Red Magic 3,True,True,True,False,False,False,2019,May,215.0,171.7,78.5,9.7,6.65,80.5,1080,2340,5:9,388,Android 9.0 ,8
+ZTE369,nubia Red Magic 3s,True,True,True,False,False,False,2019,September,215.0,171.7,78.5,9.7,6.65,80.5,1080,2340,5:9,388,Android 9.0 ,8
+ZTE369,nubia Red Magic 5G,True,True,True,True,False,False,2020,March 12,218.0,168.6,78,9.8,6.65,82.5,1080,2340,5:9,388,Android 10,8
+ZTE369,nubia Red Magic 5G Lite,True,True,True,True,False,False,2020,June 19,215.0,171.7,78.5,9.1,6.65,80.5,1080,2340,5:9,388,Android 10,8
+ZTE369,nubia Red Magic 5S,True,True,True,True,False,False,2020,July 28,220.0,168.6,78,9.8,6.65,82.5,1080,2340,5:9,388,Android 10,8
+ZTE369,nubia Red Magic 6,True,True,True,True,False,False,2021,March 04,220.0,169.9,77.2,9.7,6.8,85.1,1080,2400,20:9,387,Android 11,8
+ZTE369,nubia Red Magic 6 Pro,True,True,True,True,False,False,2021,March 04,220.0,169.9,77.2,9.7,6.8,85.1,1080,2400,20:9,387,Android 11,8
+ZTE369,nubia Red Magic 6R,True,True,True,True,False,False,2021,May 27,186.0,163,75.3,7.8,6.67,87.5,1080,2400,20:9,395,Android 11,8
+ZTE369,nubia Red Magic 6s,True,True,True,True,False,False,2021,September 06,215.0,169.9,77.2,9.5,6.8,85.1,1080,2400,20:9,387,Android 11,8
+ZTE369,nubia Red Magic 6s Pro,True,True,True,True,False,False,2021,September 06,215.0,169.9,77.2,9.5,6.8,85.1,1080,2400,20:9,387,Android 11,8
+ZTE369,nubia Red Magic 7,True,True,True,True,False,False,2022,February 17,215.0,170.6,78.3,9.5,6.8,83.6,1080,2400,20:9,387,Android 12,8
+ZTE369,nubia Red Magic 7 Pro,True,True,True,True,False,False,2022,February 17,235.0,166.3,77.1,10,6.8,87.1,1080,2400,20:9,387,Android 12,8
+ZTE369,nubia Red Magic 7S,True,True,True,True,False,False,2022,July 11,215.0,170.6,78.3,9.5,6.8,83.6,1080,2400,20:9,387,Android 12,8
+ZTE369,nubia Red Magic 7S Pro,True,True,True,True,False,False,2022,July 11,235.0,166.3,77.1,10,6.8,87.1,1080,2400,20:9,387,Android 12,8
+ZTE369,nubia Red Magic 8 Pro,True,True,True,True,False,False,2022,December 26,228.0,164,76.4,8.9,6.8,89.1,1116,2480,20:9,400,Android 13,8
+ZTE369,nubia Red Magic 8 Pro+,True,True,True,True,False,False,2022,December 26,230.0,164,76.4,8.9,6.8,89.1,1116,2480,20:9,400,Android 13,8
+ZTE369,nubia Red Magic 8S Pro,True,True,True,True,False,False,2023,June 05,228.0,164,76.4,9.5,6.8,89.1,1116,2480,20:9,400,Android 13,8
+ZTE369,nubia Red Magic 8S Pro+,True,True,True,True,False,False,2023,June 05,230.0,164,76.4,8.9,6.8,89.1,1116,2480,20:9,400,Android 13,8
+ZTE369,nubia Red Magic 9 Pro,True,True,True,True,False,False,2023,November 23,229.0,164,76.4,8.9,6.8,89.1,1116,2480,20:9,400,Android 14,8
+ZTE369,nubia Red Magic 9 Pro+,True,True,True,True,False,False,2023,November 23,229.0,164,76.4,8.9,6.8,89.1,1116,2480,20:9,400,Android 14,8
+ZTE369,nubia Red Magic Mars,True,True,True,False,False,False,2018,November,193.0,158.2,75,9.9,6.0,78.3,1080,2160,18:9,402,Android 9.0 ,8
+ZTE369,nubia Red Magic Tablet,True,True,True,True,False,False,2023,July 05,613.0,279.7,181.9,6.5,12.1,83.4,1600,2560,16:10,249,Android 13,8
+ZTE369,nubia V18,True,True,True,False,False,False,2018,March,170.0,158.7,75.5,7.8,6.01,77.8,1080,2160,18:9,402,Android 7.1 ,8
+ZTE369,nubia Watch,True,True,True,False,False,False,2020,July 28,98.0,125,41.5,14.2,None,None,192,960,None,244,Proprietary OS,4
+ZTE369,nubia X,True,True,True,False,False,False,2018,October,181.0,154.1,73.3,8.4,6.26,86.6,1080,2280,19:9,403,Android 8.1 ,8
+ZTE369,nubia X 5G,True,True,True,True,False,False,None,None,None,None,None,None,None,None,1080,2280,19:9,403,Android 9.0 ,8
+ZTE369,nubia X6,True,True,True,False,False,False,2014,"March. Released 2014, April",215.0,179.5,89,7.9,6.44,71.6,1080,1920,16:9,342,Android 4.3 ,4
+ZTE369,nubia Z11,True,True,True,False,False,False,2016,"June. Released 2016, July",162.0,151.8,72.3,7.5,5.5,75.2,1080,1920,16:9,403,Android 6.1 ,4
+ZTE369,nubia Z11 Max,True,True,True,False,False,False,2016,"June. Released 2016, June",185.0,159.2,82.3,7.4,6.0,75.3,1080,1920,16:9,368,Android 5.1.1 ,8
+ZTE369,nubia Z11 mini,True,True,True,False,False,False,2016,"April. Released 2016, May",138.0,141.4,70,8,5.0,69.6,1080,1920,16:9,441,Android 5.1.1 ,8
+ZTE369,nubia Z11 mini S,True,True,True,False,False,False,2016,"October. Released 2016, October",158.0,146.1,72.1,7.6,5.2,70.8,1080,1920,16:9,424,Android 6 ,8
+ZTE369,nubia Z17,True,True,True,False,False,False,2017,June,173.0,152.6,72.4,7.6,5.5,74.7,1080,1920,16:9,403,Android 7.1.1 ,8
+ZTE369,nubia Z17 lite,True,True,True,False,False,False,2017,August,168.0,153,72.6,7.6,5.5,75.1,1080,1920,16:9,401,Android 7.1 ,8
+ZTE369,nubia Z17 mini,True,True,True,False,False,False,2017,April,155.0,146.7,72.5,7.5,5.2,70.1,1080,1920,16:9,424,Android 6.1 ,8
+ZTE369,nubia Z17 miniS,True,True,True,False,False,False,2017,October,155.0,147.5,71.2,7.6,5.2,71.0,1080,1920,16:9,424,Android 7.1 ,8
+ZTE369,nubia Z17s,True,True,True,False,False,False,2017,October,170.0,147.5,72.7,8.5,5.73,81.7,1080,2040,17:9,403,Android 7.1.1 ,8
+ZTE369,nubia Z18,True,True,True,False,False,False,2018,September,172.0,148.6,72.6,8.6,5.99,85.8,1080,2160,18:9,403,Android 8.1 ,8
+ZTE369,nubia Z18 mini,True,True,True,False,False,False,2018,April,153.0,148,70.6,7.6,5.7,80.2,1080,2160,18:9,424,Android 8.1 ,8
+ZTE369,nubia Z20,True,True,True,False,False,False,2019,August,186.0,158.6,75.3,9,6.42,84.7,1080,2340,5:9,401,Android 9.0 ,8
+ZTE369,nubia Z30 Pro,True,True,True,True,False,False,2021,May 20,198.0,161.8,73,8.5,6.67,90.9,1080,2400,20:9,395,Android 11,8
+ZTE369,nubia Z40 Pro,True,True,True,True,False,False,2022,February 25,199.0,161.9,72.9,8.4,6.67,91.0,1080,2400,20:9,395,Android 12,8
+ZTE369,nubia Z40S Pro,True,True,True,True,False,False,2022,July 20,205.0,161.3,74,8.1,6.67,90.0,1080,2400,20:9,395,Android 12,8
+ZTE369,nubia Z5,True,True,False,False,False,False,2012,"December. Released 2012, December",126.0,137.9,69.1,7.6,5.0,72.3,1080,1920,16:9,441,Android 4.1.1 ,4
+ZTE369,nubia Z50,True,True,True,True,False,False,2022,December 19,197.0,162.9,72.9,8.5,6.67,90.4,1080,2400,20:9,395,Android 13,8
+ZTE369,nubia Z50 Ultra,True,True,True,True,False,False,2023,March 07,228.0,163.9,76.3,8.3,6.8,89.3,1116,2480,20:9,400,Android 13,8
+ZTE369,nubia Z50S Pro,True,True,True,True,False,False,2023,July 20,228.0,163.9,76.3,8.3,6.8,89.3,1260,2800,20:9,452,Android 13,8
+ZTE369,nubia Z5S,True,True,True,False,True,True,2013,"November. Released 2013, December",126.0,137.7,68.8,7.6,5.0,72.7,1080,1920,16:9,441,Android 4.2.2 ,4
+ZTE369,nubia Z5S mini NX403A,True,True,False,False,False,False,2013,"November. Released 2013, December",120.0,134.8,65.8,7.6,4.7,68.7,720,1280,16:9,312,Android 4.2.2 ,4
+ZTE369,nubia Z5S mini NX405H,True,True,True,False,False,False,2014,"August. Released 2014, August",117.9,134.9,65.8,8.6,4.7,68.6,720,1280,16:9,312,Android 4.3 ,4
+ZTE369,nubia Z60 Ultra,True,True,True,True,False,False,2023,December 19,246.0,164,76.4,8.8,6.8,89.1,1116,2480,20:9,400,Android 14,8
+ZTE369,nubia Z7,True,True,True,False,False,False,2014,"July. Released 2014, July",None,153.2,75.7,8.9,5.5,70.8,1440,2560,16:9,538,Android 4.4.2 ,4
+ZTE369,nubia Z7 Max,True,True,True,False,False,False,2014,"July. Released 2014, July",160.0,152.7,76,8.7,5.5,71.1,1080,1920,16:9,403,Android 4.4.2 ,4
+ZTE369,nubia Z7 mini,True,True,True,False,False,False,2014,"July. Released 2014, July",143.0,140.9,69.3,8.2,5.0,69.3,1080,1920,16:9,445,Android 4.4.2 ,4
+ZTE369,nubia Z9,True,True,True,False,False,False,2015,"May. Released 2015, June",192.0,147.4,68.3,8.9,5.2,74.0,1080,1920,16:9,424,Android 5.2 ,8
+ZTE369,nubia Z9 Max,True,True,True,False,False,False,2015,"March. Released 2015, April",165.0,154.8,76.6,7.9,5.5,70.3,1080,1920,16:9,401,Android 5.0.2 ,8
+ZTE369,nubia Z9 mini,True,True,True,False,False,False,2015,"March. Released 2015, April",147.0,141.3,69.8,8.2,5.0,69.9,1080,1920,16:9,441,Android 5.0.2 ,8

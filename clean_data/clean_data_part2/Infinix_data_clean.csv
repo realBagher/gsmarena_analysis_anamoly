@@ -1,0 +1,126 @@
+Brand,Phone,2G,3G,4G,5G,GPRS,EDGE,LunchDate,Status,Weight,Body_x,Body_y,Body_z,DisplaySize,DisplayArea,pixel_y,pixel_x,Display_Resolution_ratio,ppi_dencity,OS,CPUCoreCount
+Infinix125,GT 10 Pro,True,True,True,True,False,False,2023,August 03,187.0,162.7,75.9,8.1,6.67,87.0,1080,2400,20:9,395,Android 13,8
+Infinix125,Hot 10,True,True,True,False,False,False,2020,September 17,195.0,171.1,77.6,8.9,6.78,82.2,720,1640,None,264,Android 10,8
+Infinix125,Hot 10 Lite,True,True,True,False,False,False,2020,September 29,None,165.5,76.4,8.8,6.6,83.2,720,1600,20:9,266,Android 10 ,4
+Infinix125,Hot 10 Play,True,True,True,False,False,False,2021,January 21,207.0,171.8,78,8.9,6.82,82.4,720,1640,None,263,Android 10 ,8
+Infinix125,Hot 10T,True,True,True,False,False,False,2021,May 04,None,171.5,77.5,9.2,6.82,83.1,720,1640,None,263,Android 11,8
+Infinix125,Hot 10i,True,True,True,False,False,False,2021,May 20,None,164.3,76,9.6,6.52,82.2,720,1600,20:9,269,Android 11,8
+Infinix125,Hot 10s,True,True,True,False,False,False,2021,April 21,None,171.5,77.5,9.2,6.82,83.1,720,1640,None,263,Android 11,8
+Infinix125,Hot 10s NFC,True,True,True,False,False,False,2021,April 21,None,171.5,77.5,9.2,6.82,83.1,720,1640,None,263,Android 11,8
+Infinix125,Hot 11,True,True,True,False,False,False,2021,September 17,201.0,164.7,76.2,8.9,6.6,83.6,1080,2408,20:9,400,Android 11,8
+Infinix125,Hot 11 2022,True,True,True,False,False,False,2022,April 15,199.6,166.8,76.6,9.1,6.7,84.8,1080,2400,20:9,393,Android 11,8
+Infinix125,Hot 11 Play,True,True,True,False,False,False,2021,November 15,None,171.8,78,8.9,6.82,82.4,720,1640,None,263,Android 11,8
+Infinix125,Hot 11s,True,True,True,False,False,False,2021,September 17,205.0,168.9,77,8.8,6.78,83.5,1080,2480,None,399,Android 11,8
+Infinix125,Hot 11s NFC,True,True,True,False,False,False,2022,February 18,None,168.9,77,8.8,6.78,83.9,1080,2460,None,396,Android 11,8
+Infinix125,Hot 12,True,True,True,False,False,False,2022,April 26,195.0,170.5,77.6,8.3,6.82,84.5,720,1612,20:9,259,Android 12,8
+Infinix125,Hot 12 Play,True,True,True,False,False,False,2022,May 23,209.0,171,78,8.9,6.82,83.8,720,1612,20:9,259,Android 11,8
+Infinix125,Hot 12 Play NFC,True,True,True,False,False,False,2022,May 23,209.0,171,78,8.9,6.82,82.8,720,1640,None,263,Android 11,8
+Infinix125,Hot 12 Pro,True,True,True,False,False,False,2022,August 02,191.0,164.2,75.8,8.4,6.6,84.1,720,1612,20:9,267,Android 12,8
+Infinix125,Hot 12i,True,True,True,False,False,False,2022,April 12,190.0,164.8,76.4,8.8,6.6,83.1,720,1612,20:9,267,Android 11,4
+Infinix125,Hot 20,True,True,True,False,False,False,2022,October 13,198.0,170.7,77.4,8.3,6.82,83.6,720,1640,None,263,Android 12,8
+Infinix125,Hot 20 5G,True,True,True,True,False,False,2022,October 06,204.0,166.3,76.5,8.9,6.58,82.0,1080,2408,20:9,401,Android 12,8
+Infinix125,Hot 20 Play,True,True,True,False,False,False,2022,October 13,209.6,171,78,8.9,6.82,82.8,720,1640,None,263,Android 12,8
+Infinix125,Hot 20S,True,True,True,False,False,False,2022,October 13,202.0,168.7,76.8,8.5,6.78,84.3,1080,2460,None,396,Android 12,8
+Infinix125,Hot 20i,True,True,True,False,False,False,2022,September 28,195.0,164.8,76.4,8.8,6.6,83.1,720,1612,20:9,267,Android 12 or Android 12 ,4
+Infinix125,Hot 30,True,True,True,False,False,False,2023,March 31,196.0,168.7,76.6,8.4,6.78,84.5,1080,2460,None,396,Android 13,8
+Infinix125,Hot 30 5G,True,True,True,True,False,False,2023,July 14,215.0,168.5,76.5,9.2,6.78,84.7,1080,2460,None,396,Android 13,8
+Infinix125,Hot 30 Play NFC,True,True,True,False,False,False,2023,May 22,205.0,170.6,77.5,8.6,6.82,83.5,720,1640,None,263,Android 13,8
+Infinix125,Hot 30i,True,True,True,False,False,False,2023,March 31,191.0,164,75.8,8.4,6.56,83.2,720,1612,20:9,269,Android 12,8
+Infinix125,Hot 4,True,True,False,False,False,False,2016,July,175.0,152.6,76.2,8.6,5.5,71.7,720,1280,16:9,267,Android 6.0 ,4
+Infinix125,Hot 4 Pro,True,True,True,False,False,False,2016,August,175.0,152.6,76.2,8.6,5.5,71.7,720,1280,16:9,267,Android 6.0 ,4
+Infinix125,Hot 40,True,True,True,False,False,False,2023,December 05,196.0,168.6,76.6,8.3,6.78,84.5,1080,2460,None,396,Android 13,8
+Infinix125,Hot 40 Pro,True,True,True,False,False,False,2023,December 05,199.0,168.6,76.6,8.3,6.78,84.5,1080,2460,None,396,Android 13,8
+Infinix125,Hot 40i,True,True,True,False,False,False,2023,December 05,190.0,163.6,75.6,8.3,6.56,83.6,720,1612,20:9,269,Android 13,8
+Infinix125,Hot 5,True,True,False,False,False,False,2017,None,168.0,154.8,77.7,8.4,5.5,69.3,720,1280,16:9,267,Android 7.0 ,4
+Infinix125,Hot 5 Lite,True,True,False,False,False,False,2017,None,168.0,154.8,77.7,8.4,5.5,69.3,720,1280,16:9,267,Android 7.0 ,4
+Infinix125,Hot 6,True,True,False,False,False,False,2018,None,145.0,157.7,75.4,8,6.0,78.1,720,1440,18:9,268,Android 8.1 ,4
+Infinix125,Hot 6 Pro,True,True,True,False,False,False,2018,None,158.0,160.4,76.2,8.3,6.0,76.0,720,1440,18:9,268,Android 8.0 ,4
+Infinix125,Hot 6X,True,True,True,False,False,False,2018,None,168.0,157,75,8,6.2,82.2,720,1500,None,268,Android 8.1 ,4
+Infinix125,Hot 7,True,True,False,False,False,False,2019,January,166.0,157,75.7,8,6.2,83.5,720,1440,18:9,260,Android OS,4
+Infinix125,Hot 7 Pro,True,True,True,False,False,False,2019,March,165.0,155,74.8,8,6.2,82.8,720,1520,19:9,271,Android 9.0 ,8
+Infinix125,Hot 8,True,True,True,False,False,False,2019,September 04,179.0,165,76.3,8.7,6.52,81.5,720,1600,20:9,269,Android 9.0 ,4
+Infinix125,Hot 8 Lite,True,True,False,False,False,False,2019,October,175.0,165,76.3,8.7,6.6,83.5,720,1600,20:9,266,Android 8.1 Oreo ,4
+Infinix125,Hot 9,True,True,True,False,False,False,2020,March 23,185.0,165.4,76.8,8.8,6.6,82.8,720,1600,20:9,266,Android 10,8
+Infinix125,Hot 9 Play,True,True,True,False,False,False,2020,April 09,209.0,171.8,78,8.9,6.82,82.4,720,1640,None,263,Android 9.0 Pie ,4
+Infinix125,Hot 9 Pro,True,True,True,False,False,False,2020,May 29,185.0,165,76.8,8.7,6.6,83.0,720,1600,20:9,266,Android 10,8
+Infinix125,Hot S,True,True,True,False,False,False,2016,June,140.0,148.8,73.2,8,5.2,68.4,720,1280,16:9,282,Android 6.0 ,8
+Infinix125,Hot S3,True,True,True,False,False,False,2018,None,150.0,153,72.9,8.4,5.7,75.2,720,1440,18:9,282,Android 8.1 ,8
+Infinix125,Note 10,True,True,True,False,False,False,2021,May 12,None,173.2,78.7,8.8,6.95,84.2,1080,2460,None,387,Android 11,8
+Infinix125,Note 10 Pro,True,True,True,False,False,False,2021,May 12,209.0,172.8,78.3,7.8,6.95,84.8,1080,2460,None,387,Android 11,8
+Infinix125,Note 10 Pro NFC,True,True,True,False,False,False,2021,May 12,None,172.8,78.3,7.8,6.95,84.8,1080,2460,None,387,Android 11,8
+Infinix125,Note 11,True,True,True,False,False,False,2021,November 03,184.0,164.4,76.7,7.9,6.7,86.0,1080,2400,20:9,393,Android 11,8
+Infinix125,Note 11 Pro,True,True,True,False,False,False,2021,October 12,None,173.1,78.4,8.7,6.95,84.5,1080,2460,None,387,Android 11,8
+Infinix125,Note 11i,True,True,True,False,False,False,2021,November 15,None,173.2,78.7,8.8,6.95,84.2,1080,2460,None,387,Android 11,8
+Infinix125,Note 11s,True,True,True,False,False,False,2021,November 08,None,173.1,78.4,8.7,6.95,84.5,1080,2460,None,387,Android 11,8
+Infinix125,Note 12,True,True,True,False,False,False,2022,April 26,184.5,164.4,76.7,7.9,6.7,86.0,1080,2400,20:9,393,Android 11,8
+Infinix125,Note 12 (2023),True,True,True,False,False,False,2022,October 06,195.0,164.4,76.5,7.8,6.7,86.2,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12 5G,True,True,True,True,False,False,2022,July 08,186.0,164.7,76.9,8,6.7,85.6,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12 G96,True,True,True,False,False,False,2022,May 16,185.0,164.6,76.8,8,6.7,85.7,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12 Pro,True,True,True,False,False,False,2022,July 16,192.0,164.4,76.5,7.8,6.7,86.2,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12 Pro 5G,True,True,True,True,False,False,2022,July 08,188.0,164.7,76.9,8,6.7,85.6,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12 VIP,True,True,True,False,False,False,2022,May 16,199.0,163.5,76.7,7.9,6.7,86.4,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 12i,True,True,True,False,False,False,2022,May 11,198.0,170.7,77.4,8.3,6.82,83.6,720,1640,None,263,Android 12,8
+Infinix125,Note 12i 2022,True,True,True,False,False,False,2022,September 30,188.0,164.5,76.7,7.8,6.7,85.9,1080,2400,20:9,393,Android 12,8
+Infinix125,Note 3,True,True,True,False,False,False,2016,July,199.0,162.5,82.8,8.4,6.0,73.8,1080,1920,16:9,367,Android 6.0 ,8
+Infinix125,Note 3 Pro,True,True,True,False,False,False,2016,July,199.0,162.5,82.8,8.4,6.0,73.8,1080,1920,16:9,367,Android 6.0 ,8
+Infinix125,Note 30,True,True,True,False,False,False,2023,May 22,219.0,168.6,76.6,8.6,6.78,84.5,1080,2460,None,396,Android 13,8
+Infinix125,Note 30 5G,True,True,True,True,False,False,2023,May 22,205.0,168.5,76.5,8.5,6.78,84.7,1080,2460,None,396,Android 13,8
+Infinix125,Note 30 Pro,True,True,True,False,False,False,2023,May 22,203.0,162.7,76,8.2,6.67,86.9,1080,2400,20:9,395,Android 13,8
+Infinix125,Note 30 VIP,True,True,True,True,False,False,2023,June 12,190.0,162.7,75.9,8.2,6.67,87.0,1080,2400,20:9,395,Android 13,8
+Infinix125,Note 30i,True,True,True,False,False,False,2023,May 16,198.0,164.5,76.7,8.2,6.66,84.9,1080,2400,20:9,395,Android 13,8
+Infinix125,Note 4,True,True,True,False,False,False,2018,None,198.0,159,78.8,8.4,5.7,71.5,1080,1920,16:9,386,Android 7.0 ,8
+Infinix125,Note 4 Pro,True,True,True,False,False,False,2017,July,200.0,159,79,8.3,5.7,71.3,1080,1920,16:9,386,Android 7.0 ,8
+Infinix125,Note 5,True,True,True,False,False,False,2018,None,173.0,158,75,8.4,6.0,78.4,1080,2160,18:9,402,Android 8.1 ,8
+Infinix125,Note 5 Stylus,True,True,True,False,False,False,2018,None,173.0,158,75,8.4,6.0,78.0,1080,2160,18:9,403,Android 8.1 ,8
+Infinix125,Note 6,True,True,True,False,False,False,2019,June,173.0,154.2,74.5,7.7,6.01,81.1,1080,2160,18:9,402,Android 9.0 ,8
+Infinix125,Note 7,True,True,True,False,False,False,2020,April 06,206.0,173.4,79,8.8,6.95,83.7,720,1640,None,258,Android 10,8
+Infinix125,Note 7 Lite,True,True,True,False,False,False,2020,April 06,185.0,165.4,76.8,8.8,6.6,82.8,720,1600,20:9,266,Android 10,8
+Infinix125,Note 8,True,True,True,False,False,False,2020,October 15,None,175.3,78.8,9,6.95,83.0,720,1640,None,258,Android 10,8
+Infinix125,Note 8i,True,True,True,False,False,False,2020,October 15,None,171.4,77.7,8.9,6.78,82.0,720,1640,None,264,Android 10,8
+Infinix125,S2 Pro,True,True,True,False,False,False,2017,None,147.0,148.9,72.1,8.1,5.2,69.4,720,1280,16:9,282,Android 7.0 ,8
+Infinix125,S3X,True,True,True,False,False,False,2018,None,150.0,156.7,75.3,8,6.2,82.0,720,1500,None,268,Android 8.1 ,8
+Infinix125,S4,True,True,True,False,False,False,2019,April,154.0,156,75,7.9,6.2,82.0,720,1520,19:9,271,Android 9.0 ,8
+Infinix125,S5,True,True,True,False,False,False,2019,October 15,178.0,164,76,7.9,6.6,81.9,720,1600,20:9,270,Android 9.0 ,8
+Infinix125,S5 Pro,True,True,True,False,False,False,2020,March 06,195.0,162.5,76.9,9,6.53,83.8,1080,2340,5:9,395,Android 10,8
+Infinix125,S5 Pro (16+32),True,True,True,False,False,False,2020,March 06,195.0,162.5,76.9,9,6.53,83.8,1080,2340,5:9,395,Android 10,8
+Infinix125,S5 Pro (48+40),True,True,True,False,False,False,2020,March 06,195.0,162.5,76.9,9,6.53,83.8,1080,2340,5:9,395,Android 10,8
+Infinix125,S5 lite,True,True,True,False,False,False,2019,November,178.0,164,76,7.9,6.6,84.4,720,1600,20:9,266,Android 9.0 ,8
+Infinix125,Smart,True,True,False,False,False,False,2017,None,145.0,144.9,71.9,8.4,5.0,66.2,720,1280,16:9,294,Android 7.0 ,4
+Infinix125,Smart 2,True,True,True,False,False,False,2018,None,138.0,148,71,8.4,5.5,74.3,720,1440,18:9,293,Android 8.1 ,4
+Infinix125,Smart 2 HD,True,True,False,False,False,False,2018,October,165.0,156.9,76.5,8.2,6.0,77.4,720,1440,18:9,268,Android 8.1 ,4
+Infinix125,Smart 2 Pro,True,True,True,False,False,False,2018,None,138.0,147.5,71,8.3,5.5,74.5,720,1440,18:9,293,Android 8.1 ,4
+Infinix125,Smart 4,True,True,True,False,False,False,2019,October,183.0,167,76,8.3,6.6,82.9,720,1600,20:9,266,Android 9.0 Pie ,4
+Infinix125,Smart 4c,True,True,True,False,False,False,2019,November,183.0,167,76,8.3,6.6,82.9,720,1600,20:9,266,Android 9.0 ,4
+Infinix125,Smart 5,True,True,True,False,False,False,2020,August 13,183.0,165.4,76.4,8.8,6.6,83.2,720,1600,20:9,266,Android 10 ,4
+Infinix125,Smart 5 (India),True,True,True,False,False,False,2021,February 11,207.0,171.8,78,8.9,6.82,82.4,720,1640,None,263,Android 10 ,8
+Infinix125,Smart 5 Pro,True,True,True,False,False,False,2021,November 17,None,164.4,75.6,9.5,6.52,82.6,720,1600,20:9,269,Android 11 ,8
+Infinix125,Smart 6,True,True,True,False,False,False,2021,October 26,None,165.6,76.4,9.1,6.6,83.1,720,1600,20:9,266,Android 11 ,8
+Infinix125,Smart 6 HD,True,True,True,False,False,False,2022,April 26,None,165.6,76.4,9.1,6.6,83.1,720,1600,20:9,266,Android 11 ,8
+Infinix125,Smart 6 Plus (India),True,True,True,False,False,False,2022,July 29,202.0,172.6,77.7,8.7,6.82,83.7,720,1600,20:9,257,Android 12 ,8
+Infinix125,Smart 7,True,True,True,False,False,False,2023,February 09,188.0,163.8,75.6,8.7,6.6,84.5,720,1612,20:9,267,Android 12,None
+Infinix125,Smart 7 (India),True,True,True,False,False,False,2023,February 22,207.0,164.2,75.6,9.4,6.6,84.3,720,1612,20:9,267,Android 12,8
+Infinix125,Smart 7 HD,True,True,True,False,False,False,2023,April 14,196.5,163.9,75.5,8.7,6.6,84.6,720,1612,20:9,267,Android 12 ,8
+Infinix125,Smart 8,True,True,True,False,False,False,2023,November 09,184.0,163.6,75.6,8.5,6.6,84.6,720,1612,20:9,267,Android 13,8
+Infinix125,Smart 8 (India),True,True,True,False,False,False,2024,January 13,189.0,163.6,75.6,8.5,6.6,84.6,720,1612,20:9,267,Android 13 ,8
+Infinix125,Smart 8 HD,True,True,True,False,False,False,2023,December 08,184.0,163.6,75.6,8.5,6.6,84.6,720,1612,20:9,267,Android 13,8
+Infinix125,Smart 8 Plus,True,True,True,False,False,False,2024,January 30,204.0,163.7,75.7,9,6.6,84.4,720,1612,20:9,267,Android 13 ,8
+Infinix125,Smart 8 Pro,True,True,True,False,False,False,2024,January 29,189.0,163.6,75.6,8.5,6.6,84.6,720,1612,20:9,267,Android 13 ,8
+Infinix125,Smart HD 2021,True,True,True,False,False,False,2020,December 16,195.0,158.3,75.2,9.8,6.1,76.7,720,1560,5:9,282,Android 10 ,4
+Infinix125,Smart3 Plus,True,True,True,False,False,False,2019,April,148.0,157,76,7.8,6.21,80.7,720,1520,19:9,271,Android 9.0 ,4
+Infinix125,Zero 20,True,True,True,False,False,False,2022,October 05,196.0,164.4,76.7,8,6.7,86.0,1080,2400,20:9,393,Android 12,8
+Infinix125,Zero 30,True,True,True,True,False,False,2023,September 01,185.0,164.5,75,7.9,6.78,90.0,1080,2400,20:9,388,Android 13,8
+Infinix125,Zero 30 4G,True,True,True,False,False,False,2023,October 26,182.0,164.5,75,7.9,6.78,90.0,1080,2400,20:9,388,Android 13,8
+Infinix125,Zero 4,True,True,True,False,False,False,2017,March,167.5,151.5,76,7.8,5.5,72.4,1080,1920,16:9,401,Android 6.0 ,8
+Infinix125,Zero 4 Plus,True,True,True,False,False,False,2017,March,203.0,160.5,83,8.3,5.98,74.0,1080,1920,16:9,368,Android 6.0 ,None
+Infinix125,Zero 5,True,True,True,False,False,False,2018,None,197.0,166.4,82.4,8,5.98,71.9,1080,1920,16:9,368,Android 7.0 ,8
+Infinix125,Zero 5 Pro,True,True,True,False,False,False,2018,None,197.0,166.4,82.4,8,5.98,71.9,1080,1920,16:9,368,Android 7.0 ,8
+Infinix125,Zero 5G,True,True,True,True,False,False,2022,February 08,199.0,168.7,76.5,8.8,6.78,88.1,1080,2460,None,388,Android 11,8
+Infinix125,Zero 5G 2023,True,True,True,True,False,False,2022,November 08,201.0,168.7,76.5,8.9,6.78,84.6,1080,2460,None,396,Android 12,8
+Infinix125,Zero 6,True,True,True,False,False,False,2019,March,178.0,None,None,None,None,None,1080,2246,7:9,403,Android 8.0 ,8
+Infinix125,Zero 6 Pro,True,True,True,False,False,False,2019,March,178.0,None,None,None,None,None,1080,2246,7:9,403,Android 8.0 ,8
+Infinix125,Zero 8,True,True,True,False,False,False,2020,August 27,205.0,168.7,76.1,9.1,6.85,86.8,1080,2460,None,392,Android 10,8
+Infinix125,Zero 8i,True,True,True,False,False,False,2020,December 03,210.5,168.7,76.1,9.1,6.85,86.8,1080,2460,None,392,Android 10,8
+Infinix125,Zero Ultra,True,True,True,True,False,False,2022,October 05,213.0,165.5,74.5,8.8,6.8,90.5,1080,2400,20:9,387,Android 12,8
+Infinix125,Zero X,True,True,True,False,False,False,2021,September 13,193.0,164.1,75.7,7.8,6.67,86.5,1080,2400,20:9,395,Android 11,8
+Infinix125,Zero X Neo,True,True,True,False,False,False,2021,September 13,None,168.4,76.5,8.8,6.78,84.7,1080,2460,None,396,Android 11,8
+Infinix125,Zero X Pro,True,True,True,False,False,False,2021,September 13,193.0,164.1,75.7,7.8,6.67,86.5,1080,2400,20:9,395,Android 11,8

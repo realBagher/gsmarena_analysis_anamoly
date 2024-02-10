@@ -1,0 +1,668 @@
+Brand,Phone,2G,3G,4G,5G,GPRS,EDGE,LunchDate,Status,Weight,Body_x,Body_y,Body_z,DisplaySize,DisplayArea,pixel_y,pixel_x,Display_Resolution_ratio,ppi_dencity,OS,CPUCoreCount
+LG667,450,True,True,False,False,False,False,2014,"Q4. Released 2014, Q4",102.9,98,51.1,18.5,2.2,30.4,64,96,None,None,None,None
+LG667,8575 Samba,True,True,False,False,False,False,2009,None,119.9,109.2,55.9,12,3.0,42.0,240,400,5:3,155,None,None
+LG667,A100,True,False,False,False,False,False,2011,"May. Released 2011, Q2",58.0,104,43.7,13,1.5,16.0,128,128,1:1,121,None,None
+LG667,A120,True,False,False,False,True,False,2010,"December. Released 2010, December",72.5,108,45,12,1.77,20.3,128,160,None,116,None,None
+LG667,A130,True,True,False,False,False,False,2010,"August. Released 2010, September",86.0,92.5,47.5,16.9,2.0,28.7,None,None,None,None,None,None
+LG667,A140,True,False,False,False,True,False,2011,Q1,80.0,109.5,47,11.6,1.7,17.7,128,160,None,121,None,None
+LG667,A155,True,False,False,False,True,True,2010,"December. Released 2010, December",None,110,47.2,13.5,2.0,24.4,144,176,None,114,None,None
+LG667,A160,True,False,False,False,True,False,2011,"January. Released 2011, January",81.0,110,47.5,14.1,2.0,24.2,144,176,None,114,None,None
+LG667,A165,True,False,False,False,True,False,2011,None,81.0,110,47.5,14.1,2.0,24.1,176,220,None,141,None,None
+LG667,A180,True,False,False,False,False,False,2011,"February. Released 2011, Q2",66.3,106.3,44.9,14,1.52,15.6,128,128,1:1,119,None,None
+LG667,A190,True,False,False,False,False,False,2011,"August. Released 2011, August",66.5,106.5,45,13.8,1.52,15.6,128,128,1:1,119,None,None
+LG667,A200,True,False,False,False,True,True,2011,"April. Released 2011, Q3",95.0,99.8,51,15.8,2.2,29.9,176,220,None,128,None,None
+LG667,A230,True,False,False,False,True,True,2011,"July. Released 2011, October",80.0,108.8,46.6,13.9,1.77,19.4,128,160,None,116,None,None
+LG667,A250,True,False,False,False,True,True,2011,"July. Released 2011, July",92.0,99.8,51,15.8,2.2,29.9,96,64,None,None,None,None
+LG667,A258,True,False,False,False,True,True,2011,None,92.0,97.5,49.1,16.5,2.2,31.8,96,96,None,None,None,None
+LG667,A270,True,False,False,False,True,False,2011,None,65.8,107.2,44.9,14.6,1.45,14.1,128,128,1:1,125,None,None
+LG667,A290,True,False,False,False,True,False,2012,"February. Released 2012, February",92.0,113.5,51,13,2.2,26.3,176,220,None,128,None,None
+LG667,A350,True,True,False,False,False,False,2011,"July. Released 2011, Q3",91.5,116,53.3,12.9,2.2,24.6,176,220,None,128,None,None
+LG667,A390,True,False,False,False,True,False,2013,None,92.0,114.4,51.8,13.2,2.2,25.3,240,320,4:3,182,None,None
+LG667,A395,True,False,False,False,True,False,2013,None,97.0,114.4,51.6,13,2.2,25.4,240,320,4:3,182,None,None
+LG667,A7150,True,False,False,False,True,True,2004,Q4,110.0,92,47,24,None,None,None,None,None,None,None,None
+LG667,AKA,True,True,True,False,False,False,2015,"March. Released 2015, May",135.0,138.7,71.9,10,5.0,69.1,720,1280,16:9,294,Android 4.4.2 ,4
+LG667,Apex,True,True,False,False,False,False,2010,"November. Released 2010, November",158.0,116,56,16,3.2,44.9,480,800,5:3,292,Android 2.1 ,None
+LG667,Aristo 2,True,True,True,False,False,False,2018,January,139.0,144.8,71.9,8.1,5.0,66.2,720,1280,16:9,294,Android 7.1.2 ,4
+LG667,Axis,True,True,False,False,False,False,2011,"January. Released 2011, January",158.0,115.8,56.4,15.8,3.2,44.6,480,800,5:3,292,Android 2.1 ,None
+LG667,B1200,True,False,False,False,False,False,2002,June,80.0,106,44,25,None,None,None,None,None,None,None,None
+LG667,B2000,True,False,False,False,True,False,2005,Q1,73.0,104,43,15.9,1.5,16.2,None,None,None,None,None,None
+LG667,B2050,True,False,False,False,True,False,2005,Q3,72.0,105,44,15.9,1.5,15.7,None,None,None,None,None,None
+LG667,B2070,True,False,False,False,True,False,2005,Q3,78.0,104,40,14,1.6,19.9,None,None,None,None,None,None
+LG667,B2100,True,False,False,False,True,False,2005,Q2,73.0,103,43,16,1.5,16.4,None,None,None,None,None,None
+LG667,B2150,True,False,False,False,True,False,2005,None,73.0,105,44,15.9,1.6,17.9,None,None,None,None,None,None
+LG667,B2250,True,False,False,False,True,False,2005,Q3,85.0,107,45,17,1.8,21.2,None,None,None,None,None,None
+LG667,BL20 New Chocolate,True,True,False,False,False,False,2009,"September. Released 2009, October",115.0,106.9,50.8,12.3,2.4,32.8,None,None,None,None,None,None
+LG667,BL40 New Chocolate,True,True,False,False,False,False,2009,"August. Released 2009, September",129.0,128,51,10.9,4.01,57.8,345,800,21:9,217,None,None
+LG667,Bello II,True,True,False,False,False,False,2015,"July. Released 2015, September",155.0,140.8,71.6,9.6,5.0,68.3,480,854,16:9,196,Android 5.1.1 ,4
+LG667,C105,True,False,False,False,True,True,2010,"July. Released 2010, Q4",94.0,114.5,59,13,2.2,22.5,176,220,None,128,None,None
+LG667,C1100,True,False,False,False,True,False,2004,Q1,85.0,82,43,22.5,None,None,None,None,None,None,None,None
+LG667,C1150,True,False,False,False,True,False,2005,November,99.0,82,43,23.5,None,None,None,None,None,None,None,None
+LG667,C1200,True,False,False,False,True,False,2004,Q1,81.0,82,45,22,None,None,None,None,None,None,None,None
+LG667,C1400,True,False,False,False,True,False,2004,Q1,92.0,88.5,47.2,24.6,None,None,96,64,None,None,None,None
+LG667,C199,True,False,False,False,True,True,2012,Q2,92.0,109.4,59.8,12.5,2.3,25.0,240,320,4:3,174,None,None
+LG667,C2100,True,False,False,False,True,False,2005,Q1,90.0,88,47,24,None,None,96,64,None,None,None,None
+LG667,C2200,True,False,False,False,True,False,2004,Q3,99.0,84,46,23.5,None,None,96,64,None,None,None,None
+LG667,C2500,True,False,False,False,True,False,2005,December,80.0,101,46,18,1.5,15.6,None,None,None,None,None,None
+LG667,C2600,True,False,False,False,True,False,2006,December,88.0,102,46.5,18.5,1.6,17.4,None,None,None,None,None,None
+LG667,C299,True,False,False,False,True,True,2013,None,101.0,110,70,10,2.2,19.5,240,320,4:3,182,None,None
+LG667,C310,True,False,False,False,True,True,2010,"December. Released 2010, December",92.5,116,61.9,11.9,2.4,24.8,240,320,4:3,167,None,None
+LG667,C3100,True,False,False,False,True,False,2004,Q2,85.0,104,44,17.9,None,None,None,None,None,None,None,None
+LG667,C320 InTouch Lady,True,True,False,False,False,False,2010,"November. Released 2010, November",106.0,91,63,16.4,2.4,31.1,None,None,None,None,None,None
+LG667,C3300,True,False,False,False,True,False,2005,Q1,93.0,91,47,25,None,None,96,64,None,None,None,None
+LG667,C3310,True,False,False,False,True,False,2005,Q1,92.0,88.8,47.3,24.5,None,None,96,64,None,None,None,None
+LG667,C3320,True,False,False,False,True,False,2005,Q1,90.0,88,47,24,None,None,96,64,None,None,None,None
+LG667,C3380,True,False,False,False,True,False,2005,Q1,85.0,88.8,47.3,24,None,None,96,64,None,None,None,None
+LG667,C3400,True,False,False,False,True,False,2005,Q1,93.0,91,47,24,None,None,96,64,None,None,None,None
+LG667,C360,True,False,False,False,True,True,2011,None,102.0,113,61.9,12.9,2.3,23.4,320,240,4:3,174,None,None
+LG667,C365,True,False,False,False,True,True,2011,None,102.0,113.6,61.9,12.9,2.3,23.3,320,240,4:3,174,None,None
+LG667,C375 Cookie Tweet,True,False,False,False,True,True,2011,Q2,92.5,113,61,12,2.3,23.8,240,320,4:3,174,None,None
+LG667,C710 Aloha,True,True,False,False,True,True,None,None,118.0,109,54.5,12.9,3.2,49.1,None,None,None,None,Android 2.1 ,None
+LG667,C900 Optimus 7Q ,True,True,False,False,False,False,2010,"October. Released 2010, October",178.0,119.5,59.5,15.2,3.5,49.0,480,800,5:3,267,Microsoft Windows Phone 7,None
+LG667,CB630 Invision,True,True,False,False,False,False,2008,August. Released 2008,81.0,103,53,12,2.2,27.5,None,None,None,None,None,None
+LG667,CE110,True,False,False,False,False,True,2007,September,81.0,89.4,47,21,1.56,18.7,96,64,None,None,None,None
+LG667,CF360,True,True,False,False,False,False,2009,"February. Released 2009, February",100.0,101,48,17,2.0,25.6,240,320,4:3,200,None,None
+LG667,CG180,True,False,False,False,True,False,2007,October,67.0,99,45,14.7,1.5,16.3,None,None,None,None,None,None
+LG667,CP150,True,False,False,False,True,False,2008,November. Released 2009,81.0,87.9,47,18.8,1.5,17.6,96,64,None,None,None,None
+LG667,CT810 Incite,True,True,False,False,False,False,2008,"November. Released 2009, Q2",119.9,107,55.9,14,3.0,42.8,240,400,5:3,155,Microsoft Windows Mobile 6.1 Professional,None
+LG667,CU500,True,True,False,False,False,False,2006,July,105.0,96.5,49.5,19.3,None,None,96,96,None,None,None,None
+LG667,CU500V,True,True,False,False,False,False,2007,January,105.0,97,50,19.3,None,None,96,96,None,None,None,None
+LG667,CU515,True,True,False,False,False,False,2007,October,95.0,96,49.5,18,2.0,26.5,96,64,None,None,None,None
+LG667,CU720 Shine,True,True,False,False,False,False,2007,October,119.0,100,50.5,15,2.2,29.7,None,None,None,None,None,None
+LG667,CU915 Vu,True,True,False,False,False,False,2008,March. Released 2008,89.6,108,54.9,13,3.0,43.2,None,None,None,None,None,None
+LG667,Candy,True,True,True,False,False,False,2018,August,152.0,146.3,73.2,8.2,5.0,64.4,720,1280,16:9,294,Android 7.1.2 ,4
+LG667,Connect 4G MS840,True,True,True,False,False,False,2012,"January. Released 2012, February",137.0,117,62,11.7,4.0,61.3,480,840,16:9,242,Android 2.3.5 ,2
+LG667,Cookie 3G T320,True,True,False,False,False,False,2010,August. Released 2010,92.5,103,57,11.9,2.8,41.4,None,None,None,None,None,None
+LG667,Cookie Lite T300,True,False,False,False,True,True,2010,"August. Released 2010, September",77.0,95.8,50.5,11.9,2.4,36.9,None,None,None,None,None,None
+LG667,Cookie Style T310,True,False,False,False,True,True,2010,"August. Released 2010, October",86.5,102.9,56.9,11.9,2.8,41.5,None,None,None,None,None,None
+LG667,Cookie WiFi T310i,True,False,False,False,True,True,2010,"December. Released 2010, December",86.5,102.9,56.9,11.9,2.8,41.5,None,None,None,None,None,None
+LG667,Cosmos 2,True,True,False,False,False,False,2011,"July. Released 2011, July",130.0,112,52,16,2.0,21.3,240,320,4:3,200,None,None
+LG667,Cosmos Touch VN270,True,True,False,False,False,False,2010,"November. Released 2010, December",123.9,103,53,17,2.8,40.9,240,400,5:3,167,None,None
+LG667,DoublePlay,True,True,False,False,False,False,2011,"October. Released 2011, October",192.0,121.9,64,16,3.5,46.8,320,480,None,None,Android 2.3 ,None
+LG667,E2,True,False,False,False,True,True,None,None,None,None,None,None,None,None,240,320,4:3,None,Android OS,None
+LG667,E900 Optimus 7,True,True,False,False,False,False,2010,"October. Released 2010, November",157.0,125,59.8,11.5,3.8,55.0,480,800,5:3,246,Microsoft Windows Phone 7,None
+LG667,EGO T500,True,False,False,False,True,True,2011,"June. Released 2011, June",86.0,106,58,12,2.8,39.5,240,320,4:3,143,None,None
+LG667,EGO Wi-Fi,True,True,False,False,False,False,2011,"June. Released 2011, June",86.0,106,58,12,2.8,39.5,240,320,4:3,None,None,None
+LG667,Enact VS890,True,True,True,False,False,False,2013,"August. Released 2013, August",169.8,111,52.3,15.8,4.0,78.4,480,800,5:3,233,Android 4.1.2 ,2
+LG667,Enlighten VS700,True,True,False,False,False,False,2011,"September. Released 2011, September",157.0,114,58,15,3.2,46.1,320,480,3:2,180,Android 2.3 ,None
+LG667,Escape P870,True,True,True,False,False,False,2012,"September. Released 2012, September",128.0,126,65,9,4.3,62.2,540,960,16:9,256,Android 4.0.4 ,2
+LG667,Esteem MS910,True,True,True,False,False,False,2011,"September. Released 2011, October",172.0,128,67,13,4.3,61.4,480,800,5:3,217,Android 2.3.4 ,None
+LG667,Etna C330,True,True,False,False,False,False,2010,None,None,101,52,16.4,2.4,34.0,240,320,4:3,167,None,None
+LG667,Extravert VN271,True,True,False,False,False,False,2011,"November. Released 2011, November",122.0,105,53,15.7,2.8,40.1,None,None,None,None,None,None
+LG667,F1200,True,False,False,False,True,False,2005,Q1,101.0,95,49,24,None,None,96,96,None,None,None,None
+LG667,F2100,True,False,False,False,True,False,2004,Q3,90.0,90,47,23,None,None,96,96,None,None,None,None
+LG667,F2250,True,False,False,False,True,False,2005,Q3,90.0,87,45,23,None,None,96,64,None,None,None,None
+LG667,F2300,True,False,False,False,True,False,2005,Q1,91.0,88,46,24,None,None,96,96,None,None,None,None
+LG667,F2400,True,False,False,False,True,False,2005,Q2,85.0,86,44,23,None,None,96,96,None,None,None,None
+LG667,F2410,True,False,False,False,True,False,2005,Q2,91.0,88,45,23.9,None,None,96,96,None,None,None,None
+LG667,F3000,True,False,False,False,True,False,2005,Q3,91.0,88,47,23.9,None,None,96,96,None,None,None,None
+LG667,F60,True,True,True,False,False,False,2014,"September. Released 2014, October",129.6,127.5,67.9,10.6,4.5,66.6,480,800,5:3,207,Android 4.4.2 ,4
+LG667,F70 D315,True,True,True,False,False,False,2014,"February. Released 2014, May",129.6,127.2,66.4,10,4.5,68.2,480,800,5:3,207,Android 4.4.2 ,4
+LG667,F7250,True,False,False,False,True,False,2004,Q4,115.0,98,49,25,1.9,23.7,None,None,None,None,None,None
+LG667,Fantasy E740,True,True,False,False,True,True,None,None,None,None,None,None,None,None,480,800,5:3,233,Microsoft Windows Phone 7,None
+LG667,Fathom VS750,True,True,False,False,False,False,2010,"May. Released 2010, June",152.0,115,56,17,3.2,45.3,480,800,5:3,292,Microsoft Windows Mobile 6.5 Professional,None
+LG667,Fireweb,True,True,False,False,True,True,2013,"October. Released 2013, October",122.5,113.8,66.5,9,4.0,63.0,320,480,3:2,144,Firefox OS 1.1,None
+LG667,Flick T320,True,True,False,False,False,False,2010,"December. Released 2010, December",92.5,102.4,56.4,11.9,2.8,42.0,None,None,None,None,None,None
+LG667,Folder 2,True,True,True,False,False,False,2020,April 14,127.0,107.9,55,18,2.8,40.9,None,None,None,None,None,None
+LG667,G Flex,True,True,True,False,False,False,2013,"October. Released 2013, November",177.0,160.5,81.6,8.7,6.0,75.8,720,1280,16:9,245,Android 4.2.2 ,4
+LG667,G Flex2,True,True,True,False,False,False,2015,"January. Released 2015, February",152.0,149.1,75.3,9.4,5.5,73.5,1080,1920,16:9,403,Android 5.0.1 ,8
+LG667,G Pad 10.1,False,False,False,False,False,False,2014,"May. Released 2014, July",523.0,260.9,165.9,8.9,10.1,68.3,1280,800,16:10,149,Android 4.4.2 ,4
+LG667,G Pad 10.1 LTE,False,False,True,False,False,False,2014,"July. Released 2014, July",535.8,260.9,165.9,8.9,10.1,68.3,1280,800,16:10,149,Android 5.0.2 ,4
+LG667,G Pad 5 10.1,True,True,True,False,False,False,2019,October,498.0,247.2,150.7,8,10.1,79.4,1200,1920,16:10,224,Android 9.0 ,4
+LG667,G Pad 7.0,False,False,False,False,False,False,2014,"May. Released 2014, July",293.0,189.3,113.8,10.1,7.0,66.0,800,1280,16:10,216,Android 4.4.2 ,4
+LG667,G Pad 7.0 LTE,False,True,True,False,False,False,2014,"August. Released 2014, August",294.8,189.2,113.8,10.2,7.0,66.0,800,1280,16:10,216,Android 4.4.2 ,4
+LG667,G Pad 8.0,False,False,False,False,False,False,2014,"May. Released 2014, July",342.0,210.8,124.2,9.9,8.0,70.9,800,1280,16:10,189,Android 4.4.2 ,4
+LG667,G Pad 8.0 LTE,True,True,True,False,False,False,2014,"August. Released 2014, August",344.0,210.8,124.2,10,8.0,71.6,800,1280,16:10,188,Android 4.4.2 ,4
+LG667,G Pad 8.3,False,False,False,False,False,False,2013,"September. Released 2013, October",338.0,216.8,126.5,8.3,8.3,72.8,1200,1920,16:10,273,Android 4.2.2 ,4
+LG667,G Pad 8.3 LTE,True,False,True,False,False,False,2014,"March. Released 2014, March",339.9,216.9,126.5,8.9,8.3,72.8,1200,1920,16:10,273,Android 4.2.2 ,4
+LG667,G Pad II 10.1,True,True,True,False,False,False,2015,"August. Released 2015, September",489.0,254.3,161.1,7.8,10.1,72.2,1920,1200,16:10,224,Android 5.1.1 ,4
+LG667,G Pad II 8.0 LTE,True,True,True,False,True,True,2015,"August. Released 2015, October",347.0,210.8,124.2,9,8.0,70.9,800,1280,16:10,189,Android 5.0.2 ,4
+LG667,G Pad II 8.3 LTE,True,True,True,False,True,True,2015,"December. Released 2015, December",366.0,216.8,126.5,8.8,8.3,72.8,1200,1920,16:10,273,Android 5.1.1 ,8
+LG667,G Pad III 10.1 FHD,True,True,True,False,True,True,2016,"December. Released 2016, December",510.0,256.2,167.9,6.7,10.1,68.8,1200,1920,16:10,224,Android 6.0.1 ,8
+LG667,G Pad III 8.0 FHD,True,True,True,False,True,True,2016,"May. Released 2016, May",None,210.7,124.1,7.9,8.0,71.0,1200,1920,16:10,283,Android 6.0.1 ,8
+LG667,G Pad IV 8.0 FHD,True,True,True,False,False,False,2017,July,290.0,216.2,127,6.9,8.0,67.6,1200,1920,16:10,283,Android 7.0 ,8
+LG667,G Pad X 8.0,True,True,True,False,False,False,2016,"June. Released 2016, June",309.0,210.8,121.9,7.9,8.0,72.2,1200,1920,16:10,283,Android 6.0.1 ,8
+LG667,G Pro 2,True,True,True,False,False,False,2014,"February. Released 2014, April",172.0,157.9,81.9,8.3,5.9,74.2,1080,1920,16:9,373,Android 4.4.2 ,4
+LG667,G Pro Lite,True,True,False,False,False,False,2013,"October. Released 2013, November",161.0,150.2,76.9,9.4,5.5,72.2,540,960,16:9,200,Android 4.1.2 ,2
+LG667,G Pro Lite Dual,True,True,False,False,False,False,2013,"October. Released 2013, November",161.0,150.2,76.9,9.4,5.5,72.2,540,960,16:9,200,Android 4.1.2 ,2
+LG667,G Stylo,True,True,True,False,False,False,2015,"May. Released 2015, May",165.9,154.4,79.3,9.4,5.7,73.2,720,1280,16:9,258,Android 5.0 ,4
+LG667,G Vista,True,True,True,False,False,False,2014,"August. Released 2014, August",167.0,152.1,79.2,9.1,5.7,74.4,720,1280,16:9,258,Android 4.4.2 ,4
+LG667,G Vista (CDMA),True,True,True,False,False,False,2014,"August. Released 2014, August",168.1,152.2,79.3,9.1,5.7,74.2,720,1280,16:9,258,Android 4.4.2 ,4
+LG667,G Vista 2,True,True,True,False,False,False,2015,"October. Released 2015, November",169.8,154.4,79.8,9.7,5.7,72.7,1080,1920,16:9,386,Android 5.1 ,8
+LG667,G Watch R W110,False,False,False,False,False,False,2015,"October. Released 2015, October",62.0,46.4,53.6,9.7,None,None,320,320,None,245,Android Wear OS 2.1,4
+LG667,G Watch W100,False,False,False,False,False,False,2014,"June. Released 2014, June",63.0,46.5,37.9,10,None,None,280,280,None,240,Android Wear OS,4
+LG667,G1500,True,False,False,False,False,False,2004,Q1,80.0,105,44,21,None,None,None,None,None,None,None,None
+LG667,G1600,True,False,False,False,True,False,2004,Q2,83.0,104,44,17,None,None,None,None,None,None,None,None
+LG667,G1610,True,False,False,False,True,False,2005,Q1,83.0,104,44,17,1.5,15.9,None,None,None,None,None,None
+LG667,G1700,True,False,False,False,True,False,2004,Q4,80.0,101,44,22,1.6,18.6,None,None,None,None,None,None
+LG667,G1800,True,False,False,False,True,False,2004,Q4,78.0,99,45,17,1.6,18.5,None,None,None,None,None,None
+LG667,G2,True,True,True,False,False,False,2013,"August. Released 2013, September",143.0,138.5,70.9,8.9,5.2,75.9,1080,1920,16:9,424,Android 4.2.2 ,4
+LG667,G2 Lite,True,True,False,False,False,False,2014,"November. Released 2014, November",153.7,127.5,67.9,11.9,4.5,66.6,480,800,5:3,207,Android 4.4.2 ,4
+LG667,G2 mini,True,True,False,False,False,False,2014,"February. Released 2014, April",121.0,129.6,66,9.8,4.7,71.2,540,960,16:9,234,Android 4.4.2 ,4
+LG667,G2 mini LTE,True,True,True,False,False,False,2014,"February. Released 2014, March",121.0,129.6,66,9.8,4.7,71.2,540,960,16:9,234,Android 4.4.2 ,4
+LG667,G2 mini LTE (Tegra),True,True,True,False,True,True,2014,"February. Released 2014, May",121.0,129.6,66,9.8,4.7,71.2,540,960,16:9,234,Android 4.4.2 ,4
+LG667,G3,True,True,True,False,False,False,2014,"May. Released 2014, June",149.0,146.3,74.6,8.9,5.5,75.3,1440,2560,16:9,538,Android 4.4.2 ,4
+LG667,G3 (CDMA),True,True,True,False,False,False,2014,"July. Released 2014, July",149.7,146.3,74.7,8.9,5.5,75.2,1440,2560,16:9,538,Android 4.4.2 ,4
+LG667,G3 A,True,True,True,False,True,True,2014,"August. Released 2014, August",146.8,141,71.6,9.8,5.2,73.8,1080,1920,16:9,424,Android 4.4.2 ,4
+LG667,G3 Dual-LTE,True,True,True,False,False,False,2014,"October. Released 2014, November",149.0,146.3,74.6,8.9,5.5,76.4,1440,2560,16:9,534,Android 4.4.2 ,4
+LG667,G3 LTE-A,True,True,True,False,True,True,2014,"January. Released 2014, July",154.0,146.3,74.6,9.1,5.5,76.4,1440,2560,16:9,534,Android 4.4.2 ,4
+LG667,G3 S,True,True,True,False,False,False,2014,"July. Released 2014, August",134.0,137.7,69.6,10.3,5.0,71.9,720,1280,16:9,294,Android 4.4.2 ,4
+LG667,G3 S Dual,True,True,False,False,False,False,2014,"July. Released 2014, August",None,137.7,69.6,10.3,5.0,71.9,720,1280,16:9,294,Android 4.4.2 ,4
+LG667,G3 Screen,True,True,True,False,True,True,2014,"October. Released 2014, December",182.0,157.8,81.8,9.5,5.9,74.3,1080,1920,16:9,373,Android 4.4.4 ,8
+LG667,G3 Stylus,True,True,False,False,False,False,2014,"August. Released 2014, October",163.0,149.3,75.9,10.2,5.5,73.6,540,960,16:9,200,Android 4.4.2 ,4
+LG667,G3000,True,False,False,False,True,False,2003,Q1,79.0,102,45,20,None,None,None,None,None,None,None,None
+LG667,G3100,True,False,False,False,True,False,2004,Q2,83.0,84,44,20.5,None,None,128,96,4:3,None,None,None
+LG667,G350,True,False,False,False,True,True,2015,"May. Released 2015, July",125.0,108,58,19.5,3.0,44.5,240,320,4:3,133,None,None
+LG667,G360,True,False,False,False,True,True,2015,"June. Released 2015, July",125.0,108,58,19.5,3.0,44.5,240,320,4:3,133,None,None
+LG667,G4,True,True,True,False,False,False,2015,"April 28. Released 2015, April 29",155.0,None,None,None,5.5,72.5,1440,2560,16:9,538,Android 5.1.1 ,None
+LG667,G4 Beat,True,True,True,False,False,False,2015,"July. Released 2015, August",139.0,142.7,72.6,9.9,5.2,72.3,1080,1920,16:9,423,Android 5.1.1 ,8
+LG667,G4 Dual,True,True,True,False,False,False,2015,"May. Released 2015, May",155.0,149,76.2,9.8,5.5,73.4,1440,2560,16:9,534,Android 5.1.1 ,None
+LG667,G4 Pro,True,True,True,False,False,False,None,None,None,None,None,None,None,None,1440,2560,16:9,506,Android 5.1 ,4
+LG667,G4 Stylus,True,True,True,False,False,False,2015,"April. Released 2015, May",163.0,154.3,79.2,9.6,5.7,73.3,720,1280,16:9,258,Android 5.0 ,4
+LG667,G4c,True,True,True,False,False,False,2015,"May. Released 2015, June",136.0,139.7,69.8,10.2,5.0,70.7,720,1280,16:9,294,Android 5.0.2 ,4
+LG667,G5,True,True,True,False,False,False,2016,"February 21. Released 2016, April 01",159.0,149.4,73.9,7.7,5.3,70.1,1440,2560,16:9,554,Android 6.0.1 ,4
+LG667,G5 SE,True,True,True,False,False,False,2016,"April. Released 2016, June",156.0,149.4,73.9,7.3,5.3,70.1,1440,2560,16:9,554,Android 6.0.1 ,8
+LG667,G5200,True,False,False,False,True,False,2002,Q3,80.0,84,45,20,None,None,96,64,None,None,None,None
+LG667,G5300,True,False,False,False,True,False,2003,Q1,85.0,106,42,22,None,None,None,None,None,None,None,None
+LG667,G5310,True,False,False,False,True,False,2003,Q3,85.0,106,42,22,None,None,None,None,None,None,None,None
+LG667,G5400,True,False,False,False,True,False,2003,Q2,85.0,86,46,22,None,None,16,96,None,None,None,None
+LG667,G5500,True,False,False,False,True,False,2003,Q4,81.0,92,42,21,None,None,None,None,None,None,None,None
+LG667,G6,True,True,True,False,False,False,2017,"February 26. Released 2017, April 07",163.0,148.9,71.9,7.9,5.7,78.6,1440,2880,18:9,564,Android 7.0 ,4
+LG667,G7 Fit,True,True,True,False,False,False,2018,August,156.0,153.2,71.9,8,6.1,82.9,1440,3120,5:9,563,Android 8.1 ,4
+LG667,G7 One,True,True,True,False,False,False,2018,August,156.0,153.2,71.9,7.9,6.1,82.9,None,None,None,None,Android 8.1 ,8
+LG667,G7 ThinQ,True,True,True,False,False,False,2018,May 02,162.0,153.2,71.9,7.9,6.1,82.6,1440,3120,5:9,564,Android 8.0 ,8
+LG667,G7000,True,False,False,False,True,False,2002,Q4,93.0,90,45,20,None,None,96,64,None,None,None,None
+LG667,G7020,True,False,False,False,True,False,2002,Q4,89.0,88,45,22,None,None,96,64,None,None,None,None
+LG667,G7030,True,False,False,False,True,False,2003,Q3,88.0,85,45,23,None,None,96,64,None,None,None,None
+LG667,G7050,True,False,False,False,True,False,2003,Q4,89.0,94,44,21,None,None,None,None,None,None,None,None
+LG667,G7070,True,False,False,False,True,False,2003,Q2,95.0,99,46,22,None,None,None,None,None,None,None,None
+LG667,G7100,True,False,False,False,True,False,2003,Q2,93.0,90,48,24,None,None,96,64,None,None,None,None
+LG667,G7120,True,False,False,False,True,False,2004,Q1,101.0,89,48,24,None,None,96,64,None,None,None,None
+LG667,G7200,True,False,False,False,True,False,2004,Q1,116.0,93,49,26.5,None,None,None,None,None,None,None,None
+LG667,G8 ThinQ,True,True,True,False,False,False,2019,February 24,167.0,151.9,71.8,8.4,6.1,83.5,1440,3120,5:9,564,Android 9.0 ,8
+LG667,G8000,True,False,False,False,True,False,2003,Q1,120.0,94,50,23,None,None,84,40,None,None,None,None
+LG667,G8S ThinQ,True,True,True,False,False,False,2019,February 24,181.0,155.3,76.6,8,6.21,82.0,1080,2248,None,401,Android 9.0 ,8
+LG667,G8X ThinQ,True,True,True,False,False,False,2019,September 06,192.0,159.3,75.8,8.4,6.4,83.3,1080,2340,5:9,403,Android 9.0 ,8
+LG667,GB102,True,False,False,False,False,False,2009,"February. Released 2009, August",None,103,45,14,1.5,15.7,128,128,1:1,121,None,None
+LG667,GB106,True,False,False,False,False,False,2009,"January. Released 2009, March",70.0,102,45,14.6,1.5,15.8,128,128,1:1,121,None,None
+LG667,GB109,True,False,False,False,True,False,2009,"August. Released 2009, September",92.0,102,45,14.6,1.5,15.8,128,128,1:1,121,None,None
+LG667,GB110,True,False,False,False,False,False,2009,January. Released 2009,65.0,103,45,14.6,1.5,15.7,128,128,1:1,121,None,None
+LG667,GB125,True,False,False,False,True,False,2009,"March. Released 2009, July",90.0,87,45,19.3,1.5,18.5,None,None,None,None,None,None
+LG667,GB130,True,False,False,False,True,False,2009,February. Released 2009,None,103,47,15.6,2.0,25.6,120,160,4:3,100,None,None
+LG667,GB160,True,False,False,False,True,False,2009,"November. Released 2009, November",None,103,46,12.5,1.5,15.3,128,128,1:1,121,None,None
+LG667,GB170,True,False,False,False,True,False,2009,"August. Released 2009, Q3",76.5,103,46,13.9,1.5,15.3,128,128,1:1,121,None,None
+LG667,GB190,True,False,False,False,True,False,2009,"October. Released 2009, October",76.0,104,46,13.9,1.5,15.2,128,128,1:1,121,None,None
+LG667,GB210,True,False,False,False,True,False,2009,"March. Released 2009, May",79.0,103.7,47,15.6,1.77,19.9,120,160,4:3,113,None,None
+LG667,GB220,True,False,False,False,True,True,2009,"February. Released 2009, August",72.0,105,46,14,1.76,20.2,96,64,None,None,None,None
+LG667,GB230 Julia,True,False,False,False,True,True,2009,"May. Released 2009, September",89.0,101.2,49.2,15.7,2.0,25.3,176,220,None,141,None,None
+LG667,GB250,True,True,False,False,False,False,2009,February. Released 2009,None,97.6,48.8,16.9,2.0,26.4,96,64,None,None,None,None
+LG667,GB270,True,False,False,False,True,False,2009,"August. Released 2009, September",88.3,108,47,12.7,2.0,24.4,120,160,4:3,100,None,None
+LG667,GB280,True,False,False,False,True,True,2010,"April. Released 2010, April",94.0,105,49,15.7,2.0,24.5,176,220,None,141,None,None
+LG667,GC900 Viewty Smart,True,True,False,False,False,False,2009,"April. Released 2009, May",102.0,108.9,56.1,12.4,3.0,41.9,480,800,5:3,311,None,None
+LG667,GD310 ,True,False,False,False,True,True,2009,"October. Released 2010, February",112.0,102.9,52,15.5,2.4,33.3,None,None,None,None,None,None
+LG667,GD330,True,False,False,False,True,True,2009,"April. Released 2009, July",102.0,102.7,50.8,11.9,2.2,28.7,240,320,4:3,182,None,None
+LG667,GD350,True,False,False,False,True,True,2010,"March. Released 2010, April",94.0,95.5,48,15.9,2.0,27.5,5,35,None,None,None,None
+LG667,GD510 Pop,True,False,False,False,True,True,2009,"September. Released 2009, October",87.0,97.8,49.5,11.2,3.0,52.9,None,None,None,None,None,None
+LG667,GD550 Pure,True,True,False,False,False,False,2010,"August. Released 2010, August",132.0,105.5,51,12.4,2.4,33.2,None,None,None,None,None,None
+LG667,GD580 Lollipop,True,True,False,False,False,False,2010,"January. Released 2010, January",103.5,108.3,51.5,13.4,2.8,40.0,None,None,None,None,None,None
+LG667,GD710 Shine II,True,True,False,False,False,False,2009,"November. Released 2009, December",120.0,106.9,51.5,13.3,2.2,27.2,240,320,4:3,182,None,None
+LG667,GD880 Mini,True,True,False,False,False,False,2010,"February. Released 2010, April",99.0,102,47.6,10.6,3.2,58.1,480,854,16:9,306,None,None
+LG667,GD900 Crystal,True,True,False,False,False,False,2009,"April. Released 2009, July",127.0,105,52.5,13.5,3.0,46.5,480,800,5:3,311,None,None
+LG667,GD910,True,True,False,False,False,False,2009,"January. Released 2009, August",84.0,49,39,13.8,None,None,128,160,None,143,Proprietary OS,None
+LG667,GM200 Brio,True,False,False,False,True,True,2009,"March. Released 2009, June",85.0,106,48,14.4,2.0,24.7,176,220,None,141,None,None
+LG667,GM210,True,False,False,False,True,True,2009,"April. Released 2009, July",100.0,104,48,15.8,2.0,24.8,240,320,4:3,200,None,None
+LG667,GM310,True,True,False,False,False,False,2009,"February. Released 2009, July",115.0,104.7,51.9,13.9,2.2,27.6,None,None,None,None,None,None
+LG667,GM360 Viewty Snap,True,False,False,False,True,True,2010,"June. Released 2010, June",87.0,108,53.1,12,3.0,44.7,None,None,None,None,None,None
+LG667,GM650s,True,True,False,False,False,False,2010,"August. Released 2010, August",127.0,111.5,51.5,13.9,3.0,44.6,None,None,None,None,None,None
+LG667,GM730 Eigen,True,True,False,False,False,False,2009,"February. Released 2009, August",None,109.8,56.5,11.9,3.0,41.3,None,None,None,None,Microsoft Windows Mobile 6.1 Professional,None
+LG667,GM750,True,True,False,False,False,False,2009,"September. Released 2009, October",120.0,109.8,53.5,12.9,3.0,43.6,None,None,None,None,Microsoft Windows Mobile 6.5 Professional,None
+LG667,GS106,True,False,False,False,False,False,2010,"March. Released 2010, March",70.0,103.9,43.5,12.9,1.5,16.1,128,128,1:1,121,None,None
+LG667,GS107,True,False,False,False,False,False,2010,"March. Released 2010, May",70.0,103.9,43.5,12.9,1.5,16.1,128,128,1:1,121,None,None
+LG667,GS155,True,False,False,False,False,False,2010,"March. Released 2010, March",66.8,103.9,44.5,13.9,1.5,15.7,128,128,1:1,121,None,None
+LG667,GS190,True,False,False,False,True,False,2010,None,85.0,108,48,13.8,2.0,24.3,128,160,None,102,None,None
+LG667,GS200,True,False,False,False,True,False,2009,"December. Released 2010, January",85.0,106,48,13.8,2.0,24.7,176,220,None,141,None,None
+LG667,GS290 Cookie Fresh,True,False,False,False,True,True,2010,"March. Released 2010, April",89.0,108,52.9,12.5,3.0,44.8,None,None,None,None,None,None
+LG667,GS390 Prime,True,False,False,False,True,True,2010,"October. Released 2010, October",89.0,108,52.8,12.7,3.0,44.9,240,400,5:3,155,None,None
+LG667,GS500 Cookie Plus,True,True,False,False,False,False,2010,"February. Released 2010, April",92.5,107,52.5,11.5,3.0,45.6,None,None,None,None,None,None
+LG667,GT365 Neon,True,False,False,False,True,True,2009,"March. Released 2009, March",108.0,101.5,51,16.8,2.4,34.5,None,None,None,None,None,None
+LG667,GT400 Viewty Smile,True,True,False,False,False,False,2010,"April. Released 2010, May",98.0,107,54.5,11.8,3.0,43.9,None,None,None,None,None,None
+LG667,GT405,True,True,False,False,False,False,2010,"April. Released 2010, April",98.0,107,54.5,11.8,3.0,43.9,None,None,None,None,None,None
+LG667,GT500 Puccini,True,True,False,False,False,False,2009,"July. Released 2009, July",98.0,107,55,12,3.0,43.5,None,None,None,None,None,None
+LG667,GT505,True,True,False,False,False,False,2009,"June. Released 2009, August",98.0,107,54.5,11.8,3.0,43.9,240,400,5:3,155,None,None
+LG667,GT540 Optimus,True,True,False,False,False,False,2010,"January. Released 2010, June",115.5,109,54.5,12.7,3.0,45.1,320,480,3:2,192,Android 1.6 ,None
+LG667,GT550 Encore,True,True,False,False,False,False,2010,"October. Released 2010, October",104.9,106,53.3,12,3.0,45.3,240,400,5:3,155,None,None
+LG667,GT950 Arena,True,True,False,False,False,False,2010,"February. Released 2010, March",104.9,107.7,55.4,12.2,3.0,42.9,480,800,5:3,311,None,None
+LG667,GU200,True,False,False,False,False,False,2010,None,86.0,91,44.2,15.9,1.77,24.5,128,160,None,116,None,None
+LG667,GU230 Dimsun,True,False,False,False,True,True,2009,"October. Released 2010, June",89.0,108,48,13.8,2.2,29.4,176,220,None,128,None,None
+LG667,GU285,True,True,False,False,False,False,2009,"October. Released 2010, September",105.0,96,45.7,14.9,2.0,28.7,176,220,None,141,None,None
+LG667,GU292,True,True,False,False,False,False,2010,"May. Released 2010, June",105.2,99.6,47,16.3,2.0,26.9,176,220,None,141,None,None
+LG667,GW300,True,False,False,False,True,True,2009,"August. Released 2009, October",95.0,115.5,61,12.8,2.4,25.3,320,240,4:3,167,None,None
+LG667,GW370 Rumour Plus,True,True,False,False,False,False,2010,"August. Released 2010, October",119.0,103,49.9,15.3,2.4,34.7,None,None,None,None,None,None
+LG667,GW520,True,False,False,False,True,True,2009,"June. Released 2009, August",125.5,106.5,53,15.9,2.8,39.5,240,400,5:3,167,None,None
+LG667,GW550,True,True,False,False,False,False,2009,"June. Released 2009, October",125.5,116,62,12,2.4,24.8,320,240,4:3,167,Microsoft Windows Mobile 6.5 Standard,None
+LG667,GW620,True,True,False,False,False,False,2009,"September. Released 2009, November",139.0,109,54.5,15.9,3.0,45.1,320,480,3:2,192,Android 1.5,None
+LG667,GW820 eXpo,True,True,False,False,False,False,2009,"December. Released 2009, December",147.4,114,56,15,3.2,45.7,None,None,None,None,Microsoft Windows Mobile 6.5 Professional,None
+LG667,GW880,True,True,False,False,True,True,2009,"November. Released 2010, March",150.0,121.9,59.5,12.9,3.5,48.1,480,800,5:3,267,Android-based OPhone OS,None
+LG667,GW910,True,True,False,False,False,False,2010,"September. Released 2011, Q1",None,115,57.5,11.2,3.5,52.7,None,None,None,None,Microsoft Windows Phone 7,None
+LG667,GW990,True,True,False,False,False,False,2010,January,None,146.8,64.2,12,4.8,60.6,None,None,None,None,MeeGo OS,None
+LG667,GX F310L,True,True,True,False,True,True,2013,"December. Released 2014, January",167.0,150.6,76.1,9.2,5.5,72.8,1080,1920,16:9,401,Android 4.3 ,4
+LG667,GX200,True,False,False,False,True,False,2010,"February. Released 2010, March",93.0,109,48,13,2.0,24.1,176,220,None,141,None,None
+LG667,GX300,True,False,False,False,True,False,2010,"June. Released 2010, July",104.0,116,51,12.8,2.2,25.7,176,220,None,128,None,None
+LG667,GX500,True,False,False,False,True,True,2010,"April. Released 2010, April",118.0,108.9,53.4,13,3.0,44.1,240,400,5:3,155,None,None
+LG667,HB620T,True,True,False,False,False,False,2008,"February. Released 2008, May",110.0,88.5,54.9,17.9,2.0,25.5,96,34,None,None,None,None
+LG667,Harmony,True,True,True,False,False,False,2017,April,141.8,149.9,76.2,7.6,5.3,67.8,720,1280,16:9,277,Android 7.0 ,4
+LG667,Intuition VS950,True,True,True,False,False,False,2012,"September. Released 2012, September",168.1,139.7,90.4,8.4,5.0,61.3,768,1024,4:3,256,Android 4.0.4 ,2
+LG667,Jil Sander Mobile,True,True,False,False,False,False,2011,"October. Released 2011, October",None,123,61.5,11.9,3.8,54.3,480,800,5:3,246,Microsoft Windows Phone 7.5 Mango,None
+LG667,Joy,True,True,True,False,False,False,2015,"February. Released 2015, May",128.0,122.7,64,11.9,4.0,58.0,480,800,5:3,233,Android 4.4 ,2
+LG667,K10,True,True,True,False,False,False,2016,"January. Released 2016, January",142.0,146,74.8,8.8,5.3,70.9,720,1280,16:9,277,Android 5.1.1 ,4
+LG667,K10 (2017),True,True,True,False,False,False,2016,"December. Released 2017, February",144.0,148.7,75.3,7.9,5.3,69.2,720,1280,16:9,277,Android 7.0 ,8
+LG667,K10 (2018),True,True,True,False,False,False,2018,February,162.0,148.7,75.3,8.7,5.3,69.2,720,1280,16:9,277,Android 7.1.2 ,8
+LG667,K11 Plus,True,True,True,False,False,False,2018,July,162.0,148.7,75.3,8.7,5.3,69.2,720,1280,16:9,277,Android 7.1.2 ,8
+LG667,K20 (2019),True,True,True,False,False,False,2019,August,152.0,148.6,71.9,8.3,5.45,71.7,480,960,18:9,197,Android 9.0 Pie ,4
+LG667,K20 plus,True,True,True,False,False,False,2016,December,140.0,148.6,75.2,7.9,5.3,69.3,720,1280,16:9,277,Android 7.0 ,4
+LG667,K22,True,True,True,False,False,False,2020,September 12,169.5,155.7,75.4,8.4,6.2,81.7,720,1520,19:9,271,Android 10,4
+LG667,K3,True,True,True,False,False,False,2016,"August. Released 2016, September",127.0,133.8,67.7,9.4,4.5,61.6,480,854,16:9,218,Android 6.0 ,4
+LG667,K3 (2017),True,True,True,False,False,False,2016,"December. Released 2017, April",132.0,133.9,69.8,9.5,4.5,59.7,480,854,16:9,218,Android 6.0.1 ,4
+LG667,K30,True,True,True,False,False,False,2018,May,168.1,148.6,75,8.6,5.3,69.5,720,1280,16:9,277,Android 7.1 ,4
+LG667,K30 (2019),True,True,True,False,False,False,2019,August,148.0,146.9,71.5,8.5,5.45,73.0,720,1440,18:9,295,Android 9.0 ,4
+LG667,K31,True,True,True,False,False,False,2020,August 21,146.0,147.8,71.1,8.6,5.7,77.2,720,1520,19:9,295,Android 10,8
+LG667,K4,True,True,True,False,False,False,2016,"January. Released 2016, February",120.0,131.9,66.7,8.9,4.5,63.4,480,854,16:9,218,Android 5.1.1 ,4
+LG667,K4 (2017),True,True,True,False,False,False,2016,"December. Released 2017, March",138.0,144.7,72.6,7.9,5.0,66.3,480,854,16:9,195,Android 6.0.1 ,4
+LG667,K40,True,True,True,False,False,False,2019,February,144.0,153,71.9,8.3,5.7,76.2,720,1440,18:9,282,Android 8.1 ,8
+LG667,K40S,True,True,True,False,False,False,2019,August,186.0,156.3,73.9,8.6,6.1,80.4,720,1520,19:9,276,Android 9.0 ,8
+LG667,K41S,True,True,True,False,False,False,2020,February 18,191.7,165.8,76.5,8.3,6.55,81.7,720,1600,20:9,268,Android 9.0 ,8
+LG667,K42,True,True,True,False,False,False,2020,September 21,182.0,165,76.7,8.4,6.6,83.1,720,1600,20:9,266,Android 10,8
+LG667,K5,True,True,True,False,False,False,2016,"March. Released 2016, June",128.0,145,71.6,8.9,5.0,66.4,480,854,16:9,196,Android 5.1.1 ,4
+LG667,K50,True,True,True,False,False,False,2019,February,170.0,161.3,77,8.7,6.26,78.8,720,1520,19:9,269,Android 9.0 ,8
+LG667,K50S,True,True,True,False,False,False,2019,August,194.0,165.8,77.5,8.2,6.5,82.1,720,1520,19:9,259,Android 9.0 ,8
+LG667,K51S,True,True,True,False,False,False,2020,February 18,194.5,165.2,76.7,8.3,6.55,73.8,720,1600,20:9,282,Android 9.0 ,8
+LG667,K52,True,True,True,False,False,False,2020,September 23,188.0,165,76.7,8.4,6.6,83.1,720,1600,20:9,266,Android 10,8
+LG667,K61,True,True,True,False,False,False,2020,February 18,191.0,164.5,77.5,8.4,6.53,82.5,1080,2340,5:9,394,Android 9.0 ,8
+LG667,K62,True,True,True,False,False,False,2020,September 23,186.0,165,76.7,8.4,6.6,83.1,720,1600,20:9,266,Android 10,8
+LG667,K7,True,True,True,False,False,False,2016,"January. Released 2016, February",161.0,143.6,72.5,9.1,5.0,66.2,480,854,16:9,196,Android 5.1 ,4
+LG667,K7 (2017),True,True,True,False,False,False,2017,April,143.0,145.8,74.1,8.1,5.0,63.8,480,854,16:9,196,Android 6.0.1 ,4
+LG667,K71,True,True,True,False,False,False,2020,September 21,220.0,171.4,77.7,8.7,6.8,82.5,1080,2460,None,395,Android 10,8
+LG667,K8,True,True,True,False,False,False,2016,"February. Released 2016, April",157.0,144.6,71.5,8.7,5.0,66.7,720,1280,16:9,294,Android 6.0 ,4
+LG667,K8 (2017),True,True,True,False,False,False,2016,"December. Released 2017, April",144.0,144.5,72.1,8,5.0,66.6,720,1280,16:9,293,Android 7.0 ,4
+LG667,K8 (2018),True,True,True,False,False,False,2018,February,152.0,146.3,73.2,8.2,5.0,64.4,720,1280,16:9,294,Android 7.1.2 ,4
+LG667,K92 5G,True,True,True,True,False,False,2020,September 29,202.4,166.4,77.2,8.4,6.7,84.4,1080,2400,20:9,393,Android 10,8
+LG667,KB770,True,True,False,False,False,False,2008,"September. Released 2008, December",109.0,108,54,13,3.0,43.9,None,None,None,None,None,None
+LG667,KB775 Scarlet,True,True,False,False,False,False,2009,"Q1. Released 2009, April",110.0,108,54.8,13.2,3.0,43.3,240,400,5:3,155,None,None
+LG667,KC550,True,False,False,False,True,True,2008,May,110.0,96.9,51.4,14.9,2.4,35.8,None,None,None,None,None,None
+LG667,KC560,True,False,False,False,True,True,2009,March. Released 2009,100.0,106,51.4,14.9,2.4,32.7,240,320,4:3,167,None,None
+LG667,KC780,True,False,False,False,True,True,2008,"October. Released 2008, November",119.0,107,52,13.9,2.4,32.1,None,None,None,None,None,None
+LG667,KC910 Renoir,True,True,False,False,False,False,2008,"August. Released 2008, November",114.0,107.8,55.9,14,3.0,42.5,None,None,None,None,None,None
+LG667,KC910i Renoir,True,True,False,False,False,False,2009,"February. Released 2009, May",114.0,107.8,55.9,14,3.0,42.5,None,None,None,None,None,None
+LG667,KE260,True,False,False,False,True,True,2006,November,100.0,89,45,21.5,1.8,25.5,None,None,None,None,None,None
+LG667,KE500,True,False,False,False,True,True,2007,July,90.0,97,47,14.9,2.0,27.6,None,None,None,None,None,None
+LG667,KE590,True,False,False,False,True,True,2007,"October. Released 2007, November",92.0,97,48,16.5,2.0,27.0,None,None,None,None,None,None
+LG667,KE600,True,False,False,False,True,True,2006,March,90.0,97,46,18.9,2.0,27.8,None,None,None,None,None,None
+LG667,KE770 Shine,True,False,False,False,True,True,2007,February,79.0,105,46,9.9,1.77,20.4,None,None,None,None,None,None
+LG667,KE800,True,False,False,False,True,True,2006,October,95.0,95,46,17.5,None,None,None,None,None,None,None,None
+LG667,KE820,True,False,False,False,True,True,2006,October,73.0,95,52,9.9,2.0,25.5,None,None,None,None,None,None
+LG667,KE850 Prada,True,False,False,False,True,True,2007,January,85.0,98.8,54,12,3.0,48.0,None,None,None,None,None,None
+LG667,KE970 Shine,True,False,False,False,True,True,2007,January,119.0,99.8,50.6,13.8,2.2,29.7,None,None,None,None,None,None
+LG667,KE990 Viewty,True,False,False,False,True,True,2008,"March. Released 2008, April",112.0,103.5,54.4,15.3,3.0,45.5,None,None,None,None,None,None
+LG667,KF240,True,False,False,False,True,False,2008,"May. Released 2009, Q1",91.0,94,47,16,2.0,28.5,None,None,None,None,None,None
+LG667,KF245,True,False,False,False,True,False,2008,None,91.0,94,47,16,2.0,28.5,None,None,None,None,None,None
+LG667,KF300,True,False,False,False,True,True,2008,"April. Released 2008, August",97.0,99,50,16,2.2,30.3,128,160,None,None,None,None
+LG667,KF305,True,False,False,False,True,True,2010,"February. Released 2010, March",90.0,98.8,49.5,16.2,2.2,30.6,128,160,None,None,None,None
+LG667,KF310,True,True,False,False,False,False,2008,"February. Released 2008, May",95.0,97,48,16.8,2.0,27.0,None,None,None,None,None,None
+LG667,KF311,True,True,False,False,False,False,2009,February. Released 2009,95.0,94,47,16.8,2.0,28.5,None,None,None,None,None,None
+LG667,KF350,True,False,False,False,True,True,2008,"August. Released 2008, November",102.0,100.9,50.9,14.8,2.2,29.2,None,None,None,None,None,None
+LG667,KF390,True,True,False,False,False,False,2008,"July. Released 2009, Q1",110.0,99,48,17.4,2.0,26.5,176,220,None,141,None,None
+LG667,KF510,True,False,False,False,True,True,2008,"February. Released 2008, April",91.0,104.5,49.5,10.9,2.2,29.0,None,None,None,None,None,None
+LG667,KF600,True,False,False,False,True,True,2008,"February. Released 2008, March",107.0,101.2,50.7,14.1,2.0,24.1,176,240,None,None,None,None
+LG667,KF700,True,True,False,False,False,False,2008,"February. Released 2008, June",107.0,102,51,14.5,3.0,44.6,None,None,None,None,None,None
+LG667,KF750 Secret,True,True,False,False,False,False,2008,"April. Released 2008, June",116.0,102.8,50.8,11.8,2.4,34.2,240,320,4:3,167,None,None
+LG667,KF755 Secret,True,False,False,False,True,True,2008,"April. Released 2008, December",112.0,102.8,50.8,11.8,2.4,34.2,240,320,4:3,167,None,None
+LG667,KF757 Secret,True,True,False,False,False,False,2008,"April. Released 2008, June",116.0,102.8,50.8,11.8,2.4,34.2,240,320,4:3,167,None,None
+LG667,KF900 Prada,True,True,False,False,False,False,2008,"October. Released 2008, December",130.0,104.5,54,16.8,3.0,45.4,None,None,None,None,None,None
+LG667,KG110,True,False,False,False,True,False,2006,September,70.0,102.8,44,16.5,1.5,16.0,128,128,1:1,121,None,None
+LG667,KG120,True,False,False,False,True,False,2006,October,80.0,85,43,22,None,None,None,None,None,None,None,None
+LG667,KG130,True,False,False,False,True,False,2007,April,76.0,103.4,44.1,18.4,1.5,15.9,128,128,1:1,121,None,None
+LG667,KG190,True,False,False,False,True,False,2006,May,85.0,84.5,45.5,17,1.3,14.2,128,128,1:1,139,None,None
+LG667,KG195,True,False,False,False,True,False,2007,Q3,69.9,100,45,12.4,1.8,22.7,None,None,None,None,None,None
+LG667,KG200,True,False,False,False,True,False,2006,November,89.0,100,46,15,1.8,22.2,None,None,None,None,None,None
+LG667,KG210,True,False,False,False,True,False,2006,April,85.0,84.5,45.5,21.7,None,None,128,128,1:1,None,None,None
+LG667,KG220,True,False,False,False,True,False,2006,April,73.0,81.8,43.4,23.3,None,None,128,128,1:1,None,None,None
+LG667,KG225,True,False,False,False,True,False,2006,April,70.0,84.5,45,22.2,None,None,128,128,1:1,None,None,None
+LG667,KG240,True,False,False,False,True,False,2006,June,79.0,89,46,21.8,None,None,96,64,None,None,None,None
+LG667,KG245,True,False,False,False,True,False,2006,April,70.0,89,46,21.9,None,None,96,64,None,None,None,None
+LG667,KG270,True,False,False,False,False,False,2007,June,60.0,98,45,12.9,None,None,None,None,None,None,None,None
+LG667,KG275,True,False,False,False,False,False,2007,June,59.0,98,45,12.9,1.5,16.5,128,128,1:1,121,None,None
+LG667,KG280,True,False,False,False,True,False,2007,June. Released 2007,83.0,95,46,17.1,1.86,24.9,None,None,None,None,None,None
+LG667,KG288,True,False,False,False,False,False,2007,None,65.0,99.5,45,12.9,1.7,20.3,128,160,None,121,None,None
+LG667,KG290,True,False,False,False,True,False,2007,"September. Released 2008, February",90.0,92,46,17.7,1.77,23.3,None,None,None,None,None,None
+LG667,KG300,True,False,False,False,True,False,2006,November,89.0,100,46,17,2.0,26.9,None,None,None,None,None,None
+LG667,KG320,True,False,False,False,True,False,2006,March,70.0,96,46,9.9,1.8,23.1,None,None,None,None,None,None
+LG667,KG330,True,False,False,False,True,False,2006,October,70.0,106,47,16,2.0,25.3,None,None,None,None,None,None
+LG667,KG375,True,False,False,False,False,False,2007,December. Released 2008,68.0,85,45,19.8,None,None,128,128,1:1,None,None,None
+LG667,KG800,True,False,False,False,True,False,2006,March,83.0,95,48,15.2,None,None,None,None,None,None,None,None
+LG667,KG810,True,False,False,False,True,False,2006,May,83.0,92,47,14.9,None,None,96,96,None,None,None,None
+LG667,KG920,True,False,False,False,True,False,2006,February,138.0,108,50,18,2.0,22.9,None,None,None,None,None,None
+LG667,KH3900 Joypop,True,False,False,False,True,True,2010,"April. Released 2010, June",108.0,108.5,52,14.6,2.8,39.6,None,None,None,None,None,None
+LG667,KH5200 Andro-1,True,True,False,False,True,True,2010,"March. Released 2010, June",139.0,109,54,15.9,3.0,45.5,None,None,None,None,Android OS,None
+LG667,KM330,True,False,False,False,True,False,2009,"February. Released 2009, April",84.0,108.2,47.2,13.8,2.0,24.3,None,None,None,None,None,None
+LG667,KM338,True,False,False,False,True,False,2008,February. Released 2008,None,108,46,12.9,2.0,24.9,None,None,None,None,None,None
+LG667,KM380,True,False,False,False,True,False,2008,"June. Released 2008, July",79.0,108,48,13,2.0,23.9,None,None,None,None,None,None
+LG667,KM386,True,False,False,False,True,False,2008,May. Released 2008,79.0,108,48,13,1.7,17.3,None,None,None,None,None,None
+LG667,KM500,True,False,False,False,True,True,2008,"February. Released 2008, March",None,101.5,48,15,2.0,25.4,None,None,None,None,None,None
+LG667,KM555E,True,True,False,False,False,False,2009,"November. Released 2010, January",90.0,105.9,53.4,12,3.0,45.3,240,400,5:3,155,None,None
+LG667,KM570 Cookie Gig,True,True,False,False,False,False,2010,"April. Released 2010, May",87.0,105.9,52.6,11.9,3.0,46.0,240,400,5:3,155,None,None
+LG667,KM710,True,False,False,False,True,True,2008,"February. Released 2008, July",118.0,103,48,15.4,2.0,25.1,128,128,None,None,None,None
+LG667,KM900 Arena,True,True,False,False,False,False,2009,"February. Released 2009, April",105.0,105.9,55.3,12,3.0,43.7,480,800,5:3,311,None,None
+LG667,KP100,True,False,False,False,True,False,2008,"April. Released 2008, August",65.0,99.8,45.5,12.9,1.5,16.0,None,None,None,None,None,None
+LG667,KP105,True,False,False,False,False,False,2008,"April. Released 2008, May",65.0,101,46,12.9,1.5,15.6,None,None,None,None,None,None
+LG667,KP108,True,False,False,False,True,False,2010,"March. Released 2010, April",65.0,101,46,12.9,1.52,16.0,128,128,1:1,119,None,None
+LG667,KP110,True,False,False,False,True,False,2008,"April. Released 2008, May",65.0,103.1,46,13.4,1.5,15.3,128,128,1:1,121,None,None
+LG667,KP130,True,False,False,False,True,False,2008,February. Released 2008,None,99.8,45.3,13.4,1.5,16.1,128,128,1:1,121,None,None
+LG667,KP152,True,False,False,False,True,False,2008,September. Released 2008,80.0,88,47,17.3,1.5,17.5,128,128,1:1,121,None,None
+LG667,KP170,True,False,False,False,True,False,2008,December. Released 2009,72.0,105.2,45.6,13.9,1.77,20.6,128,160,None,116,None,None
+LG667,KP199,True,False,False,False,True,False,2008,August. Released 2008,84.0,105,46,15,1.77,20.4,128,160,None,116,None,None
+LG667,KP200,True,False,False,False,True,False,2007,June,76.0,86,45,20.1,None,None,96,64,None,None,None,None
+LG667,KP202,True,False,False,False,True,False,2007,May,78.0,87,45,19.8,None,None,96,64,None,None,None,None
+LG667,KP210,True,False,False,False,True,False,2008,February. Released 2008,80.0,89,46.5,18,1.0,7.6,96,64,None,None,None,None
+LG667,KP215,True,False,False,False,True,False,2008,"April. Released 2008, September",78.0,89,46.5,18,1.77,23.8,96,64,None,None,None,None
+LG667,KP220,True,False,False,False,True,True,2008,May. Released 2008,72.0,103,46,12,1.7,18.9,120,160,4:3,118,None,None
+LG667,KP235,True,False,False,False,True,False,2008,February. Released 2008,81.0,89,46.5,17.9,1.7,22.0,96,64,None,None,None,None
+LG667,KP260,True,False,False,False,True,False,2008,"September. Released 2009, Q1",90.0,96.6,46.5,16.9,1.77,21.9,128,160,None,116,None,None
+LG667,KP265,True,False,False,False,True,False,2008,July. Released 2008,90.0,96,46,17,1.77,22.3,128,160,None,116,None,None
+LG667,KP270,True,True,False,False,False,False,2008,December. Released 2008,99.0,98,48,16.9,2.0,26.8,176,220,None,141,None,None
+LG667,KP320,True,False,False,False,True,True,2008,May,82.0,105,46,13.5,2.0,25.6,240,320,4:3,200,None,None
+LG667,KP500 Cookie,True,False,False,False,True,True,2008,"September. Released 2008, December",89.0,106.5,55.4,11.9,3.0,43.4,None,None,None,None,None,None
+LG667,KP501 Cookie,True,False,False,False,True,True,2009,"January. Released 2009, February",89.0,106.5,55.4,11.9,3.0,43.4,None,None,None,None,None,None
+LG667,KP502 Cookie,True,False,False,False,True,True,2009,"June. Released 2009, June",89.0,106.5,55.4,11.9,3.0,43.4,None,None,None,None,None,None
+LG667,KS10,True,True,False,False,False,False,2007,February,118.0,103,51,18.5,2.4,34.0,None,None,None,None,Symbian OS 9.2,None
+LG667,KS20,True,True,False,False,False,False,2007,"September. Released 2008, January",92.5,99.8,58,12.8,2.8,41.9,None,None,None,None,Microsoft Windows Mobile 6.0 Professional,None
+LG667,KS360,True,False,False,False,True,True,2008,"July. Released 2008, July",111.5,101.5,51,16.8,2.4,34.5,None,None,None,None,None,None
+LG667,KS365,True,False,False,False,True,True,2010,"August. Released 2010, August",111.0,101.5,51,16.8,2.4,34.5,None,None,None,None,None,None
+LG667,KS500,True,True,False,False,False,False,2008,"October. Released 2009, March",106.0,102.8,49.2,14.9,2.0,24.5,240,320,4:3,200,None,None
+LG667,KS660,True,False,False,False,True,True,2009,"February. Released 2009, May",110.0,105,55,15,3.0,44.4,240,400,5:3,155,None,None
+LG667,KT520,True,True,False,False,False,False,2008,"February. Released 2008, August",97.0,101.4,49.6,15.3,2.2,29.8,None,None,None,None,None,None
+LG667,KT610,True,True,False,False,False,False,2008,"February. Released 2008, September",125.5,108.9,53.9,17.2,2.4,30.4,None,None,None,None,Symbian 9.2,None
+LG667,KT770,True,True,False,False,False,False,2009,"February. Released 2009, Q2",None,111,51.5,15.8,2.8,39.0,None,None,None,None,Symbian OS 9.3 Series60 rel. 3.2.3,None
+LG667,KU2100,True,True,False,False,False,False,2010,"January. Released 2010, March",121.0,109.8,53.4,12.9,3.0,43.7,None,None,None,None,Microsoft Windows Mobile 6.5 Professional,None
+LG667,KU250,True,True,False,False,False,False,2007,February,73.0,110.9,46.7,15.6,1.7,17.6,None,None,None,None,None,None
+LG667,KU311,True,True,False,False,False,False,2007,February,98.0,93.7,49,18.6,None,None,96,96,None,None,None,None
+LG667,KU380,True,True,False,False,False,False,2007,November. Released 2008,91.0,96,45,17.9,1.76,22.6,None,None,None,None,None,None
+LG667,KU385,True,True,False,False,False,False,2007,"October. Released 2007, October",95.0,96,45,17.9,1.9,26.3,None,None,None,None,None,None
+LG667,KU580,True,True,False,False,False,False,2007,"April. Released 2007, December",73.0,94,53,16.5,2.0,24.9,None,None,None,None,None,None
+LG667,KU730,True,True,False,False,False,False,2006,February,105.0,96.9,46.9,19.5,None,None,96,96,None,None,None,None
+LG667,KU800,True,True,False,False,False,False,2006,September,98.0,94.6,45.6,17,1.5,16.2,None,None,None,None,None,None
+LG667,KU950,True,True,False,False,False,False,2007,February,116.0,102,52.6,18.9,2.4,33.2,None,None,None,None,None,None
+LG667,KU970 Shine,True,True,False,False,False,False,2007,February,120.0,99.8,50.6,13.8,2.2,29.7,None,None,None,None,None,None
+LG667,KU990 Viewty,True,True,False,False,False,False,2007,"August. Released 2007, October",112.0,103.5,54.4,14.8,3.0,45.5,None,None,None,None,None,None
+LG667,L Bello,True,True,False,False,False,False,2014,"August. Released 2014, September",137.0,138.1,70.6,10.7,5.0,70.7,480,854,16:9,196,Android 4.4.2 ,4
+LG667,L Fino,True,True,False,False,False,False,2014,"August. Released 2014, September",145.0,127.5,67.9,11.9,4.5,66.6,480,800,5:3,207,Android 4.4.2 ,4
+LG667,L Prime,True,True,False,False,False,False,2014,"November. Released 2014, November",None,138.2,70.6,10.7,5.0,70.6,480,854,16:9,196,Android 4.4.2 ,4
+LG667,L1100,True,False,False,False,True,False,2004,Q2,90.0,89,50.4,24.1,None,None,96,64,None,None,None,None
+LG667,L20,True,True,False,False,False,False,2014,"July. Released 2014, July",None,105.6,64.5,13,3.0,40.9,240,320,4:3,133,Android 4.4.2 ,2
+LG667,L30,True,True,False,False,False,False,2014,"June. Released 2014, June",None,105.6,64.5,13,3.2,46.6,240,320,4:3,125,Android 4.4.2 ,2
+LG667,L3100,True,False,False,False,True,False,2004,Q2,87.0,105,44,18,None,None,None,None,None,None,None,None
+LG667,L341i,True,False,False,False,True,False,2005,Q2,90.0,105,43,19.5,None,None,None,None,None,None,None,None
+LG667,L342i,True,False,False,False,True,False,2005,Q2,90.0,91,44,24.7,None,None,96,64,None,None,None,None
+LG667,L343i,True,False,False,False,True,False,2006,August,86.0,89,47,21.9,None,None,96,64,None,None,None,None
+LG667,L35,True,True,False,False,False,False,2014,"May. Released 2014, June",107.0,109.4,59,11.9,3.2,47.2,320,480,3:2,180,Android OS,2
+LG667,L40 D160,True,True,False,False,False,False,2014,"February. Released 2014, April",114.0,109.4,59,11.9,3.5,56.5,320,480,3:2,165,Android 4.4.2 ,2
+LG667,L40 Dual D170,True,True,False,False,False,False,2014,"February. Released 2014, May",113.4,109.4,59,11.9,3.5,56.5,320,480,3:2,165,Android 4.4.2 ,2
+LG667,L45 Dual X132,True,True,False,False,False,False,2014,None,None,109,59.9,12,3.5,55.9,320,480,3:2,165,Android 4.4.2 ,2
+LG667,L50,True,True,False,False,False,False,2014,"July. Released 2014, July",142.0,124.5,65.4,12.2,4.0,55.9,480,800,5:3,233,Android 4.4.2 ,2
+LG667,L5100,True,False,False,False,True,False,2004,Q3,120.0,98,48,26,None,None,96,96,None,None,None,None
+LG667,L60,True,True,False,False,False,False,2014,"August. Released 2014, August",119.0,124.1,66.3,11.8,4.3,64.0,480,800,5:3,217,Android 4.4.2 ,2
+LG667,L60 Dual,True,True,False,False,False,False,2014,"August. Released 2014, August",None,124.1,66.3,12,4.3,64.0,480,800,5:3,217,Android 4.4.2 ,2
+LG667,L600v,True,True,False,False,False,False,2006,October,98.0,93.7,49,18.8,2.0,27.4,96,96,None,None,None,None
+LG667,L65 D280,True,True,False,False,False,False,2014,"June. Released 2014, June",127.0,127.2,66.8,9.5,4.3,61.9,480,800,5:3,217,Android 4.4.2 ,2
+LG667,L65 Dual D285,True,True,False,False,False,False,2014,"April. Released 2014, May",126.0,127.2,66.8,9.6,4.3,61.9,480,800,5:3,217,Android 4.4.2 ,2
+LG667,L70 D320N,True,True,False,False,False,False,2014,"February. Released 2014, April",124.0,127.2,66.8,9.5,4.5,67.8,480,800,5:3,207,Android 4.4.2 ,2
+LG667,L70 Dual D325,True,True,False,False,False,False,2014,"February. Released 2014, May",126.6,127.2,66.8,9.5,4.5,67.8,480,800,5:3,207,Android 4.4.2 ,2
+LG667,L80,True,True,False,False,False,False,2014,"Q2. Released 2014, Q2",138.0,138.2,74.3,9.7,5.0,69.3,480,800,5:3,187,Android 4.4.2 ,2
+LG667,L80 Dual,True,True,False,False,False,False,2014,"April. Released 2014, May",None,138.2,74.3,9.7,5.0,69.3,480,800,5:3,187,Android 4.4.2 ,2
+LG667,L90 D405,True,True,False,False,False,False,2014,"February. Released 2014, March",126.0,131.6,66,9.7,4.7,70.1,540,960,16:9,234,Android 4.4.2 ,4
+LG667,L90 Dual D410,True,True,False,False,False,False,2014,"February. Released 2014, April",125.0,131.6,66,9.7,4.7,70.1,540,960,16:9,234,Android 4.4.2 ,4
+LG667,LG 510w,True,False,False,False,False,False,2002,None,78.0,83,45,19,None,None,None,None,None,None,None,None
+LG667,LG-200,True,False,False,False,False,False,None,None,80.0,106,45,20,None,None,128,64,18:9,None,None,None
+LG667,LG-500,True,False,False,False,False,False,2002,None,90.0,109,46,20,None,None,None,None,None,None,None,None
+LG667,LG-600,True,False,False,False,False,False,2002,None,90.0,80,44,24,None,None,96,12,None,None,None,None
+LG667,Leon,True,True,True,False,False,False,2015,"February. Released 2015, April",140.0,129.9,64.9,10.9,4.5,66.2,480,854,16:9,218,Android 5.0.1 ,4
+LG667,Lucid 3 VS876,True,True,True,False,False,False,2014,"April. Released 2014, April",123.9,131.6,66,9.9,4.7,70.1,540,960,16:9,234,Android 4.4.2 ,4
+LG667,Lucid 4G VS840,True,True,True,False,False,False,2012,"March. Released 2012, April",142.0,119.1,62.2,11.4,4.0,61.5,480,800,5:3,233,Android 2.3.6 ,2
+LG667,Lucid2 VS870,True,True,True,False,False,False,2013,"April. Released 2013, April",129.0,122.5,62.8,9.8,4.3,66.3,540,960,16:9,256,Android 4.1.2 ,2
+LG667,M4300,True,False,False,False,True,True,2005,Q1,110.0,94,48,25,None,None,96,96,None,None,None,None
+LG667,M4330,True,False,False,False,True,True,2005,Q2,110.0,None,None,None,None,None,96,96,None,None,None,None
+LG667,M4410,True,False,False,False,True,True,2005,Q1,107.0,94,48,25,None,None,96,96,None,None,None,None
+LG667,M6100,True,False,False,False,True,False,2006,January,88.0,89.7,40,19.9,1.3,14.8,None,None,None,None,None,None
+LG667,MG160,True,False,False,False,True,False,2007,September,60.0,98,45,12.9,1.5,16.5,128,128,1:1,121,None,None
+LG667,MG295,True,False,False,False,True,False,2008,January. Released 2008,80.0,90,45.6,19.4,None,None,96,64,None,None,None,None
+LG667,Mach LS860,True,True,True,False,False,False,2012,"October. Released 2012, December",167.8,117.9,65,12.2,4.0,59.4,480,800,5:3,233,Android 4.0 ,2
+LG667,Magna,True,True,True,False,False,False,2015,"February. Released 2015, May",137.0,139.8,69.9,10.1,5.0,70.5,720,1280,16:9,294,Android 5.0.1 ,4
+LG667,Marquee LS855,True,True,False,False,False,False,2011,"September. Released 2011, October",112.0,122,64,9,4.0,58.3,480,800,5:3,233,Android 2.3 ,None
+LG667,Motion 4G MS770,True,True,True,False,False,False,2012,"August. Released 2012, August",132.0,111,61,11.7,3.5,53.9,320,480,3:2,165,Android 4.0 ,2
+LG667,Nexus 4 E960,True,True,False,False,False,False,2012,"October. Released 2012, November",139.0,133.9,68.7,9.1,4.7,68.3,768,1280,5:3,318,Android 4.2 ,4
+LG667,Nexus 5,True,True,True,False,False,False,2013,"October. Released 2013, November",130.0,137.9,69.2,8.6,4.95,70.8,1080,1920,16:9,445,Android 4.4 ,4
+LG667,Nexus 5X,True,True,True,False,False,False,2015,"September. Released 2015, October",136.0,147,72.6,7.9,5.2,70.2,1080,1920,16:9,423,Android 6.0 ,None
+LG667,Nitro HD,True,True,True,False,False,False,2011,"November. Released 2011, December",127.0,133.9,67.8,10.4,4.5,61.5,720,1280,16:9,326,Android 2.3.5 ,2
+LG667,Octane,True,True,False,False,False,False,2010,"October. Released 2010, October",128.0,107,55,16,2.6,35.6,176,220,None,None,None,None
+LG667,Optimus 2 AS680,True,True,False,False,False,False,2011,Q4,124.7,111.8,58.9,11.9,3.2,46.3,320,480,3:2,180,Android 2.3 ,None
+LG667,Optimus 2X,True,True,False,False,False,False,2010,"December. Released 2011, February",139.0,123.9,63.2,10.9,4.0,58.2,480,800,5:3,233,Android 2.2 ,2
+LG667,Optimus 2X SU660,True,True,False,False,True,True,2010,"December. Released 2011, January",139.0,123.9,63.2,10.9,4.0,58.2,480,800,5:3,233,Android 2.2 ,2
+LG667,Optimus 3D Cube SU870,True,True,False,False,True,True,2012,"February. Released 2012, Q3",148.0,126.8,67.4,9.6,4.3,61.6,None,None,None,None,Android 2.3 ,2
+LG667,Optimus 3D Max P720,True,True,False,False,False,False,2012,"February. Released 2012, May",148.0,126.8,67.4,9.6,4.3,61.6,480,800,5:3,217,Android 2.3 ,2
+LG667,Optimus 3D P920,True,True,False,False,False,False,2011,"January. Released 2011, July",168.0,128.8,68,11.9,4.3,60.1,480,800,5:3,217,Android 2.2 ,2
+LG667,Optimus 4G LTE P935,True,True,True,False,False,False,2011,"November. Released 2011, November",135.0,133.9,67.9,10.5,4.5,61.4,720,1280,16:9,326,Android 2.3 ,2
+LG667,Optimus 4X HD P880,True,True,False,False,False,False,2012,"February. Released 2012, June",133.0,132.4,68.1,8.9,4.7,67.5,720,1280,16:9,312,Android 4.0 ,4
+LG667,Optimus Big LU6800,True,True,False,False,False,False,2011,"April. Released 2011, April",151.0,132,67.3,10.1,4.3,59.2,480,800,5:3,217,Android 2.2 ,None
+LG667,Optimus Black (White version),True,True,False,False,False,False,2011,"July. Released 2011, July",109.0,122,64,9.2,4.0,58.3,480,800,5:3,233,Android 2.2 ,None
+LG667,Optimus Black P970,True,True,False,False,False,False,2011,"January. Released 2011, May",109.0,122,64,9.2,4.0,58.3,480,800,5:3,233,Android 2.2 ,None
+LG667,Optimus Chat C550,True,True,False,False,False,False,2011,"February. Released 2011, March",122.0,109,59,16,2.8,36.3,320,480,3:2,206,Android 2.2 ,None
+LG667,Optimus Chic E720,True,True,False,False,False,False,2010,"July. Released 2010, November",132.0,112.5,57.9,12.9,3.2,46.8,320,480,3:2,180,Android 2.2 ,None
+LG667,Optimus EX SU880,True,True,False,False,False,False,2011,"September. Released 2011, December",127.0,118,63.4,9.7,4.0,60.9,480,800,5:3,233,Android 2.3.4 ,2
+LG667,Optimus Elite LS696,True,True,False,False,False,False,2012,"May. Released 2012, May",120.0,117,63,10,3.5,49.5,320,480,3:2,165,Android 2.3.7 ,None
+LG667,Optimus F3,True,True,True,False,False,False,2013,"June. Released 2013, June",113.4,116.1,62,10.1,4.0,63.3,480,800,5:3,233,Android 4.1.2 ,2
+LG667,Optimus F3Q,True,True,True,False,False,False,2014,"January. Released 2014, February",159.9,121.9,64.8,14,4.0,57.7,480,800,5:3,233,Android 4.1.2 ,2
+LG667,Optimus F5,True,True,True,False,False,False,2013,"February. Released 2013, May",131.0,126,64.5,9.3,4.3,62.7,540,960,16:9,256,Android 4.1.2 ,2
+LG667,Optimus F6,True,True,True,False,False,False,2013,"August. Released 2013, September",126.0,128,65.9,10.2,4.5,66.2,540,960,16:9,245,Android 4.1.2 ,2
+LG667,Optimus F7,True,True,True,False,False,False,2013,"February. Released 2013, June",133.2,131.7,68.2,9.6,4.7,67.4,720,1280,16:9,313,Android 4.1.2 ,2
+LG667,Optimus G E970,True,True,True,False,False,False,2012,"September. Released 2012, November",147.1,130.8,71.6,8.4,4.7,67.1,768,1280,5:3,318,Android 4.0 ,4
+LG667,Optimus G E975,True,True,True,False,False,False,2012,"August. Released 2012, November",145.0,131.9,68.9,8.5,4.7,69.2,768,1280,5:3,318,Android 4.1.2 ,4
+LG667,Optimus G LS970,True,True,True,False,False,False,2012,"October. Released 2012, Q4",144.9,131.9,68.9,8.5,4.7,69.2,None,None,None,None,Android 4.0 ,None
+LG667,Optimus G Pro E985,True,True,True,False,False,False,2013,"February. Released 2013, April",172.0,150.2,76.1,9.4,5.5,73.0,1080,1920,16:9,401,Android 4.1.2 ,4
+LG667,Optimus GJ E975W,True,True,False,False,False,False,2013,"May. Released 2013, June",141.2,136.9,68.9,9.4,4.7,64.6,720,1280,16:9,312,Android 4.1.2 ,4
+LG667,Optimus Hub E510,True,True,False,False,False,False,2011,"September. Released 2011, October",123.0,113.4,60.8,11.9,3.5,52.9,320,480,3:2,165,Android 2.3.4 ,None
+LG667,Optimus L1 II E410,True,True,False,False,False,False,2013,"February. Released 2013, April",105.0,102.9,59.2,12.2,3.0,45.8,240,320,4:3,133,Android 4.1.2 ,None
+LG667,Optimus L1 II Tri E475,True,True,False,False,False,False,2014,"February. Released 2014, February",104.6,102.6,58.9,13.3,3.0,46.1,240,320,4:3,133,Android 4.1.2 ,None
+LG667,Optimus L2 II E435,True,True,False,False,False,False,2013,"October. Released 2014, March",110.0,102,61,12,3.2,51.0,240,320,4:3,125,Android 4.1.2 ,None
+LG667,Optimus L3 E400,True,True,False,False,False,False,2012,"January. Released 2012, February",110.0,102.6,61.6,11.9,3.2,50.2,240,320,4:3,125,Android 2.3.6 ,None
+LG667,Optimus L3 E405,True,True,False,False,False,False,2012,"January. Released 2012, July",119.0,102.6,61.6,11.9,3.2,50.2,240,320,4:3,125,Android 2.3.6 ,None
+LG667,Optimus L3 II Dual E435,True,True,False,False,False,False,2013,"February. Released 2013, April",110.0,102.9,61.3,11.9,3.2,50.3,240,320,4:3,125,Android 4.1.2 ,None
+LG667,Optimus L3 II E430,True,True,False,False,False,False,2013,"February. Released 2013, April",107.0,102.6,61.1,11.9,3.2,50.6,240,320,4:3,125,Android 4.1.2 ,None
+LG667,Optimus L4 II Dual E445,True,True,False,False,False,False,2013,"June. Released 2013, July",125.0,112.8,64.7,11.9,3.8,58.9,320,480,3:2,152,Android 4.1.2 ,None
+LG667,Optimus L4 II E440,True,True,False,False,False,False,2013,"June. Released 2013, July",125.0,112.5,64.7,11.9,3.8,59.1,320,480,3:2,152,Android 4.1.2 ,None
+LG667,Optimus L4 II Tri E470,True,True,False,False,False,False,2013,"October. Released 2013, October",140.0,112.8,64.7,12.7,3.8,58.9,320,480,3:2,152,Android 4.1.2 ,None
+LG667,Optimus L5 Dual E615,True,True,False,False,False,False,2012,"August. Released 2012, September",120.0,118.3,66.5,9.5,4.0,60.6,None,None,None,None,Android 4.0.3 ,None
+LG667,Optimus L5 E610,True,True,False,False,False,False,2012,"February. Released 2012, June",125.0,118.3,66.5,9.5,4.0,60.6,320,480,3:2,144,Android 4.0 ,None
+LG667,Optimus L5 II Dual E455,True,True,False,False,False,False,2013,"February. Released 2013, April",100.0,118.4,62.2,9.2,4.0,61.8,480,800,5:3,233,Android 4.1.2 ,None
+LG667,Optimus L5 II E460,True,True,False,False,False,False,2013,"February. Released 2013, April",103.3,117.5,62.2,9.2,4.0,62.3,480,800,5:3,233,Android 4.1.2 ,None
+LG667,Optimus L7 II Dual P715,True,True,False,False,False,False,2013,"February. Released 2013, March",115.5,122.2,66.6,9.7,4.3,64.7,480,800,5:3,217,Android 4.1.2 ,2
+LG667,Optimus L7 II P710,True,True,False,False,False,False,2013,"February. Released 2013, March",118.0,121.5,66.6,9.7,4.3,65.0,480,800,5:3,217,Android 4.1.2 ,2
+LG667,Optimus L7 P700,True,True,False,False,False,False,2012,"February. Released 2012, May",122.0,125.5,67,8.7,4.3,62.6,480,800,5:3,217,Android 4.0.3 ,None
+LG667,Optimus L9 II,True,True,False,False,False,False,2013,"August. Released 2013, October",120.0,128.4,66.5,9,4.7,71.3,720,1280,16:9,312,Android 4.1.2 ,2
+LG667,Optimus L9 P760,True,True,False,False,False,False,2012,"August. Released 2012, November",125.0,131.9,68.2,9.1,4.7,67.7,540,960,16:9,234,Android 4.0.4 ,2
+LG667,Optimus L9 P769,True,True,False,False,False,False,2012,"October. Released 2012, November",119.1,127.8,68.8,9.1,4.5,63.5,540,960,16:9,245,Android 4.0.4 ,2
+LG667,Optimus LTE,True,True,True,False,False,False,None,None,135.0,132.9,67.9,10.4,4.5,61.9,720,1280,16:9,326,Android 2.3.6 ,2
+LG667,Optimus LTE LU6200,True,True,True,False,False,False,2011,"October. Released 2012, January",139.0,132.9,67.9,10.4,4.5,61.9,None,None,None,None,Android 2.3.5 ,2
+LG667,Optimus LTE SU640,True,True,True,False,False,False,2011,"October. Released 2012, August",135.0,132.9,67.9,10.4,4.5,61.9,None,None,None,None,Android 2.3.5 ,2
+LG667,Optimus LTE Tag,True,True,True,False,False,False,2012,"February. Released 2012, Q3",None,126.5,67.9,9.5,4.3,61.3,480,800,5:3,217,Android 2.3 ,2
+LG667,Optimus LTE2,True,True,True,False,False,False,2012,"May. Released 2012, August",145.0,134.7,69.5,8.9,4.7,65.0,None,None,None,None,Android 4.0 ,2
+LG667,Optimus M,True,True,False,False,False,False,2010,"November. Released 2010, November",153.0,116,56,16,3.2,46.9,320,480,3:2,180,Android 2.2 ,None
+LG667,Optimus M+ MS695,True,True,False,False,False,False,2012,"March. Released 2012, April",119.0,113.8,62.7,9.9,3.5,51.1,320,480,3:2,165,Android 2.3 ,None
+LG667,Optimus Mach LU3000,True,True,False,False,False,False,2010,"December. Released 2010, December",140.0,112.5,57.9,12.9,3.8,63.1,480,800,5:3,246,Android 2.2 ,None
+LG667,Optimus Me P350,True,True,False,False,False,False,2011,"January. Released 2011, February",110.0,108,57.5,12.2,2.8,39.1,240,320,4:3,143,Android 2.2 ,None
+LG667,Optimus Net,True,True,False,False,False,False,2011,"July. Released 2011, July",129.2,113.5,59,12.1,3.2,45.5,320,480,3:2,180,Android 2.3.3 ,None
+LG667,Optimus Net Dual,True,True,False,False,False,False,2011,Q3,102.0,114,59,12.1,3.2,45.3,320,480,3:2,180,Android 2.3.4 ,None
+LG667,Optimus One P500,True,True,False,False,False,False,2010,"July. Released 2010, October",129.0,113.5,59,13.3,3.2,45.5,320,480,3:2,180,Android 2.2 ,None
+LG667,Optimus Pad LTE,True,True,True,False,False,False,2012,"January. Released 2012, Q4",497.0,245,151.4,9.3,8.9,60.8,768,1280,5:3,168,Android 3.2 ,2
+LG667,Optimus Pad V900,True,True,False,False,False,False,2011,"February. Released 2011, May",621.0,243.8,150,12.7,8.9,61.7,768,1280,5:3,168,Android 3.0 ,2
+LG667,Optimus Pro C660,True,True,False,False,False,False,2011,"July. Released 2011, September",129.0,119.5,59.7,12.9,2.8,34.0,240,320,4:3,143,Android 2.3.3 ,None
+LG667,Optimus Q LU2300,True,True,False,False,False,False,2010,"April. Released 2010, May",157.0,118.8,57,14.3,3.5,51.5,480,800,5:3,267,Android 2.1 ,None
+LG667,Optimus Q2 LU6500,True,True,False,False,False,False,2011,"September. Released 2011, September",147.0,123,65,12.3,4.0,57.0,480,800,5:3,233,Android 2.3.4 ,2
+LG667,Optimus S,True,True,False,False,False,False,2010,"October. Released 2010, December",130.0,114,59,13,3.2,45.3,320,480,3:2,180,Android 2.2 ,None
+LG667,Optimus Slider,True,True,False,False,False,False,2011,"October. Released 2011, October",None,115,59,15,3.2,44.9,320,480,3:2,180,Android 2.3 ,None
+LG667,Optimus Sol E730,True,True,False,False,False,False,2011,"August. Released 2011, September",110.0,122.5,62.5,9.8,3.8,53.7,480,800,5:3,246,Android 2.3.4 ,None
+LG667,Optimus T,True,True,False,False,False,False,2010,"October. Released 2010, December",129.0,113.5,59,13.3,3.2,45.5,320,480,3:2,180,Android 2.2 ,None
+LG667,Optimus True HD LTE P936,True,True,True,False,False,False,2012,"April. Released 2012, May",135.0,132.9,67.9,10.4,4.5,61.9,720,1280,16:9,326,Android 2.3.6 ,2
+LG667,Optimus Vu F100S,True,True,True,False,False,False,2012,"February. Released 2012, March",168.0,139.6,90.4,8.5,5.0,61.3,768,1024,4:3,256,Android 2.3.5 ,2
+LG667,Optimus Vu II,True,True,False,False,True,True,2013,February,159.0,132.2,85.6,9.4,5.0,68.4,768,1024,4:3,256,Android 4.0.4 ,2
+LG667,Optimus Vu II F200,True,True,True,False,False,False,2012,"September. Released 2012, Q4",159.0,132.2,85.6,9.4,5.0,68.4,768,1024,4:3,256,Android 4.0.4 ,2
+LG667,Optimus Vu P895,True,True,False,False,False,False,2012,"August. Released 2012, November",168.0,139.6,90.4,8.5,5.0,61.3,768,1024,4:3,256,Android 4.0.4 ,4
+LG667,Optimus Z,True,True,False,False,False,False,2010,"April. Released  2010, July",135.0,117.9,56.9,11,3.5,56.5,480,640,4:3,229,Android 2.1 ,None
+LG667,Optimus Zone VS410,True,True,False,False,False,False,2013,"June. Released 2013, June",110.0,102.6,61.5,11.9,3.2,50.3,240,320,4:3,125,Android 2.3.6 ,None
+LG667,P520,True,False,False,False,True,True,2010,"November. Released 2010, December",120.0,109.4,56.2,12.9,2.8,39.5,240,320,4:3,143,None,None
+LG667,P525,True,False,False,False,True,True,2011,None,120.0,109.4,56.2,12.9,2.8,39.5,240,320,4:3,143,None,None
+LG667,P7200,True,False,False,False,True,False,2005,August,112.0,96,50,17,None,None,96,96,None,None,None,None
+LG667,Phoenix P505,True,True,False,False,False,False,2011,"April. Released 2011, April 17",91.0,114,59,13,3.2,45.3,320,480,3:2,180,Android 2.2 ,None
+LG667,Prada 3.0,True,True,False,False,False,False,2011,"December. Released 2012, January",138.0,127.5,69,8.5,4.3,59.8,480,800,5:3,217,Android 2.3.7 ,2
+LG667,Q Stylo 4,True,True,True,False,False,False,2018,June,172.0,160,77.7,8.1,6.2,79.8,1080,2160,18:9,390,Android 8.1 ,8
+LG667,Q Stylus,True,True,True,False,False,False,2018,June,171.0,160.1,77.7,8.1,6.2,80.2,1080,2160,18:9,389,Android 8.1 ,8
+LG667,Q31,True,True,True,False,False,False,2020,September 17,145.0,147.9,71,8.7,5.7,77.2,720,1520,19:9,295,Android 10,8
+LG667,Q51,True,True,True,False,False,False,2020,February 25,None,164.5,77.5,8.4,6.5,82.7,720,1520,19:9,259,Android 10,8
+LG667,Q52,True,True,True,False,False,False,2020,September 26,186.0,165,76.7,8.4,6.6,83.1,720,1600,20:9,266,Android 10,8
+LG667,Q6,True,True,True,False,False,False,2017,July,149.0,142.5,69.3,8.1,5.5,78.0,1080,2160,18:9,442,Android 7.1.1 ,8
+LG667,Q60,True,True,True,False,False,False,2019,February,172.0,161.3,77,8.7,6.26,78.8,720,1520,19:9,269,Android 9.0 ,8
+LG667,Q61,True,True,True,False,False,False,2020,May 21,None,164.5,77.5,8.3,6.53,82.1,1080,2340,5:9,395,Android 9.0 ,8
+LG667,Q7,True,True,True,False,False,False,2018,May,145.0,143.8,69.3,8.4,5.5,77.3,1080,2160,18:9,442,Android 8.1 ,8
+LG667,Q70,True,True,True,False,False,False,2019,September 28,198.0,162.1,76.8,8.3,6.4,81.4,1080,2310,None,398,Android 9.0 ,8
+LG667,Q8 (2017),True,True,True,False,False,False,2017,July,146.0,149,71.9,8,5.2,69.8,1440,2560,16:9,564,Android 7.0 ,4
+LG667,Q8 (2018),True,True,True,False,False,False,2018,August,172.0,160.1,77.7,8.4,6.2,80.2,1080,2160,18:9,389,Android 8.1 ,8
+LG667,Q9,True,True,True,False,False,False,2019,January,159.0,153.2,71.9,7.9,6.1,82.6,None,None,None,None,Android 8.1 ,4
+LG667,Q92 5G,True,True,True,True,False,False,2020,August 24,193.0,166.5,77.3,8.5,6.67,83.5,1080,2400,20:9,395,Android 10,8
+LG667,Quantum,True,True,False,False,False,False,2010,"October. Released 2010, November",176.0,119.5,59.5,15.2,3.5,49.0,480,800,5:3,267,Microsoft Windows Phone 7,None
+LG667,Ray,True,True,False,False,False,False,2015,"November. Released 2016, January",158.0,152.5,76.4,9.3,5.5,71.6,720,1280,16:9,267,Android 5.1 ,8
+LG667,Revolution,True,True,True,False,False,False,2011,"January. Released 2011, May",172.0,128,67,13.2,4.3,61.4,480,800,5:3,217,Android 2.2 ,None
+LG667,Rumor Reflex  LN272,True,True,False,False,False,False,2012,"March. Released 2012, March",133.0,107,53,15.2,3.0,45.2,240,400,5:3,155,None,None
+LG667,S310,True,False,False,False,True,True,2010,"November. Released 2010, November",86.0,114,48.4,10.5,2.2,27.6,176,220,None,128,None,None
+LG667,S365,True,False,False,False,True,True,2011,"August. Released 2011, Q3",85.0,117,50.9,11.5,2.4,30.0,240,320,4:3,167,None,None
+LG667,S367,True,False,False,False,True,True,2011,"October. Released 2011, December",85.0,117,50.9,11.5,2.4,30.0,240,320,4:3,167,None,None
+LG667,S5000,True,False,False,False,True,False,2005,October,95.0,90,46.2,23,None,None,96,64,None,None,None,None
+LG667,S5100,True,False,False,False,True,False,2005,October,95.0,90,46.2,23,None,None,96,64,None,None,None,None
+LG667,S5200,True,False,False,False,True,False,2005,October,92.0,92,46,21.7,1.8,24.1,None,None,None,None,None,None
+LG667,S5300,True,False,False,False,True,True,2006,February,92.0,92,46,21.7,None,None,None,None,None,None,None,None
+LG667,SU420 Cafe,True,True,False,False,True,True,2010,"April. Released 2010, April",None,113.9,54.5,12.9,3.0,41.3,None,None,None,None,None,None
+LG667,SU920,True,True,False,False,True,True,2010,"April. Released 2010, July",97.0,109.3,52.5,11.7,3.0,44.6,None,None,None,None,None,None
+LG667,Scarlet II TV,True,False,False,False,True,True,2010,"April. Released 2010, April",None,106.7,51.9,12.9,3.0,46.3,240,400,5:3,155,None,None
+LG667,Spectrum II 4G VS930,True,True,True,False,False,False,2012,"October. Released 2012, October",148.0,134.9,68.3,9.1,4.7,66.1,None,None,None,None,Android 4.0 ,2
+LG667,Spectrum VS920,True,True,True,False,False,False,2012,"January. Released 2012, January",141.5,135.4,68.8,10.4,4.5,59.9,720,1280,16:9,326,Android 2.3 ,2
+LG667,Spirit,True,True,True,False,False,False,2015,"February. Released 2015, March",124.4,133.3,66.1,10,4.7,69.1,720,1280,16:9,312,Android 5.0.1 ,4
+LG667,Splendor US730,True,True,False,False,False,False,2012,"September. Released 2012, September",120.0,125,67,9,4.3,62.8,480,800,5:3,217,Android 4.0.4 ,None
+LG667,Stylo 2,True,True,True,False,False,False,2016,"April. Released 2016, April",144.6,155,79.5,7.4,5.7,72.7,720,1280,16:9,258,Android 6.0 ,4
+LG667,Stylo 3 Plus,True,True,True,False,False,False,2017,May,150.0,155.7,79.8,7.4,5.7,72.1,1080,1920,16:9,386,Android 7.0 ,8
+LG667,Stylo 5,True,True,True,False,False,False,2019,June,179.0,160,77.7,8.4,6.2,79.8,1080,2160,18:9,390,Android 9.0 ,8
+LG667,Stylo 6,True,True,True,False,False,False,2020,May 20,219.0,171.2,77.7,8.6,6.8,82.5,1080,2460,None,395,Android 10,8
+LG667,Stylus 2,True,True,True,False,False,False,2016,"February. Released 2016, June",142.0,155,79.6,7.4,5.7,72.6,720,1280,16:9,258,Android 6.0 ,4
+LG667,Stylus 2 Plus,True,True,True,False,False,False,2016,"May. Released 2016, July",146.0,155,79.6,7.4,5.7,72.6,1080,1920,16:9,386,Android 6.0 ,8
+LG667,Stylus 3,True,True,True,False,False,False,2016,"December. Released 2017, March",149.0,155.6,79.8,7.4,5.7,72.1,720,1280,16:9,258,Android 7.0 ,8
+LG667,T315,True,False,False,False,True,True,2011,"March. Released 2011, April",88.0,123,63.2,10.9,2.8,28.7,240,400,5:3,167,None,None
+LG667,T370 Cookie Smart,True,False,False,False,True,True,2012,"May. Released 2012, July",95.6,103,59,10.7,3.2,52.2,240,320,4:3,125,None,None
+LG667,T375 Cookie Smart,True,False,False,False,True,True,2012,"May. Released 2012, Q3",96.0,103,59,10.7,3.2,52.2,240,320,4:3,125,None,None
+LG667,T385,True,False,False,False,True,True,2012,"March. Released 2012, Q3",None,103,59,10.7,3.2,52.2,240,320,4:3,125,None,None
+LG667,T505,True,False,False,False,True,True,2011,None,93.0,105,57.3,12.9,2.8,40.4,240,320,4:3,143,None,None
+LG667,T510,True,False,False,False,True,True,2011,August,100.0,105,57.3,12.9,2.8,40.4,240,320,4:3,143,None,None
+LG667,T5100,True,False,False,False,True,False,2004,Q1,120.0,103,48,26,None,None,96,96,None,None,None,None
+LG667,T515 Cookie Duo,True,False,False,False,True,True,2011,August,100.0,105,57.3,12.9,2.8,40.4,240,320,4:3,143,None,None
+LG667,Thrill 4G P925,True,True,False,False,False,False,2011,"March. Released  2011, August",168.0,128.8,68,11.9,4.3,60.1,480,800,5:3,217,Android 2.2 ,2
+LG667,Thrive P506,True,True,False,False,False,False,2011,"April. Released 2011, April 17",91.0,114,59,13,3.2,45.3,320,480,3:2,180,Android 2.2 ,None
+LG667,Town C300,True,False,False,False,True,True,2010,"September. Released 2010, October",92.5,116,61.9,11.9,2.4,24.8,320,240,4:3,167,None,None
+LG667,Town GT350,True,False,False,False,True,True,2010,"February. Released 2010, August",125.0,107.5,52.5,15.9,3.0,45.4,240,400,5:3,155,None,None
+LG667,Trax CU575,True,True,False,False,False,False,2007,August,110.0,99,51,15.7,2.0,24.9,128,160,None,None,None,None
+LG667,Tri Chip C333,True,False,False,False,True,True,2012,"September. Released 2012, September",98.2,108.9,59.6,12.1,2.3,25.2,240,320,4:3,174,None,None
+LG667,Tribute,True,True,True,False,False,False,2014,"September. Released 2014, October",138.9,127.5,67.8,10.7,4.5,66.7,480,800,5:3,207,Android 4.4.2 ,4
+LG667,Tribute 2,True,True,True,False,False,False,2015,"July. Released 2015, July",138.9,129.9,64.9,10.9,4.5,66.2,480,854,16:9,218,Android 5.1 ,4
+LG667,Tribute Empire,True,True,True,False,False,False,2019,January,140.1,144.8,71.8,8.1,5.0,66.3,720,1280,16:9,294,Android 8.1 ,8
+LG667,U,True,True,True,False,False,False,2016,"October. Released 2016, November",135.0,147.6,73.2,7.7,5.2,69.0,1080,1920,16:9,424,Android 6.0 ,8
+LG667,U300,True,True,False,False,False,False,2006,July,93.0,96,49,21.9,2.0,26.8,96,64,None,None,None,None
+LG667,U310,True,True,False,False,False,False,2006,October,89.0,94,49,18.3,2.0,27.3,96,96,None,None,None,None
+LG667,U370,True,True,False,False,False,False,2008,"March. Released 2008, June",89.0,92.5,47,17.6,2.0,29.0,96,64,None,None,None,None
+LG667,U400,True,True,False,False,False,False,2006,July,114.0,99.8,48,20.4,2.0,25.9,None,None,None,None,None,None
+LG667,U8100,True,True,False,False,False,False,2003,Q3,120.0,96,50,22,None,None,64,96,None,None,None,None
+LG667,U8110,True,True,False,False,False,False,2004,Q2,126.0,96,50,23,None,None,96,64,None,None,None,None
+LG667,U8120,True,True,False,False,False,False,2004,Q2,126.0,96,50,23,None,None,96,64,None,None,None,None
+LG667,U8138,True,True,False,False,False,False,2004,Q3,126.0,95.7,49.5,22.4,None,None,110,88,None,None,None,None
+LG667,U8150,True,True,False,False,False,False,2003,Q3,136.0,99,50,24,None,None,110,88,None,None,None,None
+LG667,U8180,True,True,False,False,False,False,2004,Q3,126.0,95.7,49.5,22.4,None,None,110,88,None,None,None,None
+LG667,U8200,True,True,False,False,False,False,2005,Q1,125.0,89.5,47.5,24.5,None,None,None,None,None,None,None,None
+LG667,U8210,True,True,False,False,False,False,2005,Q1,115.0,89.8,47.7,24.8,None,None,96,96,None,None,None,None
+LG667,U8290,True,True,False,False,False,False,2006,Q2,125.0,89.5,47.5,24.5,None,None,96,96,None,None,None,None
+LG667,U830,True,True,False,False,False,False,2006,October,93.0,98,49,14.8,2.2,31.2,128,160,None,None,None,None
+LG667,U8330,True,True,False,False,False,False,2005,June,120.0,96,49,24,None,None,96,64,None,None,None,None
+LG667,U8360,True,True,False,False,False,False,2005,June,132.0,92,49,24,None,None,96,96,None,None,None,None
+LG667,U8380,True,True,False,False,False,False,2005,June,130.0,95.7,49.5,23.7,None,None,128,160,None,None,None,None
+LG667,U8550,True,True,False,False,False,False,2006,February,135.0,90,55,24.7,2.2,31.5,128,160,None,None,None,None
+LG667,U880,True,True,False,False,False,False,2005,October,99.0,98.8,49,18.2,None,None,96,96,None,None,None,None
+LG667,U890,True,True,False,False,False,False,2006,February,99.0,98.8,49,18.2,None,None,96,96,None,None,None,None
+LG667,U900,True,True,False,False,False,False,2006,April,110.0,100.6,50.6,21.4,None,None,None,None,None,None,None,None
+LG667,U960,True,True,False,False,False,False,2007,Q3,123.0,103.9,52.4,19.7,2.2,27.5,None,None,None,None,None,None
+LG667,US760 Genesis,True,True,False,False,False,False,2011,"May. Released 2011, June",170.0,120,62,17,3.5,46.9,480,800,None,None,Android 2.2 ,None
+LG667,Ultra Tab,False,False,False,False,False,False,2022,August 05,458.0,247.6,157.3,7.1,10.35,78.3,1200,2000,5:3,225,Android 12,8
+LG667,Univa E510,True,True,False,False,True,True,None,None,None,None,None,None,3.2,45.5,320,480,3:2,180,Android 2.3 ,None
+LG667,V10,True,True,True,False,False,False,2015,"October. Released 2015, October",192.0,159.6,79.3,8.6,5.7,70.8,1440,2560,16:9,515,Android 5.1.1 ,None
+LG667,V20,True,True,True,False,False,False,2016,"September 07. Released 2016, October 21",174.0,159.7,78.1,7.6,5.7,72.4,1440,2560,16:9,513,Android 7.0 ,4
+LG667,V30,True,True,True,False,False,False,2017,August 31,158.0,151.7,75.4,7.3,6.0,81.2,1440,2880,18:9,537,Android 7.1.2 ,8
+LG667,V30S ThinQ,True,True,True,False,False,False,2018,February,158.0,151.7,75.4,7.3,6.0,80.9,1440,2880,18:9,538,Android 8.0 ,8
+LG667,V35 ThinQ,True,True,True,False,False,False,2018,May,157.0,151.7,75.4,7.3,6.0,80.9,1440,2880,18:9,538,Android 8.0 ,8
+LG667,V40 ThinQ,True,True,True,False,False,False,2018,October 03,169.0,158.8,75.7,7.6,6.4,83.6,1440,3120,5:9,537,Android 8.1 ,8
+LG667,V50 ThinQ 5G,True,True,True,True,False,False,2019,February 24,183.0,159.2,76.1,8.3,6.4,82.7,1440,3120,5:9,538,Android 9.0 ,8
+LG667,V50S ThinQ 5G,True,True,True,True,False,False,2019,October,192.0,159.3,75.8,8.4,6.4,83.3,1080,2340,5:9,403,Android 9.0 ,8
+LG667,V60 ThinQ 5G,True,True,True,True,False,False,2020,February 26,213.0,169.3,77.6,8.9,6.8,83.6,1080,2460,None,395,Android 10,8
+LG667,V60 ThinQ 5G UW,True,True,True,True,False,False,2020,February 26,218.0,169.3,77.6,8.9,6.8,83.6,1080,2460,None,395,Android 10,8
+LG667,V9000,True,True,False,False,False,False,2006,February,142.0,103,50,23.5,2.2,29.1,None,None,None,None,None,None
+LG667,Velvet,True,True,True,False,False,False,2020,July 28,180.0,167.1,74.1,7.9,6.8,88.7,1080,2460,None,395,Android 10,8
+LG667,Velvet 5G,True,True,True,True,False,False,2020,May 07,180.0,167.2,74.1,7.9,6.8,88.6,1080,2460,None,395,Android 10,8
+LG667,Velvet 5G UW,True,True,True,True,False,False,2020,August 19,None,167.2,74.1,7.9,6.8,88.6,1080,2460,None,395,Android 10,8
+LG667,Viper 4G LTE LS840,True,True,True,False,False,False,2012,"January. Released 2012, April",142.0,117,62,11.7,4.0,62.8,480,800,5:3,233,Android 2.3 ,2
+LG667,Volt,True,False,True,False,False,False,2014,"May. Released 2014, May",136.1,131.6,66,10.4,4.7,70.1,540,960,16:9,234,Android 4.4.2 ,4
+LG667,Vortex VS660,True,True,False,False,False,False,2010,"November. Released 2010, December",None,113.5,59,13.3,3.2,45.5,320,480,3:2,180,Android 2.2 ,None
+LG667,Vu 3 F300L,True,True,True,False,False,False,2013,"September. Released 2013, October",None,None,None,None,None,None,960,1280,4:3,308,Android 4.2.2 ,4
+LG667,Vu Plus,True,True,False,False,False,False,2010,"May. Released 2010, June",111.9,109.4,53.3,15.2,3.0,43.9,240,400,5:3,155,None,None
+LG667,W10,True,True,True,False,False,False,2019,June,164.0,156,76.2,8.5,6.19,80.7,720,1512,19:9,271,Android 9.0 ,8
+LG667,W10 Alpha,True,True,True,False,False,False,2020,February 19,170.0,147.3,71,8.9,5.71,78.1,720,1512,19:9,293,Android 9.0 ,8
+LG667,W11,True,True,True,False,False,False,2020,November 06,None,166.2,76.3,8.4,6.52,80.9,720,1600,20:9,269,Android 10,8
+LG667,W30,True,True,True,False,False,False,2019,June,175.0,159,76.5,8.2,6.26,80.4,720,1520,19:9,269,Android 9.0 ,8
+LG667,W30 Pro,True,True,True,False,False,False,2019,June,172.0,157.7,75.9,8.3,6.22,80.7,720,1520,19:9,270,Android 9.0 ,8
+LG667,W3000,True,False,False,False,False,False,2002,Q3,80.0,102,45,20,None,None,None,None,None,None,None,None
+LG667,W31,True,True,True,False,False,False,2020,November 06,173.6,166.2,76.3,8.4,6.52,80.9,720,1600,20:9,269,Android 10,8
+LG667,W31+,True,True,True,False,False,False,2020,November 06,173.6,166.2,76.3,8.4,6.52,80.9,720,1600,20:9,269,Android 10,8
+LG667,W41,True,True,True,False,False,False,2021,February 22,201.0,166.5,77.3,9.3,6.55,91.9,900,1600,16:9,280,Android 10,8
+LG667,W41 Pro,True,True,True,False,False,False,2021,February 22,201.0,166.5,77.3,9.3,6.55,91.9,900,1600,16:9,280,Android 10,8
+LG667,W41+,True,True,True,False,False,False,2021,February 22,201.0,166.5,77.3,9.3,6.55,91.9,900,1600,16:9,280,Android 10,8
+LG667,W5200,True,False,False,False,False,False,2002,Q3,80.0,84,45,20,None,None,96,64,None,None,None,None
+LG667,W7000,True,False,False,False,False,False,2002,Q4,89.0,88,45,22,None,None,96,64,None,None,None,None
+LG667,W7020,True,False,False,False,False,False,2002,Q4,89.0,88,45,22,None,None,96,64,None,None,None,None
+LG667,Watch Sport,True,True,True,False,False,False,2017,February,None,45.4,51.2,14.2,None,None,480,480,None,348,Android Wear OS 2.1,4
+LG667,Watch Style,False,False,False,False,False,False,2017,February,46.0,42.3,45.7,10.8,None,None,360,360,None,299,Android Wear OS 2.1,4
+LG667,Watch Urbane 2nd Edition LTE,True,True,True,False,False,False,2015,"October. Released 2016, March",92.7,44.5,44.5,14.2,None,None,480,480,None,348,Android Wear OS 2.1,4
+LG667,Watch Urbane LTE,True,True,True,False,True,True,2015,"March. Released 2015, March",45.0,None,None,None,None,None,320,320,None,348,Proprietary OS,4
+LG667,Watch Urbane W150,False,False,False,False,False,False,2015,"October. Released 2015, October",66.5,45.5,52.2,10.9,None,None,320,320,None,245,Android Wear OS 2.1,4
+LG667,Watch W7,False,False,False,False,False,False,2018,October,79.0,45.5,44.5,13,None,None,None,None,None,None,Android Wear OS 2.0,4
+LG667,Wine Smart,True,True,True,False,True,True,2015,"August. Released 2015, September",143.0,117.7,58.7,16.6,3.2,44.1,320,480,3:2,180,Android 5.1.1 ,4
+LG667,Wing 5G,True,True,True,True,False,False,2020,September 14,260.0,169.5,74.5,10.9,6.8,87.0,1080,2460,None,395,Android 10,8
+LG667,Wink 3G T320,True,True,False,False,False,False,2010,"August. Released 2010, August",92.5,103,57,11.9,2.8,41.4,None,None,None,None,None,None
+LG667,Wink Plus GT350i,True,False,False,False,True,True,2010,"February. Released 2010, August",122.0,107.5,52.5,15.9,3.0,45.4,240,400,5:3,155,None,None
+LG667,Wink Style T310,True,False,False,False,True,True,2010,"August. Released 2010, August",86.5,102.9,56.9,11.9,2.8,41.5,None,None,None,None,None,None
+LG667,X Skin,True,True,True,False,False,False,2016,"July. Released 2016, August",122.0,144.8,71.4,6.9,5.0,66.7,720,1280,16:9,294,Android 6.0 ,4
+LG667,X cam,True,True,True,False,False,False,2016,"February. Released 2016, June",118.0,147.5,73.6,6.9,5.2,68.7,1080,1920,16:9,424,Android 6.0 ,8
+LG667,X mach,True,True,True,False,False,False,2016,"June. Released 2016, September",150.0,149.1,76.5,8.9,5.5,72.0,1440,2560,16:9,538,Android 6.0.1 ,None
+LG667,X max,True,True,True,False,False,False,2016,"June. Released 2016, December",133.0,151.6,76.9,7.2,5.5,71.5,720,1280,16:9,267,Android 6.0.1 ,4
+LG667,X power,True,True,True,False,False,False,2016,"May. Released 2016, September",139.0,148.9,74.9,7.9,5.3,69.4,720,1280,16:9,277,Android 6.0.1 ,4
+LG667,X power 3,True,True,True,False,False,False,2018,July,171.0,154.7,78.1,8.9,5.5,69.0,720,1280,16:9,267,Android 8.1 ,4
+LG667,X power2,True,True,True,False,False,False,2017,February,164.0,154.7,78.1,8.4,5.5,69.0,720,1280,16:9,267,Android 7.0 ,4
+LG667,X screen,True,True,True,False,False,False,2016,"February. Released 2016, March",120.0,142.6,71.8,7.1,4.93,65.4,80,520,None,None,Android 6.0 ,4
+LG667,X style,True,True,True,False,False,False,2016,"May. Released 2016, September",121.0,144.8,71.4,6.9,5.0,66.7,720,1280,16:9,294,Android 6.0.1 ,4
+LG667,X venture,True,True,True,False,False,False,2017,May,166.5,154,75.8,9.3,5.2,64.2,1080,1920,16:9,423,Android 7.0 ,8
+LG667,X3,True,True,False,False,False,False,None,None,None,None,None,None,None,None,720,1280,16:9,312,Android 4.0 ,4
+LG667,X335,True,False,False,False,True,True,2011,None,77.5,109,61,13.8,2.3,24.6,320,240,4:3,174,None,None
+LG667,X350,True,False,False,False,True,True,2011,"Q4. Released 2011, December",116.0,111,61,13.5,2.3,24.2,320,240,4:3,174,None,None
+LG667,X4+,True,True,True,False,False,False,2018,January,172.3,148.6,75.1,8.6,5.3,69.4,720,1280,16:9,277,Android 7.0 ,4
+LG667,X5,True,True,True,False,False,False,2016,"July. Released 2016, August",133.0,151.6,76.9,7.2,5.5,71.5,720,1280,16:9,267,Android 6.0 ,4
+LG667,Xenon GR500,True,True,False,False,False,False,2009,"March. Released 2009, April",108.0,105.5,53.5,15.8,2.8,39.5,240,400,5:3,167,None,None
+LG667,Xpression C395,True,True,False,False,False,False,2012,"April. Released 2012, April",130.0,108,54,17,3.0,43.9,240,400,5:3,155,None,None
+LG667,Zero,True,True,True,False,False,False,2015,"September. Released 2015, October",150.0,142,71.8,7.4,5.0,67.6,720,1280,16:9,294,Android 5.1.1 ,4
+LG667,Zone 4,True,True,True,False,False,False,2018,March,140.3,144.8,71.9,7.9,5.0,66.2,720,1280,16:9,294,Android 7.1.2 ,4

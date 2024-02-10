@@ -1,0 +1,247 @@
+Brand,Phone,2G,3G,4G,5G,GPRS,EDGE,LunchDate,Status,Weight,Body_x,Body_y,Body_z,DisplaySize,DisplayArea,pixel_y,pixel_x,Display_Resolution_ratio,ppi_dencity,OS,CPUCoreCount
+Lenovo246,A Plus,True,True,False,False,False,False,2016,"September. Released 2016, September",146.0,133,66,9.9,4.5,63.6,480,854,16:9,218,Android 5.1 ,4
+Lenovo246,A10-70 A7600,True,True,False,False,True,True,2014,"April. Released 2014, June",550.0,264.1,176.5,9,10.1,63.5,800,1280,16:10,149,Android 4.2.2 ,4
+Lenovo246,A1000,True,True,False,False,False,False,2015,"September 01. Released 2015, September 01",132.0,124.5,64,10.6,4.0,57.2,480,800,5:3,233,Android 5.0 ,4
+Lenovo246,A185,True,False,False,False,True,True,2011,December,93.0,118,49.8,15.8,2.4,30.4,240,320,4:3,167,None,None
+Lenovo246,A1900,True,True,False,False,False,False,2015,"April. Released 2015, April",117.0,121,62,9.5,4.0,60.7,480,800,5:3,233,Android 4.4.2 ,4
+Lenovo246,A2010,True,True,True,False,False,False,2015,"August. Released 2015, September",137.0,131.5,66.5,9.9,4.5,63.8,480,854,16:9,218,Android 5.1 ,4
+Lenovo246,A269i,True,True,False,False,False,False,2013,"September. Released 2013, October",112.0,None,None,None,None,None,320,480,3:2,165,Android 2.3 ,2
+Lenovo246,A316i,True,True,False,False,False,False,2014,"April. Released 2014, April",121.0,117,63.5,12.2,4.0,61.3,480,800,5:3,233,Android 4.2.2 ,2
+Lenovo246,A319,True,True,False,False,False,False,2014,"October. Released 2014, October",130.0,123.5,63.8,10.2,4.0,57.8,480,800,5:3,233,Android 4.4.2 ,2
+Lenovo246,A328,True,True,False,False,False,False,2014,"Q3. Released 2014, Q3",None,132,68.5,11,4.5,61.7,480,854,16:9,218,Android 4.4.2 ,4
+Lenovo246,A335,True,False,False,False,True,True,2012,January,102.0,118.5,51.3,13.5,2.6,34.4,240,320,4:3,154,None,None
+Lenovo246,A336,True,False,False,False,True,True,2011,October,92.0,113.5,49,13.1,2.4,32.1,240,320,4:3,167,None,None
+Lenovo246,A3690,True,True,True,False,False,False,2015,"October. Released 2015, October",140.0,141.2,71.2,8.8,5.0,68.6,720,1280,16:9,294,Android 5.1 ,4
+Lenovo246,A369i,True,True,False,False,False,False,2013,"Q3. Released 2013, Q3",120.0,124,64,11.7,4.0,57.4,480,800,5:3,233,Android 4.2.2 ,2
+Lenovo246,A390,True,True,False,False,False,False,2013,"April. Released 2013, April",131.0,125.6,64,10.1,4.0,56.7,480,800,5:3,233,Android 4.0.4 ,2
+Lenovo246,A3900,True,True,True,False,False,False,2015,"May. Released 2015, August",157.0,142.8,71.8,9,5.0,67.2,480,854,16:9,196,Android 4.4.2 ,8
+Lenovo246,A5,True,True,True,False,False,False,2018,June,160.0,146.2,70.9,9.8,5.45,73.9,720,1440,18:9,295,Android 8.0 ,4
+Lenovo246,A5000,True,True,False,False,False,False,2015,"February. Released 2015, April",160.0,140,71.4,10,5.0,68.9,720,1280,16:9,294,Android 4.4.2 ,4
+Lenovo246,A516,True,True,False,False,False,False,2013,"Q3. Released 2013, Q3",146.0,132,66.7,9.9,4.5,63.4,480,854,16:9,218,Android 4.2.2 ,2
+Lenovo246,A526,True,True,False,False,False,False,2014,"April. Released 2014, June",145.0,132,67.6,11.1,4.5,62.5,480,854,16:9,218,Android 4.2.2 ,4
+Lenovo246,A536,True,True,False,False,False,False,2014,"Q3. Released 2014, Q3",148.0,139.6,72,10,5.0,68.5,480,854,16:9,196,Android 4.4.2 ,4
+Lenovo246,A5860,True,True,True,False,False,False,None,None,149.0,152,76.2,8.5,5.5,72.0,720,1280,16:9,267,Android 5.0 ,4
+Lenovo246,A6 Note,True,True,True,False,False,False,2019,September,172.0,154.7,72.9,9.2,6.09,80.7,720,1560,5:9,282,Android 9.0 ,8
+Lenovo246,A60,True,True,False,False,False,False,2011,None,135.0,116,59.9,12.6,3.5,52.5,320,480,3:2,165,Android 2.3.5 ,None
+Lenovo246,A60+,True,True,False,False,False,False,2012,None,135.0,115.8,60.8,11.9,3.5,51.8,320,480,3:2,165,Android 2.3.6 ,None
+Lenovo246,A6000,True,True,True,False,False,False,2015,"January 09. Released 2015, January 28",128.0,141,70,8.2,5.0,69.8,720,1280,16:9,294,Android 4.4.4 ,4
+Lenovo246,A6000 Plus,True,True,True,False,False,False,2015,"April. Released 2015, April",128.0,141,70,8.2,5.0,69.8,720,1280,16:9,294,Android 4.4.4 ,4
+Lenovo246,A6010,True,True,True,False,True,True,2015,"September. Released 2015, October",128.0,141,70,8.2,5.0,69.8,720,1280,16:9,294,Android 5 ,4
+Lenovo246,A6010 Plus,True,True,True,False,True,True,2015,"September. Released 2015, October",128.0,141,70,8.2,5.0,69.8,720,1280,16:9,294,Android 5 ,4
+Lenovo246,A606,True,True,True,False,False,False,2014,"September. Released 2014, September",170.0,141.5,73.2,9.1,5.0,66.5,480,854,16:9,196,Android 4.4.2 ,4
+Lenovo246,A616,True,True,True,False,False,False,2015,None,174.0,149.9,77.1,9.2,5.5,72.1,480,854,16:9,178,Android 4.4 ,4
+Lenovo246,A630,True,True,False,False,False,False,2013,"September. Released 2013, September",159.0,131,66,10,4.5,64.5,480,854,16:9,218,Android 4.0.4 ,2
+Lenovo246,A65,True,True,False,False,False,False,2012,"July. Released 2012, July",None,116,59.9,12.6,3.5,52.5,320,480,3:2,165,Android 2.3.5 ,None
+Lenovo246,A660,True,True,False,False,False,False,2012,"September. Released Exp. release 2012, October",138.0,125,65,10.5,4.0,56.1,480,800,5:3,233,Android 4.0.4 ,2
+Lenovo246,A6600,True,True,True,False,False,False,2016,"September. Released 2016, October",142.0,141,71,8.8,5.0,68.8,720,1280,16:9,294,Android 6.0 ,4
+Lenovo246,A6600 Plus,True,True,True,False,False,False,2016,"September. Released 2016, October",142.0,141,71,8.8,5.0,68.8,720,1280,16:9,294,Android 6.0 ,4
+Lenovo246,A680,True,True,False,False,False,False,2014,"May. Released 2014, May",165.0,145,73.5,10.8,5.0,64.6,480,854,16:9,196,Android 4.2.2 ,4
+Lenovo246,A690,True,True,False,False,False,False,2013,"January. Released 2013, January",134.0,124,65,11,4.0,56.5,480,800,5:3,233,Android 2.3.6 ,None
+Lenovo246,A7,True,True,True,False,False,False,2019,April 13,None,155,75,12,6.09,78.3,720,1560,5:9,282,Android 9.0 ,8
+Lenovo246,A7-30 A3300,True,False,False,False,True,True,2014,"April. Released 2014, May",327.0,198,119.8,10.5,7.0,58.1,600,1024,16:9,170,Android 4.2.2 ,4
+Lenovo246,A7-50 A3500,True,True,False,False,True,True,2014,"April. Released 2014, June",320.0,198,121.2,9.9,7.0,59.2,800,1280,16:10,216,Android 4.2.2 ,4
+Lenovo246,A7000,True,True,True,False,False,False,2015,"March 02. Released 2015, April 07",140.0,152.6,76.2,8,5.5,71.7,720,1280,16:9,267,Android 5.0.2 ,8
+Lenovo246,A7000 Plus,True,True,True,False,False,False,2015,"September. Released 2015, September",140.0,152.6,76.2,8,5.5,71.7,1080,1920,16:9,401,Android 5.0 ,8
+Lenovo246,A7000 Turbo,True,True,True,False,False,False,2016,"January. Released 2016, January",150.0,152.6,76.2,8,5.5,71.7,1080,1920,16:9,401,Android 5 ,8
+Lenovo246,A706,True,True,False,False,False,False,2013,None,130.0,136,69,10.4,4.5,59.5,480,854,16:9,218,Android 4.1 ,4
+Lenovo246,A789,True,True,False,False,False,False,2012,"June. Released 2012, August",154.8,126.6,65.4,13.2,4.0,55.0,480,800,5:3,233,Android 4.0.4 ,2
+Lenovo246,A8 2020,True,True,True,False,False,False,2020,October 15,205.0,163.8,75.6,9.3,6.53,87.2,720,1560,5:9,259,Android 10,8
+Lenovo246,A8-50 A5500,True,True,False,False,True,True,2014,"April. Released 2014, June",360.0,217,136,8.9,8.0,62.9,800,1280,16:10,189,Android 4.2.2 ,4
+Lenovo246,A800,True,True,False,False,False,False,2013,"January. Released 2013, January",155.0,133.5,68.9,11.5,4.5,60.7,480,854,16:9,218,Android 4.0.4 ,2
+Lenovo246,A820,True,True,False,False,False,False,2013,None,151.0,135,68.2,9.9,4.5,60.6,540,960,16:9,245,Android 4.1.2 ,4
+Lenovo246,A830,True,True,False,False,False,False,2013,None,165.4,147,73,9.4,5.0,64.2,540,960,16:9,220,Android 4.2.1 ,4
+Lenovo246,A850,True,True,False,False,False,False,2013,"August. Released 2013, August",184.0,153.5,79.3,9.5,5.5,68.5,540,960,16:9,200,Android 4.2.2 ,4
+Lenovo246,A850+,True,True,False,False,False,False,2014,"March. Released 2014, April",161.0,150,77,8.9,5.5,72.2,540,960,16:9,200,Android 4.2.2 ,8
+Lenovo246,A859,True,True,False,False,False,False,2014,"January. Released 2014, April",163.3,142,72.5,9.2,5.0,66.9,720,1280,16:9,294,Android 4.2 ,4
+Lenovo246,A880,True,True,False,False,False,False,2014,"January. Released 2014, January",196.0,164,85.4,9.3,6.0,70.9,540,960,16:9,184,Android 4.2.2 ,4
+Lenovo246,A889,True,True,False,False,False,False,2014,"May. Released 2014, May",192.0,164,85.4,9,6.0,70.9,540,960,16:9,184,Android 4.2.2 ,4
+Lenovo246,A916,True,True,True,False,False,False,2014,"November. Released 2014, November",173.0,149.5,76.6,8.7,5.5,72.8,720,1280,16:9,267,Android 4.4.2 ,8
+Lenovo246,B,True,True,True,False,False,False,2016,October,144.0,132.5,66,9.9,4.5,65.9,480,800,5:3,207,Android 6.0 ,4
+Lenovo246,C2,True,True,True,False,False,False,2016,"July. Released 2016, July",139.0,143,71.4,8.6,5.0,67.5,720,1280,16:9,294,Android 6.0 ,4
+Lenovo246,C2 Power,True,True,True,False,False,False,2016,"September. Released 2016, November",155.6,None,None,None,None,None,720,1280,16:9,294,Android 6.0 ,4
+Lenovo246,E156,True,False,False,False,True,False,2011,October,70.2,101,44.3,14.4,1.5,16.2,128,128,1:1,121,None,None
+Lenovo246,Golden Warrior A8,True,True,True,False,False,False,2014,"July. Released 2014, August",180.0,140.5,70.8,9,5.0,69.3,720,1280,16:9,294,Android 4.4.2 ,8
+Lenovo246,Golden Warrior Note 8,True,True,True,False,True,True,2014,"December. Released 2014, December",170.0,169.3,83.6,8.7,6.0,70.1,720,1280,16:9,245,Android 4.4.2 ,8
+Lenovo246,Golden Warrior S8,True,True,False,False,True,True,2014,"May. Released 2014, May",146.0,146,76.7,7.9,5.3,69.2,720,1280,16:9,277,Android 4.2.2 ,8
+Lenovo246,IdeaPad A1,False,False,False,False,False,False,2011,"November. Released 2011, October",400.0,195,125,12,7.0,56.6,600,1024,16:9,170,Android 2.3 ,None
+Lenovo246,IdeaPad K1,False,True,False,False,False,False,2011,"June. Released 2011, July",750.0,264,189,13.3,10.1,59.3,800,1280,16:10,149,Android 3.1 ,2
+Lenovo246,IdeaPad S2,True,True,False,False,False,False,2012,"January. Released 2012, September",580.0,None,None,None,None,None,800,1280,16:10,151,Android 4.0 ,2
+Lenovo246,IdeaTab A1000,False,False,False,False,False,False,2013,"January. Released 2013, May",340.0,199,121,10.7,7.0,57.3,600,1024,16:9,170,Android 4.1 ,2
+Lenovo246,IdeaTab A2107,True,True,False,False,False,False,2013,"January. Released 2013, January",400.0,195.1,125,11.9,7.0,56.5,600,1024,16:9,170,Android 4.0.3 ,None
+Lenovo246,IdeaTab A3000,True,True,False,False,True,True,2013,"January. Released 2013, May",339.0,194,120,11,7.0,59.2,600,1024,16:9,170,Android 4.1 ,4
+Lenovo246,IdeaTab S6000,False,False,False,False,False,False,2013,"Q1. Released 2013, Q2",562.5,259.1,180.3,7.6,10.1,63.3,1280,800,16:10,149,Android 4.2.2 ,4
+Lenovo246,IdeaTab S6000F,False,False,False,False,False,False,2013,"Q1. Released 2013, Q2",560.0,260,180,8.6,10.1,63.2,1280,800,16:10,149,Android 4.2.2 ,4
+Lenovo246,IdeaTab S6000H,True,True,False,False,False,False,2013,"Q1. Released 2013, Q2",560.0,260,180,8.6,10.1,63.2,1280,800,16:10,149,Android 4.2.2 ,4
+Lenovo246,IdeaTab S6000L,False,False,False,False,False,False,2013,"Q1. Released 2013, Q2",560.0,260,180,8.6,10.1,63.2,1280,800,16:10,149,Android 4.2.2 ,4
+Lenovo246,K10 Note,True,True,True,False,False,False,2019,September 05,164.0,156.6,74.3,7.9,6.3,83.7,1080,2340,5:9,409,Android 9.0 ,8
+Lenovo246,K10 Plus,True,True,True,False,False,False,2019,September 23,172.0,158.3,75.8,8.3,6.22,80.5,720,1520,19:9,270,Android 9.0 ,8
+Lenovo246,K12,True,True,True,False,False,False,None,None,180.0,164.9,75.7,8.9,6.5,81.7,720,1600,20:9,270,Android 10,8
+Lenovo246,K12 (China),True,True,True,False,False,False,2020,December 09,200.0,165.2,75.7,9.2,6.5,81.6,720,1600,20:9,270,Android 10,8
+Lenovo246,K12 Pro,True,True,True,False,False,False,2020,December 09,221.0,172.1,76.8,9.7,6.8,83.1,720,1640,None,263,Android 10,8
+Lenovo246,K13,True,True,True,False,False,False,2021,August 30,200.0,165.1,75.9,9.2,6.52,81.9,720,1600,20:9,269,Android 10 ,8
+Lenovo246,K13 Note,True,True,True,False,False,False,2021,June 22,200.0,165.2,75.7,9.1,6.5,81.6,720,1600,20:9,270,Android 11,8
+Lenovo246,K13 Pro,True,True,True,False,False,False,2021,September,200.0,None,None,None,None,None,720,1600,20:9,270,Android 11,8
+Lenovo246,K14 Plus,True,True,True,False,False,False,2022,February 15,198.0,165.1,75.7,9.1,6.5,81.6,720,1600,20:9,270,Android 11,8
+Lenovo246,K3,True,True,True,False,True,True,2014,"December. Released 2014, December",128.0,141,70.5,7.9,5.0,69.3,720,1280,16:9,294,Android 4.4.2 ,4
+Lenovo246,K3 Note,True,True,True,False,False,False,2015,"March. Released 2015, March",150.0,152.6,76.2,8,5.5,71.7,1080,1920,16:9,401,Android 5.2 ,8
+Lenovo246,K320t,True,True,True,False,False,False,2017,December,153.8,155.2,73.5,8.5,5.7,73.5,720,1440,18:9,282,Android 7.0 ,4
+Lenovo246,K5,True,True,True,False,False,False,2018,March,160.0,153.8,72.7,7.8,5.7,75.0,720,1440,18:9,282,Android 7.1 ,8
+Lenovo246,K5 Note,True,True,True,False,False,False,2016,"January. Released 2016, January",165.0,152,75.7,8.5,5.5,72.5,1080,1920,16:9,401,Android 5.1 ,8
+Lenovo246,K5 Note (2018),True,True,True,False,False,False,2018,June,176.0,158.3,76.7,8.5,6.0,76.5,720,1440,18:9,268,Android 8.0 ,8
+Lenovo246,K5 Pro,True,True,True,False,False,False,2018,October,165.0,156,75,8,5.99,79.1,1080,2160,18:9,403,Android 8.1 ,8
+Lenovo246,K5 play,True,True,True,False,False,False,2018,March,155.0,153.8,72.6,7.9,5.7,75.1,720,1440,18:9,282,Android 8.0 ,8
+Lenovo246,K6,True,True,True,False,False,False,2016,"September. Released 2016, November",140.0,141.9,70.3,8.2,5.0,69.1,1080,1920,16:9,441,Android 6.0 ,8
+Lenovo246,K6 Enjoy,True,True,True,False,False,False,2019,April,161.0,156.4,75,8,6.22,82.3,720,1520,19:9,270,Android 9.0 ,8
+Lenovo246,K6 Note,True,True,True,False,False,False,2016,"September. Released 2016, December",169.0,151,76,8.4,5.5,72.7,1080,1920,16:9,401,Android 6.0 ,8
+Lenovo246,K6 Power,True,True,True,False,False,False,2016,"September. Released 2016, November",145.0,141.9,70.3,9.3,5.0,69.1,1080,1920,16:9,441,Android 6.0 ,8
+Lenovo246,K7,True,True,True,False,False,False,2020,April 13,None,None,None,None,None,None,720,1520,19:9,276,Android 10,8
+Lenovo246,K8,True,True,True,False,False,False,2017,September,165.0,147.9,73.7,8.6,5.2,68.4,720,1280,16:9,282,Android 7.1.1 ,8
+Lenovo246,K8 Note,True,True,True,False,False,False,2017,August,180.0,154.5,75.9,8.5,5.5,71.1,1080,1920,16:9,401,Android 7.1.1 ,None
+Lenovo246,K8 Plus,True,True,True,False,False,False,2017,September,165.0,147.9,73.7,9,5.2,68.4,1080,1920,16:9,424,Android 7.1.1 ,8
+Lenovo246,K80,True,True,True,False,False,False,2015,"April. Released 2015, April",158.0,None,None,None,None,None,1080,1920,16:9,401,Android 5.0 ,4
+Lenovo246,K800,True,True,False,False,False,False,2012,"January. Released 2012, September",161.0,130.5,71.2,11,4.5,60.1,720,1280,16:9,326,Android 2.3.7 ,None
+Lenovo246,K860,True,True,False,False,False,False,2012,"August. Released 2012, August",193.5,143.5,74.4,9.6,5.0,64.6,720,1280,16:9,294,Android 4.0.4 ,4
+Lenovo246,K9,True,True,True,False,False,False,2018,October,155.0,153.8,72.9,8,5.7,74.8,720,1440,18:9,282,Android 8.1 ,8
+Lenovo246,K900,True,True,False,False,False,False,2013,"January. Released 2013, April",162.0,157,78,6.9,5.5,68.1,1080,1920,16:9,401,Android 4.2 ,2
+Lenovo246,LePad S2005,True,True,False,False,False,False,2011,"November. Released 2011, December",198.0,155.5,81.7,10,5.0,56.0,480,800,5:3,187,Android 2.3 ,2
+Lenovo246,LePad S2007,False,True,False,False,False,False,2011,"November. Released 2012, Q4",357.0,200.2,127.6,9.7,7.0,55.6,800,1280,16:10,216,Android 2.3 ,2
+Lenovo246,LePad S2010,False,True,False,False,False,False,2011,"November. Released 2012, Q4",670.0,265.9,183.4,9.9,10.1,60.7,800,1280,16:10,149,Android 2.3 ,2
+Lenovo246,LePhone S2,True,True,False,False,False,False,2012,"January. Released 2012, March",120.0,122,60,10.9,3.8,56.1,None,None,None,None,Android 2.3.4 ,2
+Lenovo246,Legion 2 Pro,True,True,True,True,False,False,2021,April 08,259.0,176,78.5,9.9,6.92,82.3,1080,2460,None,388,Android 11,8
+Lenovo246,Legion Duel,True,True,True,True,False,False,2020,July 22,239.0,169.2,78.5,9.9,6.65,81.7,1080,2340,5:9,388,Android 10,8
+Lenovo246,Legion Duel 2,True,True,True,True,False,False,2021,April 08,259.0,176,78.5,9.9,6.92,82.3,1080,2460,None,388,Android 11,8
+Lenovo246,Legion Pro,True,True,True,True,False,False,2020,July 22,239.0,169.2,78.5,9.9,6.65,81.7,1080,2340,5:9,388,Android 10,8
+Lenovo246,Legion Y70,True,True,True,True,False,False,2022,August 18,209.0,163.6,77,8,6.67,85.3,1080,2400,20:9,395,Android 12,8
+Lenovo246,Legion Y700,True,True,True,False,False,False,2022,March 01,375.0,207.1,128.1,7.9,8.8,84.6,1600,2560,16:10,343,Android 12,8
+Lenovo246,Legion Y700 (2023),False,False,False,False,False,False,2023,July 22,350.0,208.9,129.5,7.6,8.8,83.0,1600,2560,16:10,343,Android 13,8
+Lenovo246,Legion Y90,True,True,True,True,False,False,2022,March 01,252.0,177,78.4,10.1,6.92,81.9,1080,2460,None,388,Android 12,8
+Lenovo246,Lemon 3,True,True,True,False,False,False,2016,"January. Released 2016, January",142.0,142,71,8,5.0,68.4,1080,1920,16:9,441,Android 5.1 ,8
+Lenovo246,M10 FHD REL,False,False,True,False,False,False,2020,January 24,520.0,None,None,None,None,None,1200,1920,16:10,224,Android 9.0 ,8
+Lenovo246,M10 Plus,False,False,True,False,False,False,2020,March 27,460.0,244.2,153.3,8.2,10.3,82.2,1200,1920,16:10,220,Android 9.0 ,8
+Lenovo246,P2,True,True,True,False,False,False,2016,"September. Released 2016, November",177.0,153,76,8.3,5.5,71.7,1080,1920,16:9,401,Android 6.0.1 ,8
+Lenovo246,P70,True,True,True,False,False,False,2015,"January. Released 2015, February",149.0,142,71.8,8.9,5.0,67.6,720,1280,16:9,294,Android 4.4 ,8
+Lenovo246,P700i,True,True,False,False,False,False,2012,January,162.0,125.6,64.6,12.8,4.0,56.1,480,800,5:3,233,Android 4.0.4 ,2
+Lenovo246,P770,True,True,False,False,False,False,2012,"November. Released 2012, November",161.0,133,67,11.9,4.5,62.6,540,960,16:9,245,Android 4.1 ,2
+Lenovo246,P780,True,True,False,False,False,False,2013,"June. Released 2013, June",176.0,143,73,10,5.0,66.0,720,1280,16:9,294,Android 4.2 ,4
+Lenovo246,P90,True,True,True,False,False,False,2015,"January. Released 2015, April",156.0,150,77.4,8.5,5.5,71.8,1080,1920,16:9,401,Android 4.4 ,4
+Lenovo246,Pad,False,False,False,False,False,False,2021,May 24,490.0,258.4,163,7.5,11.0,81.8,1200,2000,5:3,212,Android 11,8
+Lenovo246,Pad Plus,False,False,False,False,False,False,2021,May 24,520.0,258.4,163,7.9,11.0,81.8,1200,2000,5:3,212,Android 11,8
+Lenovo246,Pad Pro,False,False,False,False,False,False,2021,May 24,485.0,264.3,171.4,5.8,11.5,84.6,1600,2560,16:10,263,Android 11,8
+Lenovo246,Pad Pro 2022,False,False,False,False,False,False,2022,August 19,480.0,None,None,None,None,None,1536,2560,5:3,267,Android 12,8
+Lenovo246,Phab,True,True,True,False,False,False,2015,"September. Released 2015, October",250.0,186,97,8.9,6.98,74.4,720,1280,16:9,210,Android 5.1 ,4
+Lenovo246,Phab Plus,True,True,True,False,False,False,2015,"September. Released 2015, October",229.0,186.6,96.6,7.6,6.8,70.7,1080,1920,16:9,324,Android 5.0 ,8
+Lenovo246,Phab2,True,True,True,False,False,False,2016,"June. Released 2016, June",225.0,175,89.5,9.6,6.4,72.1,720,1280,16:9,229,Android 6.0 ,4
+Lenovo246,Phab2 Plus,True,True,True,False,False,False,2016,"June. Released 2016, June",218.0,173.9,88.3,9.6,6.4,73.5,1080,1920,16:9,344,Android 6.0 ,8
+Lenovo246,Phab2 Pro,True,True,True,False,False,False,2016,"June. Released 2016, November",259.0,179.8,88.6,10.7,6.4,70.9,1440,2560,16:9,459,Android 6.0 ,8
+Lenovo246,Q330,True,False,False,False,True,True,2011,October,87.0,103,58,13.5,2.3,27.4,320,240,4:3,174,None,None
+Lenovo246,Q350,True,False,False,False,True,True,2011,October,100.0,110,59,12.5,2.3,25.2,320,240,4:3,174,None,None
+Lenovo246,S5,True,True,True,False,False,False,2018,March,155.0,154,73.5,7.8,5.7,74.1,1080,2160,18:9,424,Android 8.0 ,8
+Lenovo246,S5 Pro,True,True,True,False,False,False,2018,October,170.0,154.5,75.5,7.7,6.2,83.0,1080,2246,7:9,402,Android 8.1 ,8
+Lenovo246,S5 Pro GT,True,True,True,False,False,False,2018,December,170.0,154.5,75.5,7.7,6.2,83.0,1080,2246,7:9,402,Android 8.1 ,8
+Lenovo246,S5000,True,True,False,False,False,False,2013,"September. Released 2013, November",244.9,190.5,116.8,7.6,7.0,63.9,1280,800,16:10,216,Android 4.2 ,4
+Lenovo246,S560,True,True,False,False,False,False,2012,None,155.0,125,63,12.3,4.0,57.8,480,800,5:3,233,Android 4.0 ,2
+Lenovo246,S580,True,True,False,False,False,False,2014,"September. Released 2014, September",129.0,139.8,69.9,8.1,5.0,70.5,720,1280,16:9,294,Android 4.3 ,4
+Lenovo246,S60,True,True,True,False,False,False,2015,"January. Released 2015, March",128.0,143.3,72,7.7,5.0,66.8,720,1280,16:9,294,Android 4.4.2 ,4
+Lenovo246,S650,True,True,False,False,False,False,2013,"December. Released 2013, December",126.0,138,69.8,8.8,4.7,63.2,540,960,16:9,234,Android 4.2 ,4
+Lenovo246,S660,True,True,False,False,False,False,2014,"February. Released 2014, June",151.0,137,68.8,10,4.7,64.6,540,960,16:9,234,Android 4.2 ,4
+Lenovo246,S720,True,True,False,False,False,False,2013,"January. Released 2013, January",140.0,132.3,68.3,9.9,4.5,61.8,540,960,16:9,245,Android 4.0.4 ,2
+Lenovo246,S750,True,True,False,False,False,False,2014,"Q3. Released 2014, Q3",145.0,135,68.2,9.9,4.5,60.6,540,960,16:9,245,Android 4.2.1 ,4
+Lenovo246,S800,True,False,False,False,True,True,2011,October,124.0,120.5,48.5,13,2.4,30.5,240,320,4:3,167,None,None
+Lenovo246,S820,True,True,False,False,False,False,2013,"May. Released 2013, May",143.0,139.5,69.7,9,4.7,62.6,720,1280,16:9,312,Android 4.2 ,4
+Lenovo246,S850,True,True,False,False,False,False,2014,"February. Released 2014, June",140.0,141,71,8.2,5.0,68.8,720,1280,16:9,294,Android 4.2 ,4
+Lenovo246,S856,True,True,True,False,False,False,2014,"October. Released 2014, October",175.0,151,77.8,9,5.5,71.0,720,1280,16:9,267,Android 4.4.2 ,4
+Lenovo246,S860,True,True,False,False,False,False,2014,"February. Released 2014, May",190.0,149.5,77,10.3,5.3,67.3,720,1280,16:9,277,Android 4.2 ,4
+Lenovo246,S880,True,True,False,False,False,False,2012,"August. Released 2012, September",196.0,142,78,9.9,5.0,64.2,480,800,5:3,187,Android 4.0 ,None
+Lenovo246,S890,True,True,False,False,False,False,2013,"January. Released 2013, January",176.0,143,74.2,9.3,5.0,65.0,540,960,16:9,220,Android 4.1 ,2
+Lenovo246,S90 Sisley,True,True,True,False,False,False,2014,"November. Released 2014, November",129.0,146,71.7,6.9,5.0,65.8,720,1280,16:9,294,Android 4.4.4 ,4
+Lenovo246,S920,True,True,False,False,False,False,2013,"March. Released 2013, May",159.0,154,77.7,7.9,5.3,64.7,720,1280,16:9,277,Android 4.2.1 ,4
+Lenovo246,S930,True,True,False,False,False,False,2013,"December. Released 2013, December",170.0,170,86.5,8.7,6.0,67.5,720,1280,16:9,245,Android 4.2.2 ,4
+Lenovo246,S939,True,True,False,False,False,False,2014,"May. Released 2014, May",171.5,159,84,8.7,6.0,74.3,720,1280,16:9,245,Android 4.2 ,8
+Lenovo246,Tab 2 A10-70,True,True,True,False,True,True,2015,"March. Released 2015, April",509.0,247,171,8.9,10.1,73.9,1200,1920,16:10,218,Android 4.4.4 ,4
+Lenovo246,Tab 2 A7-10,False,False,False,False,False,False,2015,"January. Released 2015, January",269.0,189,105,9.3,7.0,69.5,600,1024,16:9,170,Android 4.4 ,4
+Lenovo246,Tab 2 A7-20,False,False,False,False,False,False,2015,"January. Released 2015, January",269.0,189,105,9.3,7.0,69.5,600,1024,16:9,170,Android 4.4 ,4
+Lenovo246,Tab 2 A7-30,True,True,False,False,False,False,2015,"January. Released 2015, April",269.0,191,105,8.9,7.0,68.8,600,1024,16:9,170,Android 4.4.2 ,4
+Lenovo246,Tab 2 A8-50,True,True,True,False,True,True,2015,"March. Released 2015, June",360.0,210,125,8.9,8.0,74.6,800,1280,16:10,184,Android 5.0 ,4
+Lenovo246,Tab 4 10,True,True,True,False,False,False,2017,February,500.0,247,171,8.3,10.1,70.0,800,1280,16:10,149,Android 7.1 ,4
+Lenovo246,Tab 4 10 Plus,True,True,True,False,False,False,2017,February,475.0,247,173,7,10.1,69.2,1200,1920,16:10,224,Android 7.1 ,8
+Lenovo246,Tab 4 8,True,True,True,False,False,False,2017,February 27,310.0,211,124,8.2,8.0,70.9,800,1280,16:10,189,Android 7.0 ,4
+Lenovo246,Tab 4 8 Plus,True,True,True,False,False,False,2017,February,300.0,210,123,7,8.0,71.8,1200,1920,16:10,283,Android 7.0 ,8
+Lenovo246,Tab 7,True,True,True,False,False,False,2017,November,260.0,193,98.7,8.4,7.0,70.9,720,1280,16:9,210,Android 7.0 ,4
+Lenovo246,Tab 7 Essential,True,True,True,False,False,False,2017,November,254.0,194.8,102,8.8,7.0,69.4,600,1024,16:9,170,Android 7.0 ,4
+Lenovo246,Tab Extreme,False,False,False,False,False,False,2023,January 05,740.0,327.8,210.8,5.9,14.5,88.2,1876,3000,16:10,244,Android 13,8
+Lenovo246,Tab K10,True,True,True,False,False,False,2021,May 19,460.0,244,153,8.2,10.3,82.4,1200,1920,16:10,220,Android 11,8
+Lenovo246,Tab M10,True,True,True,True,False,False,2023,July 14,490.0,160.3,252.7,8.3,10.6,79.0,1200,2000,5:3,220,Android 13,8
+Lenovo246,Tab M10 Gen 3,True,True,True,False,False,False,2022,September,460.0,239.8,158.6,8.5,10.1,77.8,1200,1920,16:10,224,Android 11,8
+Lenovo246,Tab M10 HD Gen 2,True,True,True,False,False,False,2020,August 31,420.0,241.5,149.4,8.3,10.1,82.0,800,1280,16:10,149,Android 10,8
+Lenovo246,Tab M10 Plus (3rd Gen),True,True,True,False,False,False,2022,May,465.0,251.2,158.8,7.5,10.61,80.3,1200,2000,5:3,220,Android 12,8
+Lenovo246,Tab M11,True,True,True,False,False,False,2024,January 09,465.0,166.3,225.3,7.2,11.0,93.6,1200,1920,16:10,206,Android 13,8
+Lenovo246,Tab M7,True,True,True,False,False,False,2019,September,236.0,176.3,102.9,8.3,7.0,76.0,600,1024,16:9,170,Android 9.0 ,4
+Lenovo246,Tab M7 (3rd Gen),True,True,True,False,False,False,2021,June 28,237.0,176.2,102.3,8.3,7.0,76.5,600,1024,16:9,170,Android 11 ,8
+Lenovo246,Tab M8 (3rd Gen),True,True,True,False,False,False,2021,June 28,305.0,199.1,121.8,8.2,8.0,76.5,800,1280,16:10,189,Android 11 ,8
+Lenovo246,Tab M8 (4th Gen),True,True,True,False,False,False,2023,April 22,320.0,197.8,119.8,9,8.0,78.3,800,1280,16:10,189,Android 13,8
+Lenovo246,Tab M8 (FHD),True,True,True,False,False,False,2019,September,305.0,198.2,122.6,8.2,8.0,76.4,1200,1920,16:10,283,Android 9.0 ,8
+Lenovo246,Tab M8 (HD),True,True,True,False,False,False,2019,September,305.0,199.1,121.8,8.2,8.0,76.5,800,1280,16:10,189,Android 9.0 ,4
+Lenovo246,Tab M9,True,True,True,False,False,False,2022,December 20,344.0,215.4,136.8,8,9.0,78.1,800,1340,5:3,173,Android 12,8
+Lenovo246,Tab P11,True,True,True,False,False,False,2021,January 07,490.0,258.4,163,7.5,11.0,81.8,1200,2000,5:3,212,Android 10,8
+Lenovo246,Tab P11 5G,True,True,True,True,False,False,2021,September 08,520.0,258,163,7.9,11.0,81.9,1200,2000,5:3,212,Android 11,8
+Lenovo246,Tab P11 Gen 2,True,True,True,False,False,False,2022,September 01,520.0,269.1,169.4,7.4,11.5,82.6,1200,2000,5:3,203,Android 12L,8
+Lenovo246,Tab P11 Plus,True,True,True,False,False,False,2021,June 28,490.0,258.4,163,7.5,11.0,81.8,1200,2000,5:3,212,Android 11,8
+Lenovo246,Tab P11 Pro,True,True,True,False,False,False,2020,August 31,485.0,264.3,171.4,6.9,11.5,84.6,1600,2560,16:10,263,Android 10,8
+Lenovo246,Tab P11 Pro Gen 2,True,True,True,False,False,False,2022,September 01,480.0,263.7,166.7,6.8,11.2,81.2,1536,2560,5:3,267,Android 12,8
+Lenovo246,Tab P12,False,False,False,False,False,False,2023,July 28,615.0,293.3,190.7,6.9,12.7,83.6,1840,2944,16:10,273,Android 13,8
+Lenovo246,Tab P12 Pro,True,True,True,True,False,False,2021,September 08,565.0,285.6,184.5,5.6,12.6,87.4,1600,2560,16:10,240,Android 11,8
+Lenovo246,Tab S8,True,True,True,False,True,True,2014,"September. Released 2014, September",299.0,209.8,123.8,7.9,8.0,71.4,1200,1920,16:10,283,Android 4.4.2 ,4
+Lenovo246,Tab V7,True,True,True,False,False,False,2019,February,195.0,177.9,86.5,7.9,6.95,79.6,1080,2160,18:9,350,Android 9.0 ,8
+Lenovo246,Tab3 10,True,True,False,False,False,False,2016,"February. Released 2016, June",509.0,247,171,8.9,10.1,70.0,1920,1200,16:10,224,Android 6.0.1 ,4
+Lenovo246,Tab3 7,True,True,True,False,False,False,2016,"February. Released 2016, April",260.0,191,100,8.8,7.0,72.2,600,1024,16:9,170,Android 6.0 ,4
+Lenovo246,Tab3 8,True,True,True,False,False,False,2016,"February. Released 2016, June",329.0,210,125,8.9,8.0,70.7,800,1280,16:10,189,Android 6.0.1 ,4
+Lenovo246,Tab3 8 Plus,True,True,True,False,False,False,2017,March,329.0,210,125,8.9,8.0,70.7,1200,1920,16:10,283,Android 6.0.1 ,8
+Lenovo246,ThinkPad,False,True,False,False,False,False,2011,"June. Released 2011, July",730.0,260,181.7,14,10.1,62.6,800,1280,16:10,149,Android 3.1 ,2
+Lenovo246,Vibe A,True,True,False,False,False,False,2016,"July. Released 2016, July",132.0,124.5,64,10.6,4.0,57.2,480,800,5:3,233,Android 5.1 ,4
+Lenovo246,Vibe C,True,True,True,False,False,False,2016,"May. Released 2016, May",166.0,143.5,71.8,9,5.0,66.9,480,854,16:9,196,Android 5.1.1 ,4
+Lenovo246,Vibe K4 Note,True,True,True,False,False,False,2016,"January 05. Released 2016, January 05",158.0,153.6,76.5,9.2,5.5,71.0,1080,1920,16:9,401,Android 5.1.1 ,8
+Lenovo246,Vibe K5,True,True,True,False,False,False,2016,"February 21. Released 2016, June 13",142.0,142,71,8,5.0,68.4,720,1280,16:9,294,Android 5.1 ,8
+Lenovo246,Vibe K5 Plus,True,True,True,False,False,False,2016,"February. Released 2016, April",142.0,142,71,8,5.0,68.4,1080,1920,16:9,441,Android 5.1 ,8
+Lenovo246,Vibe P1,True,True,True,False,False,False,2015,"September. Released 2015, October",189.0,152.9,75.6,9.9,5.5,72.1,1080,1920,16:9,401,Android 5.1 ,8
+Lenovo246,Vibe P1 Turbo,True,True,True,False,False,False,2016,"February. Released 2016, February",189.0,152.9,75.6,9.9,5.5,72.1,1080,1920,16:9,401,Android 5.1 ,8
+Lenovo246,Vibe P1m,True,True,True,False,False,False,2015,"September. Released 2015, October",148.0,141,71.8,9.3,5.0,68.1,720,1280,16:9,294,Android 5.1 ,4
+Lenovo246,Vibe S1,True,True,True,False,False,False,2015,"September. Released 2015, November",132.0,143.3,70.8,7.8,5.0,67.9,1080,1920,16:9,441,Android 5.0 ,8
+Lenovo246,Vibe S1 Lite,True,True,True,False,False,False,2016,"January. Released 2016, May",129.0,145,71,8.6,5.0,66.9,1080,1920,16:9,441,Android 5.1 ,8
+Lenovo246,Vibe Shot,True,True,True,False,False,False,2015,"March. Released 2015, June",145.0,142,70,7.3,5.0,69.3,1080,1920,16:9,441,Android 5.0.2 ,8
+Lenovo246,Vibe X S960,True,True,False,False,False,False,2013,"September. Released 2013, December",121.0,144,74,6.9,5.0,64.7,1080,1920,16:9,441,Android 4.2 ,4
+Lenovo246,Vibe X2,True,True,True,False,False,False,2014,"September. Released 2014, October",120.0,140.2,68.6,7.3,5.0,71.7,1080,1920,16:9,441,Android 4.4 ,8
+Lenovo246,Vibe X2 Pro,True,True,True,False,False,False,2015,"January. Released 2015, April",140.0,146.3,71,7,5.3,74.6,1080,1920,16:9,416,Android 4.4 ,8
+Lenovo246,Vibe X3,True,True,True,False,False,False,2015,"November. Released 2015, December",175.0,154,76.5,9.3,5.5,70.8,1080,1920,16:9,401,Android 5.1 ,None
+Lenovo246,Vibe X3 c78,True,True,True,False,False,False,2015,"November. Released 2015, December",None,153.6,76.5,9.2,5.5,71.0,1080,1920,16:9,401,Android 5.1 ,8
+Lenovo246,Vibe Z K910,True,True,True,False,False,False,2013,"November. Released 2013, November",145.2,149.1,77,7.9,5.5,72.6,1080,1920,16:9,401,Android 4.3 ,4
+Lenovo246,Vibe Z2,True,True,True,False,False,False,2014,"September. Released 2014, October",158.0,148.5,76.4,7.8,5.5,73.5,720,1280,16:9,267,Android 4.4 ,4
+Lenovo246,Vibe Z2 Pro,True,True,True,False,False,False,2014,"August. Released 2014, September",179.0,156,81.3,7.7,6.0,78.3,1440,2560,16:9,490,Android 4.4.2 ,4
+Lenovo246,Vibe Z3 Pro,True,True,True,False,False,False,2015,Q3,None,None,None,None,None,None,1440,2560,16:9,534,Android 5.0.2 ,8
+Lenovo246,Yoga Smart Tab,False,False,False,False,False,False,2019,October,580.0,None,None,None,10.1,73.6,1200,1920,16:10,224,Android 9.0 ,8
+Lenovo246,Yoga Tab 11,True,True,True,False,False,False,2021,June 28,655.0,None,None,None,11.0,79.4,1200,2000,5:3,212,Android 11,8
+Lenovo246,Yoga Tab 13,False,False,False,False,False,False,2021,May 24,830.0,None,None,None,13.0,56.7,1350,2160,16:10,196,Android 11,8
+Lenovo246,Yoga Tab 3 10,True,True,True,False,False,False,2016,None,655.0,253,185,9.5,10.1,63.2,800,1280,16:10,149,Android 6.0 ,4
+Lenovo246,Yoga Tab 3 8.0,False,False,False,False,False,False,2015,"October. Released 2015, October",467.2,209.8,145.8,7,8.0,60.7,800,1280,16:10,189,Android 5.1 ,4
+Lenovo246,Yoga Tab 3 Plus,True,True,True,False,False,False,2016,"September. Released 2016, December",637.0,None,None,None,10.1,66.9,1600,2560,16:10,299,Android 6.0.1 ,8
+Lenovo246,Yoga Tab 3 Pro,True,True,True,False,False,False,2015,December,666.8,246.9,179.1,4.7,10.1,66.9,1600,2560,16:10,299,Android 6.0 ,4
+Lenovo246,Yoga Tablet 10,True,True,False,False,False,False,2013,"October. Released 2013, November",605.0,261,180,8.1,10.1,63.0,1280,800,16:10,149,Android 4.2 ,4
+Lenovo246,Yoga Tablet 10 HD+,True,True,False,False,False,False,2014,"February. Released 2014, May",615.0,261,180,8.1,10.1,63.0,1200,1920,16:10,224,Android 4.3 ,4
+Lenovo246,Yoga Tablet 2 10.1,True,True,True,False,False,False,2014,"October. Released 2014, October",619.0,255,183,7.2,10.1,63.4,1920,1200,16:10,224,Android 4.4.2 ,4
+Lenovo246,Yoga Tablet 2 8.0 ,True,True,False,False,False,False,2014,"October. Released 2014, October",419.0,210,149,7,8.0,59.3,1200,1920,16:10,283,Android 4.4.2 ,4
+Lenovo246,Yoga Tablet 2 Pro,True,True,True,False,False,False,2014,"October. Released 2014, October",950.0,333,233,12.6,None,None,2560,1440,16:9,221,Android 4.4.2 ,4
+Lenovo246,Yoga Tablet 8,True,True,False,False,False,False,2013,"October. Released 2013, October",401.0,213,144,7.3,8.0,60.5,1280,800,16:10,189,Android 4.2 ,4
+Lenovo246,Z5,True,True,True,False,False,False,2018,June,165.0,153,75.7,7.9,6.2,83.6,1080,2246,7:9,402,Android 8.1 ,8
+Lenovo246,Z5 Pro,True,True,True,False,False,False,2018,November,210.0,155.1,73,9.3,6.39,88.5,1080,2340,5:9,403,Android 8.1 ,8
+Lenovo246,Z5 Pro GT,True,True,True,False,False,False,2018,December,210.0,155.1,73,9.3,6.39,88.5,1080,2340,5:9,403,Android 8.1 ,8
+Lenovo246,Z5s,True,True,True,False,False,False,2018,December 18,172.0,156.7,74.5,7.9,6.3,83.5,1080,2340,5:9,409,Android 9.0 ,8
+Lenovo246,Z6,True,True,True,False,False,False,2019,July 04,159.0,157,74.5,8,6.39,85.7,1080,2340,5:9,403,Android 9.0 ,8
+Lenovo246,Z6 Pro,True,True,True,False,False,False,2019,April 23,185.0,157.5,74.6,8.7,6.39,85.3,1080,2340,5:9,403,Android 9.0 ,8
+Lenovo246,Z6 Pro 5G,True,True,True,True,False,False,2019,June 26,185.0,157.5,74.6,8.7,6.39,85.3,1080,2340,5:9,403,Android 9.0 ,8
+Lenovo246,Z6 Youth,True,True,True,False,False,False,2019,May,164.0,156.6,74.3,7.9,6.3,83.7,1080,2340,5:9,409,Android 9.0 ,8
+Lenovo246,ZUK Edge,True,True,True,False,False,False,2016,"December. Released 2017, January",160.0,142.9,74.5,7.7,5.5,78.3,1080,1920,16:9,401,Android 7.0 ,4
+Lenovo246,ZUK Z1,True,True,True,False,False,False,2015,"August. Released 2015, September",175.0,155.7,77.3,8.9,5.5,69.3,None,None,None,None,Android 5.1.1 ,4
+Lenovo246,ZUK Z1 mini,True,True,True,False,False,False,2016,Q1,None,None,None,None,None,None,720,1280,16:9,312,Android 5.1.1 ,8
+Lenovo246,ZUK Z2,True,True,True,False,False,False,2016,"May. Released 2016, June",149.0,141.7,68.9,8.5,5.0,70.6,None,None,None,None,Android 6.0.1 ,4
+Lenovo246,ZUK Z2 Pro,True,True,True,False,False,False,2016,"April. Released 2016, June",145.0,145.4,70.5,7.5,5.2,72.7,1080,1920,16:9,424,Android 6.0.1 ,4
+Lenovo246,ideapad,False,False,False,False,False,False,None,None,360.0,215,130,9.3,8.0,66.4,800,1280,16:10,189,Microsoft Windows Phone 8.1,4
+Lenovo246,moto tab,True,True,True,False,False,False,2017,November,500.0,247,175,7.6,10.1,68.4,1200,1920,16:10,224,Android 7.0 ,8
